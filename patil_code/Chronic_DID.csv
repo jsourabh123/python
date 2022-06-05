@@ -1,0 +1,46 @@
+Disease,DiseaseID
+Gastroesophageal Reflux,1
+Pulmonary Fibrosis,2
+Hepatitis,3
+Diabetes Mellitus,4
+Arthritis,5
+"Pancreatitis, Chronic",6
+"Fatigue Syndrome, Chronic",7
+"Pulmonary Disease, Chronic Obstructive",8
+"Brain Damage, Chronic",9
+"Kidney Failure, Chronic",10
+Erythema Chronicum Migrans,11
+"Leukemia, Lymphocytic, Chronic, B-Cell",12
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",13
+"Leukemia, Myeloid, Chronic-Phase",14
+"Leukemia, Myelomonocytic, Chronic",15
+"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",16
+"Hematoma, Subdural, Chronic",17
+"Granulomatous Disease, Chronic",18
+"Renal Insufficiency, Chronic",19
+"Drug-Induced Liver Injury, Chronic",20
+Chronic Periodontitis,21
+"Brain Injury, Chronic",22
+"Jaundice, Chronic Idiopathic",23
+"Multiple Sclerosis, Chronic Progressive",24
+"Candidiasis, Chronic Mucocutaneous",25
+"Leukemia, Neutrophilic, Chronic",26
+"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",27
+"Bronchitis, Chronic",28
+Alzheimer Disease,29
+Asthma,30
+Liver Cirrhosis,31
+Epilepsy,32
+Acquired Immunodeficiency Syndrome,33
+Irritable Bowel Syndrome,34
+Osteoporosis,35
+Heart Diseases,36
+Adenocarcinoma,37
+"Carcinoma, Squamous Cell",38
+"Carcinoma, Ductal, Breast",39
+"Carcinoma, Lewis Lung",40
+Small Cell Lung Carcinoma,41
+Vertigo,42
+Depressive Disorder,43
+Stroke,44
+Ischemia,45

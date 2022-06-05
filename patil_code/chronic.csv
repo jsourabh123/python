@@ -1,0 +1,3630 @@
+Symptom,Disease,occurrence,Weightage
+Asthenia,Gastroesophageal Reflux,1,2.063219251
+Fever,Gastroesophageal Reflux,1,0.618937632
+Body Weight,Gastroesophageal Reflux,39,13.37652604
+Birth Weight,Gastroesophageal Reflux,3,4.221392829
+Weight Gain,Gastroesophageal Reflux,25,37.16724352
+Weight Loss,Gastroesophageal Reflux,32,32.00171876
+Overweight,Gastroesophageal Reflux,12,9.886465195
+Obesity,Gastroesophageal Reflux,120,99.9064382
+"Obesity, Morbid",Gastroesophageal Reflux,44,77.1293579
+Cyanosis,Gastroesophageal Reflux,5,8.717047938
+Edema,Gastroesophageal Reflux,6,3.575268565
+Fatigue,Gastroesophageal Reflux,2,2.276026311
+Heart Murmurs,Gastroesophageal Reflux,1,2.363417131
+Hypergammaglobulinemia,Gastroesophageal Reflux,1,1.679125164
+Dystonia,Gastroesophageal Reflux,11,16.89719937
+Torticollis,Gastroesophageal Reflux,26,56.02976399
+Psychomotor Agitation,Gastroesophageal Reflux,1,2.24256018
+"Akathisia, Drug-Induced",Gastroesophageal Reflux,2,6.221822899
+Tremor,Gastroesophageal Reflux,2,3.478705574
+Apraxias,Gastroesophageal Reflux,1,2.383774069
+Language Development Disorders,Gastroesophageal Reflux,1,2.486567189
+Speech Disorders,Gastroesophageal Reflux,1,1.152916561
+Aphasia,Gastroesophageal Reflux,2,3.621323629
+Dysarthria,Gastroesophageal Reflux,1,2.026585118
+Learning Disorders,Gastroesophageal Reflux,1,1.735312377
+Consciousness Disorders,Gastroesophageal Reflux,1,0.877129276
+Unconsciousness,Gastroesophageal Reflux,1,0.927972829
+Coma,Gastroesophageal Reflux,1,1.312084813
+Syncope,Gastroesophageal Reflux,10,14.90891428
+Mental Retardation,Gastroesophageal Reflux,40,36.21786736
+Perceptual Disorders,Gastroesophageal Reflux,1,1.386057366
+Psychomotor Disorders,Gastroesophageal Reflux,5,6.658204958
+Muscle Hypertonia,Gastroesophageal Reflux,1,1.480420128
+Muscle Spasticity,Gastroesophageal Reflux,1,1.727280206
+Muscle Hypotonia,Gastroesophageal Reflux,3,4.969533404
+Spasm,Gastroesophageal Reflux,9,12.30549724
+Pain,Gastroesophageal Reflux,48,15.81056201
+Low Back Pain,Gastroesophageal Reflux,2,3.180842046
+Facial Pain,Gastroesophageal Reflux,1,1.972328592
+Headache,Gastroesophageal Reflux,5,4.422821274
+Neck Pain,Gastroesophageal Reflux,1,1.958792007
+Neuralgia,Gastroesophageal Reflux,1,1.538314106
+"Pain, Referred",Gastroesophageal Reflux,1,4.00354799
+Paralysis,Gastroesophageal Reflux,3,1.453414132
+Gastroparesis,Gastroesophageal Reflux,15,49.46246107
+Hemiplegia,Gastroesophageal Reflux,1,1.294632363
+Paraplegia,Gastroesophageal Reflux,3,3.832437851
+Quadriplegia,Gastroesophageal Reflux,4,5.476558678
+Vocal Cord Paralysis,Gastroesophageal Reflux,6,11.92667726
+"Paraparesis, Spastic",Gastroesophageal Reflux,1,3.17120368
+Psychophysiologic Disorders,Gastroesophageal Reflux,26,38.54514649
+"Reflex, Abnormal",Gastroesophageal Reflux,3,4.221392829
+Seizures,Gastroesophageal Reflux,6,5.071001553
+Sensation Disorders,Gastroesophageal Reflux,7,2.40325333
+Dizziness,Gastroesophageal Reflux,1,1.342471422
+Hearing Disorders,Gastroesophageal Reflux,1,0.735016575
+Hearing Loss,Gastroesophageal Reflux,1,0.803550545
+"Hearing Loss, Sensorineural",Gastroesophageal Reflux,1,1.21485586
+Olfaction Disorders,Gastroesophageal Reflux,1,2.288230217
+Somatosensory Disorders,Gastroesophageal Reflux,2,2.09106214
+Hyperalgesia,Gastroesophageal Reflux,7,16.75877054
+Hypesthesia,Gastroesophageal Reflux,1,1.721961044
+Sleep Disorders,Gastroesophageal Reflux,53,79.12894222
+Sleep Deprivation,Gastroesophageal Reflux,2,5.151824578
+Voice Disorders,Gastroesophageal Reflux,43,71.60552703
+Dysphonia,Gastroesophageal Reflux,2,6.899027224
+Hoarseness,Gastroesophageal Reflux,61,135.1837423
+Abdominal Pain,Gastroesophageal Reflux,30,25.45451034
+"Abdomen, Acute",Gastroesophageal Reflux,1,1.43760013
+Colic,Gastroesophageal Reflux,11,23.48222048
+Chest Pain,Gastroesophageal Reflux,226,248.5007477
+Angina Pectoris,Gastroesophageal Reflux,27,39.22245106
+"Angina, Unstable",Gastroesophageal Reflux,1,2.24256018
+Earache,Gastroesophageal Reflux,2,5.635848649
+"Pain, Postoperative",Gastroesophageal Reflux,2,3.355710645
+Aerophagy,Gastroesophageal Reflux,10,40.70687293
+Anorexia,Gastroesophageal Reflux,5,9.12630307
+Constipation,Gastroesophageal Reflux,32,51.00529579
+Diarrhea,Gastroesophageal Reflux,18,16.61738636
+Dyspepsia,Gastroesophageal Reflux,217,451.8053273
+Eructation,Gastroesophageal Reflux,31,123.3150723
+Flatulence,Gastroesophageal Reflux,6,18.82720356
+Gagging,Gastroesophageal Reflux,7,26.12563027
+Halitosis,Gastroesophageal Reflux,3,9.724223815
+Heartburn,Gastroesophageal Reflux,534,1696.448269
+Hiccup,Gastroesophageal Reflux,18,53.16706558
+Hyperphagia,Gastroesophageal Reflux,3,7.197955269
+Bulimia,Gastroesophageal Reflux,10,27.63857103
+Nausea,Gastroesophageal Reflux,19,21.63630841
+Postoperative Nausea and Vomiting,Gastroesophageal Reflux,1,3.420099727
+Vomiting,Gastroesophageal Reflux,180,151.8322798
+Hematemesis,Gastroesophageal Reflux,5,10.42930864
+Morning Sickness,Gastroesophageal Reflux,1,2.850185187
+Anoxia,Gastroesophageal Reflux,6,6.01193143
+Apnea,Gastroesophageal Reflux,84,157.6305283
+Cough,Gastroesophageal Reflux,311,408.880766
+Dyspnea,Gastroesophageal Reflux,20,20.10443363
+"Dyspnea, Paroxysmal",Gastroesophageal Reflux,4,15.00893425
+Hemoptysis,Gastroesophageal Reflux,2,3.394148727
+Hypercapnia,Gastroesophageal Reflux,1,2.110983822
+Hypoventilation,Gastroesophageal Reflux,1,2.521353305
+Respiratory Aspiration,Gastroesophageal Reflux,24,79.92176581
+Respiratory Sounds,Gastroesophageal Reflux,44,72.12785044
+Snoring,Gastroesophageal Reflux,7,19.32073328
+"Purpura, Thrombocytopenic",Gastroesophageal Reflux,1,1.414905521
+"Urinary Bladder, Overactive",Gastroesophageal Reflux,1,3.543332367
+Fever,Pulmonary Fibrosis,16,9.903002117
+Fever of Unknown Origin,Pulmonary Fibrosis,3,4.41946475
+Hypothermia,Pulmonary Fibrosis,1,1.945436215
+Body Weight,Pulmonary Fibrosis,71,24.35213715
+Weight Gain,Pulmonary Fibrosis,5,7.433448703
+Weight Loss,Pulmonary Fibrosis,8,8.000429691
+Obesity,Pulmonary Fibrosis,2,1.665107303
+Cyanosis,Pulmonary Fibrosis,16,27.8945534
+Edema,Pulmonary Fibrosis,4,2.383512376
+Eye Manifestations,Pulmonary Fibrosis,1,1.507876974
+Fatigue,Pulmonary Fibrosis,3,3.414039467
+Hypergammaglobulinemia,Pulmonary Fibrosis,16,26.86600262
+Neurologic Manifestations,Pulmonary Fibrosis,3,0.20982424
+Cerebellar Ataxia,Pulmonary Fibrosis,1,1.708785623
+Coma,Pulmonary Fibrosis,2,2.624169626
+Mental Retardation,Pulmonary Fibrosis,2,1.810893368
+Psychomotor Disorders,Pulmonary Fibrosis,1,1.331640992
+Muscle Weakness,Pulmonary Fibrosis,1,0.992991082
+Trismus,Pulmonary Fibrosis,1,2.597960426
+Pain,Pulmonary Fibrosis,1,0.329386709
+Headache,Pulmonary Fibrosis,3,2.653692764
+"Pain, Intractable",Pulmonary Fibrosis,1,1.992983371
+Paralysis,Pulmonary Fibrosis,1,0.484471377
+Respiratory Paralysis,Pulmonary Fibrosis,1,2.489420258
+Vocal Cord Paralysis,Pulmonary Fibrosis,2,3.975559087
+Seizures,Pulmonary Fibrosis,2,1.690333851
+Dizziness,Pulmonary Fibrosis,2,2.684942845
+"Hearing Loss, Sensorineural",Pulmonary Fibrosis,1,1.21485586
+Tinnitus,Pulmonary Fibrosis,2,3.948067245
+Vision Disorders,Pulmonary Fibrosis,1,0.663489432
+Blindness,Pulmonary Fibrosis,1,1.098138355
+Photophobia,Pulmonary Fibrosis,1,2.854291969
+Sleep Disorders,Pulmonary Fibrosis,1,1.49299891
+Vertigo,Pulmonary Fibrosis,2,3.192503886
+Arthralgia,Pulmonary Fibrosis,1,1.4773
+Chest Pain,Pulmonary Fibrosis,1,1.09956083
+Angina Pectoris,Pulmonary Fibrosis,3,4.358050118
+Diarrhea,Pulmonary Fibrosis,4,3.692752524
+"Diarrhea, Infantile",Pulmonary Fibrosis,1,2.281245322
+Heartburn,Pulmonary Fibrosis,1,3.176869417
+Hematemesis,Pulmonary Fibrosis,1,2.085861728
+Anoxia,Pulmonary Fibrosis,71,71.14118859
+Apnea,Pulmonary Fibrosis,2,3.753107817
+Cough,Pulmonary Fibrosis,27,35.49768708
+Dyspnea,Pulmonary Fibrosis,155,155.8093606
+Hemoptysis,Pulmonary Fibrosis,15,25.45611545
+Hypercapnia,Pulmonary Fibrosis,5,10.55491911
+Hyperoxia,Pulmonary Fibrosis,10,29.49190711
+Hyperventilation,Pulmonary Fibrosis,5,10.52565073
+Mouth Breathing,Pulmonary Fibrosis,1,3.2293596
+Respiratory Aspiration,Pulmonary Fibrosis,1,3.330073575
+Respiratory Sounds,Pulmonary Fibrosis,24,39.34246388
+Snoring,Pulmonary Fibrosis,1,2.760104754
+Skin Manifestations,Pulmonary Fibrosis,1,0.612357218
+Jaundice,Pulmonary Fibrosis,2,2.909423542
+Purpura,Pulmonary Fibrosis,1,1.063218606
+"Purpura, Hyperglobulinemic",Pulmonary Fibrosis,2,7.349049155
+"Purpura, Thrombocytopenic",Pulmonary Fibrosis,1,1.414905521
+"Purpura, Thrombocytopenic, Idiopathic",Pulmonary Fibrosis,2,3.86778891
+Polyuria,Pulmonary Fibrosis,1,2.360901407
+Proteinuria,Pulmonary Fibrosis,2,2.497955547
+Asthenia,Hepatitis,5,10.31609626
+Fever,Hepatitis,65,40.2309461
+Fever of Unknown Origin,Hepatitis,27,39.77518275
+Body Weight,Hepatitis,23,7.888720484
+Birth Weight,Hepatitis,9,12.66417849
+Weight Gain,Hepatitis,2,2.973379481
+Weight Loss,Hepatitis,14,14.00075196
+Cachexia,Hepatitis,1,1.994724016
+Overweight,Hepatitis,2,1.647744199
+Obesity,Hepatitis,98,81.59025786
+"Obesity, Morbid",Hepatitis,16,28.04703924
+"Cardiac Output, Low",Hepatitis,7,14.99956955
+Cyanosis,Hepatitis,6,10.46045753
+Edema,Hepatitis,14,8.342293317
+Hydrops Fetalis,Hepatitis,2,4.682000505
+Eye Manifestations,Hepatitis,6,9.047261843
+Fatigue,Hepatitis,7,7.966092089
+Fetal Distress,Hepatitis,1,2.588451638
+Hypergammaglobulinemia,Hepatitis,31,52.05288007
+Neurologic Manifestations,Hepatitis,27,1.888418156
+Ataxia,Hepatitis,3,3.658979138
+Cerebellar Ataxia,Hepatitis,1,1.708785623
+Athetosis,Hepatitis,1,2.582162309
+Tremor,Hepatitis,2,3.478705574
+Speech Disorders,Hepatitis,1,1.152916561
+Learning Disorders,Hepatitis,3,5.205937132
+Confusion,Hepatitis,2,3.017896423
+Delirium,Hepatitis,1,2.08395515
+Unconsciousness,Hepatitis,3,2.783918488
+Coma,Hepatitis,19,24.92961144
+Syncope,Hepatitis,2,2.981782855
+Memory Disorders,Hepatitis,1,1.467997608
+Mental Retardation,Hepatitis,17,15.39259363
+Agnosia,Hepatitis,1,2.536212419
+Hallucinations,Hepatitis,1,1.723288184
+Psychomotor Disorders,Hepatitis,2,2.663281983
+Muscle Weakness,Hepatitis,3,2.978973245
+Myotonia,Hepatitis,2,6.108097175
+Pain,Hepatitis,25,8.234667716
+Back Pain,Hepatitis,1,1.146928519
+Low Back Pain,Hepatitis,1,1.590421023
+Headache,Hepatitis,5,4.422821274
+Neck Pain,Hepatitis,1,1.958792007
+Neuralgia,Hepatitis,1,1.538314106
+Paralysis,Hepatitis,4,1.93788551
+Facial Paralysis,Hepatitis,3,4.071290735
+Hemiplegia,Hepatitis,1,1.294632363
+Quadriplegia,Hepatitis,1,1.369139669
+Paresis,Hepatitis,1,1.287735784
+Psychophysiologic Disorders,Hepatitis,4,5.930022537
+"Reflex, Abnormal",Hepatitis,2,2.814261886
+Seizures,Hepatitis,14,11.83233696
+Sensation Disorders,Hepatitis,1,0.343321904
+Hearing Disorders,Hepatitis,2,1.47003315
+Hearing Loss,Hepatitis,1,0.803550545
+Deafness,Hepatitis,2,2.457054326
+Olfaction Disorders,Hepatitis,1,2.288230217
+Hypesthesia,Hepatitis,1,1.721961044
+Paresthesia,Hepatitis,2,2.716036292
+Vision Disorders,Hepatitis,1,0.663489432
+Blindness,Hepatitis,2,2.19627671
+Diplopia,Hepatitis,1,1.644165299
+Sleep Disorders,Hepatitis,2,2.98599782
+Sleep Deprivation,Hepatitis,2,5.151824578
+Hoarseness,Hepatitis,1,2.216126923
+Oral Manifestations,Hepatitis,4,7.463105131
+Abdominal Pain,Hepatitis,29,24.60602667
+"Abdomen, Acute",Hepatitis,12,17.25120157
+Colic,Hepatitis,1,2.134747316
+Arthralgia,Hepatitis,3,4.431900001
+Shoulder Pain,Hepatitis,1,2.420427386
+Chest Pain,Hepatitis,2,2.199121661
+Angina Pectoris,Hepatitis,3,4.358050118
+Pelvic Pain,Hepatitis,1,2.041078125
+Anorexia,Hepatitis,2,3.650521228
+Diarrhea,Hepatitis,12,11.07825757
+"Diarrhea, Infantile",Hepatitis,2,4.562490644
+Dyspepsia,Hepatitis,12,24.98462639
+Nausea,Hepatitis,5,5.693765371
+Vomiting,Hepatitis,8,6.748101323
+Hematemesis,Hepatitis,3,6.257585183
+Hyperemesis Gravidarum,Hepatitis,4,11.50033095
+Anoxia,Hepatitis,31,31.06164572
+Cough,Hepatitis,3,3.944187453
+Dyspnea,Hepatitis,2,2.010443363
+Hyperventilation,Hepatitis,2,4.210260293
+Respiratory Sounds,Hepatitis,1,1.639269328
+Skin Manifestations,Hepatitis,13,7.960643835
+Ecchymosis,Hepatitis,1,2.299981233
+Jaundice,Hepatitis,428,622.616638
+"Jaundice, Obstructive",Hepatitis,52,129.8974889
+Pruritus,Hepatitis,20,29.31884217
+Purpura,Hepatitis,14,14.88506048
+"Purpura, Hyperglobulinemic",Hepatitis,3,11.02357373
+"Purpura, Schoenlein-Henoch",Hepatitis,5,9.991072104
+"Purpura, Thrombocytopenic",Hepatitis,16,22.63848833
+"Purpura, Thrombocytopenic, Idiopathic",Hepatitis,10,19.33894455
+"Purpura, Thrombotic Thrombocytopenic",Hepatitis,2,4.368077216
+Oliguria,Hepatitis,1,2.614012135
+Proteinuria,Hepatitis,10,12.48977774
+Albuminuria,Hepatitis,1,2.065086665
+Hemoglobinuria,Hepatitis,3,8.650564821
+Virilism,Hepatitis,1,2.227055993
+Hirsutism,Hepatitis,1,2.483722237
+Fever,Diabetes Mellitus,5,3.094688161
+Hypothermia,Diabetes Mellitus,3,5.836308646
+Body Weight,Diabetes Mellitus,1100,377.2866319
+Birth Weight,Diabetes Mellitus,76,106.9419517
+Fetal Macrosomia,Diabetes Mellitus,15,50.05077177
+Weight Gain,Diabetes Mellitus,97,144.2089048
+Weight Loss,Diabetes Mellitus,217,217.0116554
+Emaciation,Diabetes Mellitus,1,1.832640721
+Cachexia,Diabetes Mellitus,7,13.96306811
+Overweight,Diabetes Mellitus,26,21.42067459
+Obesity,Diabetes Mellitus,3255,2709.962136
+"Obesity, Morbid",Diabetes Mellitus,40,70.11759809
+Thinness,Diabetes Mellitus,32,85.45918752
+"Cardiac Output, Low",Diabetes Mellitus,4,8.571182598
+Edema,Diabetes Mellitus,30,17.87634282
+Eye Manifestations,Diabetes Mellitus,17,25.63390856
+Fatigue,Diabetes Mellitus,11,12.51814471
+Feminization,Diabetes Mellitus,1,3.762385933
+Fetal Distress,Diabetes Mellitus,2,5.176903276
+Flushing,Diabetes Mellitus,1,2.614012135
+Hypergammaglobulinemia,Diabetes Mellitus,1,1.679125164
+Intermittent Claudication,Diabetes Mellitus,14,31.05624483
+Mobility Limitation,Diabetes Mellitus,8,22.11085683
+Neurologic Manifestations,Diabetes Mellitus,16,1.119062611
+Dyskinesias,Diabetes Mellitus,4,2.991808315
+Ataxia,Diabetes Mellitus,3,3.658979138
+Cerebellar Ataxia,Diabetes Mellitus,7,11.96149936
+Chorea,Diabetes Mellitus,4,7.971933485
+Dystonia,Diabetes Mellitus,2,3.072218067
+Torticollis,Diabetes Mellitus,1,2.154990923
+Myoclonus,Diabetes Mellitus,1,1.775070869
+Tremor,Diabetes Mellitus,1,1.739352787
+"Gait Disorders, Neurologic",Diabetes Mellitus,2,3.48953104
+Catatonia,Diabetes Mellitus,1,2.701906514
+Language Disorders,Diabetes Mellitus,1,1.077736663
+Dysarthria,Diabetes Mellitus,1,2.026585118
+Confusion,Diabetes Mellitus,2,3.017896423
+Consciousness Disorders,Diabetes Mellitus,1,0.877129276
+Unconsciousness,Diabetes Mellitus,2,1.855945658
+Coma,Diabetes Mellitus,15,19.68127219
+Syncope,Diabetes Mellitus,3,4.472674283
+Memory Disorders,Diabetes Mellitus,5,7.339988038
+Amnesia,Diabetes Mellitus,1,2.171486142
+Mental Retardation,Diabetes Mellitus,9,8.149020157
+Psychomotor Disorders,Diabetes Mellitus,1,1.331640992
+Muscle Rigidity,Diabetes Mellitus,2,4.803865607
+Muscle Hypotonia,Diabetes Mellitus,1,1.656511135
+Muscle Weakness,Diabetes Mellitus,4,3.971964327
+Muscular Atrophy,Diabetes Mellitus,20,29.21643539
+Spasm,Diabetes Mellitus,1,1.367277472
+Tetany,Diabetes Mellitus,1,2.381206673
+Pain,Diabetes Mellitus,57,18.77504239
+Back Pain,Diabetes Mellitus,1,1.146928519
+Low Back Pain,Diabetes Mellitus,2,3.180842046
+Headache,Diabetes Mellitus,6,5.307385528
+Neuralgia,Diabetes Mellitus,2,3.076628212
+Sciatica,Diabetes Mellitus,1,2.169409298
+"Pain, Intractable",Diabetes Mellitus,1,1.992983371
+Paralysis,Diabetes Mellitus,3,1.453414132
+Facial Paralysis,Diabetes Mellitus,3,4.071290735
+Gastroparesis,Diabetes Mellitus,28,92.32992734
+Hemiplegia,Diabetes Mellitus,3,3.883897089
+Ophthalmoplegia,Diabetes Mellitus,9,11.96862542
+"Ophthalmoplegia, Chronic Progressive External",Diabetes Mellitus,5,18.23436523
+Quadriplegia,Diabetes Mellitus,1,1.369139669
+Paresis,Diabetes Mellitus,3,3.863207351
+Psychophysiologic Disorders,Diabetes Mellitus,24,35.58013522
+Pupil Disorders,Diabetes Mellitus,3,5.23836988
+Miosis,Diabetes Mellitus,1,2.095449529
+"Reflex, Abnormal",Diabetes Mellitus,8,11.25704754
+Seizures,Diabetes Mellitus,10,8.451669255
+Sensation Disorders,Diabetes Mellitus,4,1.373287617
+Dizziness,Diabetes Mellitus,11,14.76718565
+Hearing Disorders,Diabetes Mellitus,11,8.085182325
+Hearing Loss,Diabetes Mellitus,8,6.428404357
+Deafness,Diabetes Mellitus,98,120.395662
+"Hearing Loss, Bilateral",Diabetes Mellitus,3,6.635365563
+"Hearing Loss, High-Frequency",Diabetes Mellitus,2,6.211212794
+"Hearing Loss, Sensorineural",Diabetes Mellitus,30,36.44567581
+Olfaction Disorders,Diabetes Mellitus,2,4.576460433
+Hyperalgesia,Diabetes Mellitus,2,4.788220156
+Hyperesthesia,Diabetes Mellitus,1,2.694864232
+Hypesthesia,Diabetes Mellitus,2,3.443922088
+Paresthesia,Diabetes Mellitus,6,8.148108877
+Taste Disorders,Diabetes Mellitus,10,23.76091572
+Ageusia,Diabetes Mellitus,1,3.585179477
+Vision Disorders,Diabetes Mellitus,21,13.93327807
+Amblyopia,Diabetes Mellitus,1,2.56352823
+Blindness,Diabetes Mellitus,29,31.8460123
+Color Vision Defects,Diabetes Mellitus,4,10.26643959
+Diplopia,Diabetes Mellitus,1,1.644165299
+Hemianopsia,Diabetes Mellitus,1,2.082052199
+"Vision, Low",Diabetes Mellitus,3,6.76813059
+Sleep Disorders,Diabetes Mellitus,8,11.94399128
+Sleep Deprivation,Diabetes Mellitus,5,12.87956144
+"Urinary Bladder, Neurogenic",Diabetes Mellitus,6,12.46954277
+Vertigo,Diabetes Mellitus,10,15.96251943
+Oral Manifestations,Diabetes Mellitus,17,31.71819681
+Oral Hemorrhage,Diabetes Mellitus,2,5.151824578
+Abdominal Pain,Diabetes Mellitus,9,7.636353103
+"Abdomen, Acute",Diabetes Mellitus,6,8.625600783
+Arthralgia,Diabetes Mellitus,1,1.4773
+Shoulder Pain,Diabetes Mellitus,2,4.840854772
+Chest Pain,Diabetes Mellitus,5,5.497804152
+Angina Pectoris,Diabetes Mellitus,36,52.29660142
+Acute Coronary Syndrome,Diabetes Mellitus,21,54.55716895
+"Angina, Unstable",Diabetes Mellitus,15,33.6384027
+Toothache,Diabetes Mellitus,1,2.730582314
+"Pain, Postoperative",Diabetes Mellitus,2,3.355710645
+Anorexia,Diabetes Mellitus,1,1.825260614
+Constipation,Diabetes Mellitus,10,15.93915494
+Diarrhea,Diabetes Mellitus,36,33.23477272
+Dyspepsia,Diabetes Mellitus,11,22.90257419
+Flatulence,Diabetes Mellitus,2,6.275734519
+Halitosis,Diabetes Mellitus,1,3.241407938
+Hyperphagia,Diabetes Mellitus,9,21.59386581
+Bulimia,Diabetes Mellitus,3,8.29157131
+Nausea,Diabetes Mellitus,11,12.52628382
+Vomiting,Diabetes Mellitus,11,9.27863932
+Hematemesis,Diabetes Mellitus,2,4.171723456
+Anoxia,Diabetes Mellitus,30,30.05965715
+Apnea,Diabetes Mellitus,3,5.629661725
+Cough,Diabetes Mellitus,3,3.944187453
+Dyspnea,Diabetes Mellitus,3,3.015665045
+Hypercapnia,Diabetes Mellitus,3,6.332951466
+Hyperoxia,Diabetes Mellitus,1,2.949190711
+Hyperventilation,Diabetes Mellitus,1,2.105130147
+Snoring,Diabetes Mellitus,3,8.280314261
+Skin Manifestations,Diabetes Mellitus,21,12.85950158
+Jaundice,Diabetes Mellitus,4,5.818847084
+Necrolytic Migratory Erythema,Diabetes Mellitus,1,6.150128835
+Pruritus,Diabetes Mellitus,4,5.863768434
+Purpura,Diabetes Mellitus,2,2.126437212
+"Purpura, Thrombocytopenic",Diabetes Mellitus,4,5.659622082
+"Purpura, Thrombocytopenic, Idiopathic",Diabetes Mellitus,3,5.801683365
+Oliguria,Diabetes Mellitus,2,5.22802427
+Polyuria,Diabetes Mellitus,22,51.93983095
+Proteinuria,Diabetes Mellitus,170,212.3262215
+Albuminuria,Diabetes Mellitus,327,675.2833395
+Hemoglobinuria,Diabetes Mellitus,3,8.650564821
+"Urinary Bladder, Overactive",Diabetes Mellitus,1,3.543332367
+Urinary Incontinence,Diabetes Mellitus,5,8.087646708
+"Urinary Incontinence, Urge",Diabetes Mellitus,1,4.127845707
+Virilism,Diabetes Mellitus,1,2.227055993
+Hirsutism,Diabetes Mellitus,9,22.35350013
+Asthenia,Arthritis,3,6.189657753
+Fever,Arthritis,72,44.56350952
+Fever of Unknown Origin,Arthritis,10,14.73154917
+Hypothermia,Arthritis,1,1.945436215
+Body Weight,Arthritis,115,39.44360242
+Weight Gain,Arthritis,3,4.460069222
+Weight Loss,Arthritis,16,16.00085938
+Cachexia,Arthritis,5,9.973620079
+Overweight,Arthritis,1,0.8238721
+Obesity,Arthritis,56,46.62300449
+"Obesity, Morbid",Arthritis,6,10.51763971
+Chills,Arthritis,1,3.585179477
+Edema,Arthritis,185,110.2374474
+Hydrops Fetalis,Arthritis,1,2.341000253
+Eye Manifestations,Arthritis,11,16.58664671
+Fatigue,Arthritis,7,7.966092089
+Flushing,Arthritis,2,5.22802427
+Hypergammaglobulinemia,Arthritis,6,10.07475098
+Intermittent Claudication,Arthritis,1,2.218303202
+Mobility Limitation,Arthritis,4,11.05542841
+Neurologic Manifestations,Arthritis,3,0.20982424
+Decerebrate State,Arthritis,7,20.61273221
+Athetosis,Arthritis,1,2.582162309
+Chorea,Arthritis,8,15.94386697
+Torticollis,Arthritis,2,4.309981845
+Myoclonus,Arthritis,1,1.775070869
+Psychomotor Agitation,Arthritis,1,2.24256018
+Tremor,Arthritis,1,1.739352787
+Meningism,Arthritis,1,3.074353854
+Confusion,Arthritis,1,1.508948211
+Syncope,Arthritis,1,1.490891428
+Mental Retardation,Arthritis,5,4.52723342
+Psychomotor Disorders,Arthritis,2,2.663281983
+Muscle Cramp,Arthritis,4,8.970240719
+Muscle Rigidity,Arthritis,1,2.401932804
+Muscle Weakness,Arthritis,6,5.95794649
+Muscular Atrophy,Arthritis,7,10.22575239
+Myotonia,Arthritis,1,3.054048587
+Spasm,Arthritis,4,5.469109886
+Tetany,Arthritis,1,2.381206673
+Pain,Arthritis,479,157.7762334
+Back Pain,Arthritis,51,58.49335448
+Low Back Pain,Arthritis,24,38.17010455
+Facial Pain,Arthritis,11,21.69561452
+Headache,Arthritis,8,7.076514038
+Neck Pain,Arthritis,3,5.87637602
+Neuralgia,Arthritis,12,18.45976927
+Sciatica,Arthritis,12,26.03291158
+"Pain, Intractable",Arthritis,3,5.978950114
+Paralysis,Arthritis,8,3.87577102
+Facial Paralysis,Arthritis,1,1.357096912
+Hemiplegia,Arthritis,9,11.65169127
+Paraplegia,Arthritis,2,2.554958567
+Vocal Cord Paralysis,Arthritis,2,3.975559087
+Paresis,Arthritis,1,1.287735784
+Psychophysiologic Disorders,Arthritis,9,13.34255071
+Seizures,Arthritis,3,2.535500777
+Sensation Disorders,Arthritis,1,0.343321904
+Dizziness,Arthritis,4,5.36988569
+Hearing Disorders,Arthritis,2,1.47003315
+Hearing Loss,Arthritis,1,0.803550545
+Deafness,Arthritis,8,9.828217304
+"Hearing Loss, Bilateral",Arthritis,1,2.211788521
+"Hearing Loss, Conductive",Arthritis,1,2.267420217
+"Hearing Loss, Sensorineural",Arthritis,3,3.644567581
+Tinnitus,Arthritis,1,1.974033623
+Hyperalgesia,Arthritis,36,86.1879628
+Hypesthesia,Arthritis,1,1.721961044
+Paresthesia,Arthritis,7,9.506127023
+Vision Disorders,Arthritis,2,1.326978864
+Blindness,Arthritis,4,4.39255342
+Color Vision Defects,Arthritis,1,2.566609896
+Photophobia,Arthritis,1,2.854291969
+Scotoma,Arthritis,1,2.381206673
+"Vision, Low",Arthritis,1,2.25604353
+Sleep Disorders,Arthritis,7,10.45099237
+Vertigo,Arthritis,2,3.192503886
+Voice Disorders,Arthritis,1,1.665244815
+Aphonia,Arthritis,1,3.628854541
+Oral Manifestations,Arthritis,3,5.597328849
+Abdominal Pain,Arthritis,5,4.242418391
+"Abdomen, Acute",Arthritis,1,1.43760013
+Colic,Arthritis,2,4.269494633
+Arthralgia,Arthritis,81,119.6613
+Shoulder Pain,Arthritis,3,7.261282158
+Chest Pain,Arthritis,7,7.696925812
+Angina Pectoris,Arthritis,4,5.810733491
+"Pain, Postoperative",Arthritis,3,5.033565967
+Pelvic Pain,Arthritis,1,2.041078125
+Dysmenorrhea,Arthritis,1,2.760104754
+Anorexia,Arthritis,1,1.825260614
+Constipation,Arthritis,1,1.593915494
+Diarrhea,Arthritis,24,22.15651515
+Dyspepsia,Arthritis,4,8.328208798
+Hematemesis,Arthritis,1,2.085861728
+Anoxia,Arthritis,7,7.013920002
+Cough,Arthritis,1,1.314729151
+Dyspnea,Arthritis,5,5.026108408
+Hemoptysis,Arthritis,2,3.394148727
+Hyperventilation,Arthritis,1,2.105130147
+Skin Manifestations,Arthritis,21,12.85950158
+Ecchymosis,Arthritis,1,2.299981233
+Jaundice,Arthritis,2,2.909423542
+Pruritus,Arthritis,6,8.795652651
+Purpura,Arthritis,14,14.88506048
+"Purpura, Hyperglobulinemic",Arthritis,2,7.349049155
+"Purpura, Schoenlein-Henoch",Arthritis,16,31.97143073
+"Purpura, Thrombocytopenic",Arthritis,2,2.829811041
+Oliguria,Arthritis,1,2.614012135
+Proteinuria,Arthritis,15,18.7346666
+Albuminuria,Arthritis,1,2.065086665
+Urinary Incontinence,Arthritis,3,4.852588025
+Hirsutism,Arthritis,1,2.483722237
+"Aging, Premature","Pancreatitis, Chronic",1,3.46455149
+Asthenia,"Fatigue Syndrome, Chronic",8,16.50575401
+Asthenia,"Pulmonary Disease, Chronic Obstructive",1,2.063219251
+Asthenia,"Brain Damage, Chronic",1,2.063219251
+Asthenia,"Kidney Failure, Chronic",1,2.063219251
+Fever,Erythema Chronicum Migrans,2,1.237875265
+Fever,"Fatigue Syndrome, Chronic",11,6.808313955
+Fever,"Leukemia, Lymphocytic, Chronic, B-Cell",27,16.71131607
+Fever,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",14,8.665126852
+Fever,"Leukemia, Myeloid, Chronic-Phase",1,0.618937632
+Fever,"Leukemia, Myelomonocytic, Chronic",2,1.237875265
+Fever,"Pulmonary Disease, Chronic Obstructive",2,1.237875265
+Fever,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,0.618937632
+Fever,"Brain Damage, Chronic",9,5.570438691
+Fever,"Hematoma, Subdural, Chronic",1,0.618937632
+Fever,"Kidney Failure, Chronic",18,11.14087738
+Fever,"Granulomatous Disease, Chronic",7,4.332563426
+Fever of Unknown Origin,Erythema Chronicum Migrans,1,1.473154917
+Fever of Unknown Origin,"Fatigue Syndrome, Chronic",3,4.41946475
+Fever of Unknown Origin,"Leukemia, Lymphocytic, Chronic, B-Cell",8,11.78523933
+Fever of Unknown Origin,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.946309833
+Fever of Unknown Origin,"Kidney Failure, Chronic",6,8.8389295
+Fever of Unknown Origin,"Granulomatous Disease, Chronic",3,4.41946475
+Hypothermia,"Fatigue Syndrome, Chronic",1,1.945436215
+Hypothermia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.945436215
+Hypothermia,"Pulmonary Disease, Chronic Obstructive",1,1.945436215
+Hypothermia,"Brain Damage, Chronic",7,13.61805351
+Hypothermia,"Renal Insufficiency, Chronic",1,1.945436215
+Hypothermia,"Kidney Failure, Chronic",4,7.781744862
+Body Weight,"Fatigue Syndrome, Chronic",7,2.40091493
+Body Weight,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,1.371951389
+Body Weight,"Leukemia, Myeloid, Chronic-Phase",1,0.342987847
+Body Weight,"Drug-Induced Liver Injury, Chronic",1,0.342987847
+Body Weight,"Pancreatitis, Chronic",5,1.714939236
+Body Weight,Chronic Periodontitis,2,0.685975694
+Body Weight,"Pulmonary Disease, Chronic Obstructive",38,13.03353819
+Body Weight,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,0.342987847
+Body Weight,"Brain Damage, Chronic",15,5.144817707
+Body Weight,"Brain Injury, Chronic",1,0.342987847
+Body Weight,"Renal Insufficiency, Chronic",4,1.371951389
+Body Weight,"Kidney Failure, Chronic",636,218.1402708
+Body Weight,"Granulomatous Disease, Chronic",4,1.371951389
+Body Weight,"Jaundice, Chronic Idiopathic",1,0.342987847
+Birth Weight,Chronic Periodontitis,1,1.407130943
+Birth Weight,"Pulmonary Disease, Chronic Obstructive",2,2.814261886
+Birth Weight,"Brain Damage, Chronic",54,75.98507092
+Birth Weight,"Kidney Failure, Chronic",10,14.07130943
+Weight Gain,"Fatigue Syndrome, Chronic",1,1.486689741
+Weight Gain,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.486689741
+Weight Gain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,5.946758963
+Weight Gain,"Leukemia, Myeloid, Chronic-Phase",1,1.486689741
+Weight Gain,"Drug-Induced Liver Injury, Chronic",1,1.486689741
+Weight Gain,"Pancreatitis, Chronic",1,1.486689741
+Weight Gain,"Pulmonary Disease, Chronic Obstructive",11,16.35358715
+Weight Gain,"Renal Insufficiency, Chronic",2,2.973379481
+Weight Gain,"Kidney Failure, Chronic",100,148.6689741
+Weight Loss,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.000107423
+Weight Loss,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",3,3.000161134
+Weight Loss,"Pancreatitis, Chronic",6,6.000322268
+Weight Loss,"Pulmonary Disease, Chronic Obstructive",55,55.00295413
+Weight Loss,"Brain Damage, Chronic",2,2.000107423
+Weight Loss,"Brain Injury, Chronic",1,1.000053711
+Weight Loss,"Renal Insufficiency, Chronic",1,1.000053711
+Weight Loss,"Kidney Failure, Chronic",50,50.00268557
+Emaciation,"Pulmonary Disease, Chronic Obstructive",1,1.832640721
+Emaciation,"Brain Damage, Chronic",1,1.832640721
+Emaciation,"Kidney Failure, Chronic",2,3.665281443
+Cachexia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.994724016
+Cachexia,"Pancreatitis, Chronic",1,1.994724016
+Cachexia,"Pulmonary Disease, Chronic Obstructive",48,95.74675276
+Cachexia,"Renal Insufficiency, Chronic",1,1.994724016
+Cachexia,"Kidney Failure, Chronic",24,47.87337638
+Fetal Weight,"Brain Damage, Chronic",1,3.576668788
+Overweight,"Fatigue Syndrome, Chronic",1,0.8238721
+Overweight,"Leukemia, Lymphocytic, Chronic, B-Cell",1,0.8238721
+Overweight,"Pulmonary Disease, Chronic Obstructive",10,8.238720996
+Overweight,"Renal Insufficiency, Chronic",3,2.471616299
+Overweight,"Kidney Failure, Chronic",16,13.18195359
+Obesity,"Fatigue Syndrome, Chronic",6,4.99532191
+Obesity,"Leukemia, Lymphocytic, Chronic, B-Cell",2,1.665107303
+Obesity,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,1.665107303
+Obesity,"Pancreatitis, Chronic",3,2.497660955
+Obesity,Chronic Periodontitis,6,4.99532191
+Obesity,"Pulmonary Disease, Chronic Obstructive",47,39.13002163
+Obesity,"Brain Damage, Chronic",3,2.497660955
+Obesity,"Brain Injury, Chronic",1,0.832553652
+Obesity,"Renal Insufficiency, Chronic",18,14.98596573
+Obesity,"Kidney Failure, Chronic",200,166.5107303
+Obesity,"Granulomatous Disease, Chronic",1,0.832553652
+"Obesity, Morbid","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.752939952
+"Obesity, Morbid","Pulmonary Disease, Chronic Obstructive",3,5.258819857
+"Obesity, Morbid","Renal Insufficiency, Chronic",2,3.505879905
+"Obesity, Morbid","Kidney Failure, Chronic",18,31.55291914
+Thinness,"Pulmonary Disease, Chronic Obstructive",15,40.05899415
+Thinness,"Kidney Failure, Chronic",11,29.37659571
+Thinness,"Granulomatous Disease, Chronic",1,2.67059961
+"Cardiac Output, High","Kidney Failure, Chronic",3,11.50948172
+"Cardiac Output, Low","Fatigue Syndrome, Chronic",1,2.14279565
+"Cardiac Output, Low","Pulmonary Disease, Chronic Obstructive",6,12.8567739
+"Cardiac Output, Low","Brain Damage, Chronic",1,2.14279565
+"Cardiac Output, Low","Kidney Failure, Chronic",11,23.57075215
+Chills,"Leukemia, Lymphocytic, Chronic, B-Cell",2,7.170358955
+Chills,"Kidney Failure, Chronic",1,3.585179477
+Cyanosis,"Leukemia, Lymphocytic, Chronic, B-Cell",2,3.486819175
+Cyanosis,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,3.486819175
+Cyanosis,"Brain Damage, Chronic",1,1.743409588
+Cyanosis,"Kidney Failure, Chronic",3,5.230228763
+Edema,"Leukemia, Lymphocytic, Chronic, B-Cell",4,2.383512376
+Edema,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",19,11.32168379
+Edema,"Leukemia, Myeloid, Chronic-Phase",1,0.595878094
+Edema,"Pancreatitis, Chronic",2,1.191756188
+Edema,Chronic Periodontitis,1,0.595878094
+Edema,"Pulmonary Disease, Chronic Obstructive",8,4.767024753
+Edema,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,0.595878094
+Edema,"Brain Damage, Chronic",4,2.383512376
+Edema,"Renal Insufficiency, Chronic",1,0.595878094
+Edema,"Kidney Failure, Chronic",122,72.69712748
+Edema,"Granulomatous Disease, Chronic",2,1.191756188
+"Edema, Cardiac","Kidney Failure, Chronic",6,21.11423805
+Hydrops Fetalis,"Leukemia, Myelomonocytic, Chronic",1,2.341000253
+Hydrops Fetalis,"Brain Damage, Chronic",1,2.341000253
+Hydrops Fetalis,"Granulomatous Disease, Chronic",1,2.341000253
+Eye Manifestations,"Brain Damage, Chronic",1,1.507876974
+Eye Manifestations,"Kidney Failure, Chronic",11,16.58664671
+Eye Hemorrhage,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2.752642033
+Eye Hemorrhage,"Kidney Failure, Chronic",1,2.752642033
+Fatigue,"Fatigue Syndrome, Chronic",163,185.4961443
+Fatigue,"Leukemia, Lymphocytic, Chronic, B-Cell",15,17.07019733
+Fatigue,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",9,10.2421184
+Fatigue,"Leukemia, Myeloid, Chronic-Phase",1,1.138013156
+Fatigue,"Leukemia, Myelomonocytic, Chronic",1,1.138013156
+Fatigue,"Pulmonary Disease, Chronic Obstructive",42,47.79655253
+Fatigue,"Multiple Sclerosis, Chronic Progressive",18,20.4842368
+Fatigue,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",7,7.966092089
+Fatigue,"Brain Damage, Chronic",4,4.552052622
+Fatigue,"Brain Injury, Chronic",1,1.138013156
+Fatigue,"Renal Insufficiency, Chronic",1,1.138013156
+Fatigue,"Kidney Failure, Chronic",61,69.41880249
+Mental Fatigue,"Fatigue Syndrome, Chronic",18,64.53323059
+Mental Fatigue,"Brain Damage, Chronic",4,14.34071791
+Fetal Distress,"Brain Damage, Chronic",14,36.23832294
+Fetal Distress,"Kidney Failure, Chronic",1,2.588451638
+Flushing,"Kidney Failure, Chronic",1,2.614012135
+Heart Murmurs,"Kidney Failure, Chronic",10,23.63417131
+Systolic Murmurs,"Kidney Failure, Chronic",1,4.913366208
+Hot Flashes,"Kidney Failure, Chronic",1,3.40571099
+Hypergammaglobulinemia,"Candidiasis, Chronic Mucocutaneous",2,3.358250327
+Hypergammaglobulinemia,"Leukemia, Lymphocytic, Chronic, B-Cell",8,13.43300131
+Hypergammaglobulinemia,"Leukemia, Myelomonocytic, Chronic",3,5.037375491
+Hypergammaglobulinemia,"Pancreatitis, Chronic",1,1.679125164
+Hypergammaglobulinemia,"Pulmonary Disease, Chronic Obstructive",1,1.679125164
+Hypergammaglobulinemia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,3.358250327
+Hypergammaglobulinemia,"Kidney Failure, Chronic",8,13.43300131
+Hypergammaglobulinemia,"Granulomatous Disease, Chronic",3,5.037375491
+Intermittent Claudication,"Renal Insufficiency, Chronic",1,2.218303202
+Intermittent Claudication,"Kidney Failure, Chronic",3,6.654909606
+Mobility Limitation,"Fatigue Syndrome, Chronic",1,2.763857103
+Mobility Limitation,"Pulmonary Disease, Chronic Obstructive",3,8.29157131
+Mobility Limitation,"Multiple Sclerosis, Chronic Progressive",1,2.763857103
+Mobility Limitation,"Kidney Failure, Chronic",1,2.763857103
+Neurologic Manifestations,"Brain Damage, Chronic",22,1.53871109
+Neurologic Manifestations,"Kidney Failure, Chronic",39,2.727715114
+Cerebrospinal Fluid Rhinorrhea,"Hematoma, Subdural, Chronic",2,5.354944978
+Cerebrospinal Fluid Rhinorrhea,"Kidney Failure, Chronic",1,2.677472489
+Decerebrate State,"Brain Damage, Chronic",10,29.4467603
+Dyskinesias,"Fatigue Syndrome, Chronic",1,0.747952079
+Dyskinesias,"Brain Damage, Chronic",2,1.495904157
+Dyskinesias,"Brain Injury, Chronic",1,0.747952079
+Dyskinesias,"Kidney Failure, Chronic",1,0.747952079
+Ataxia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.219659713
+Ataxia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.439319426
+Ataxia,"Multiple Sclerosis, Chronic Progressive",1,1.219659713
+Ataxia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",7,8.537617989
+Ataxia,"Brain Damage, Chronic",15,18.29489569
+Ataxia,"Kidney Failure, Chronic",3,3.658979138
+Cerebellar Ataxia,"Brain Damage, Chronic",5,8.543928115
+Cerebellar Ataxia,"Brain Injury, Chronic",1,1.708785623
+Cerebellar Ataxia,"Kidney Failure, Chronic",2,3.417571246
+Gait Ataxia,"Multiple Sclerosis, Chronic Progressive",1,2.802175968
+Gait Ataxia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,5.604351935
+Athetosis,"Brain Damage, Chronic",10,25.82162309
+Athetosis,"Hematoma, Subdural, Chronic",1,2.582162309
+Athetosis,"Kidney Failure, Chronic",2,5.164324619
+Chorea,"Pulmonary Disease, Chronic Obstructive",1,1.992983371
+Chorea,"Brain Damage, Chronic",4,7.971933485
+Chorea,"Hematoma, Subdural, Chronic",2,3.985966743
+Chorea,"Kidney Failure, Chronic",6,11.95790023
+Dystonia,"Multiple Sclerosis, Chronic Progressive",3,4.608327101
+Dystonia,"Brain Damage, Chronic",5,7.680545168
+Dystonia,"Brain Injury, Chronic",2,3.072218067
+Torticollis,"Brain Damage, Chronic",2,4.309981845
+Hyperkinesis,"Fatigue Syndrome, Chronic",1,2.341000253
+Hyperkinesis,"Brain Damage, Chronic",33,77.25300833
+Hyperkinesis,"Kidney Failure, Chronic",1,2.341000253
+Hypokinesia,"Multiple Sclerosis, Chronic Progressive",1,2.879293271
+Hypokinesia,"Brain Damage, Chronic",1,2.879293271
+Hypokinesia,"Kidney Failure, Chronic",1,2.879293271
+Myoclonus,"Brain Damage, Chronic",9,15.97563782
+Myoclonus,"Kidney Failure, Chronic",24,42.60170087
+Psychomotor Agitation,"Fatigue Syndrome, Chronic",1,2.24256018
+Psychomotor Agitation,"Brain Damage, Chronic",9,20.18304162
+Psychomotor Agitation,"Kidney Failure, Chronic",2,4.485120359
+"Akathisia, Drug-Induced","Brain Damage, Chronic",1,3.110911449
+Tremor,"Fatigue Syndrome, Chronic",1,1.739352787
+Tremor,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.739352787
+Tremor,"Pulmonary Disease, Chronic Obstructive",1,1.739352787
+Tremor,"Multiple Sclerosis, Chronic Progressive",2,3.478705574
+Tremor,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,3.478705574
+Tremor,"Brain Damage, Chronic",4,6.957411147
+Tremor,"Kidney Failure, Chronic",3,5.21805836
+"Gait Disorders, Neurologic","Fatigue Syndrome, Chronic",1,1.74476552
+"Gait Disorders, Neurologic","Leukemia, Lymphocytic, Chronic, B-Cell",1,1.74476552
+"Gait Disorders, Neurologic","Pulmonary Disease, Chronic Obstructive",2,3.48953104
+"Gait Disorders, Neurologic","Multiple Sclerosis, Chronic Progressive",4,6.97906208
+"Gait Disorders, Neurologic","Brain Damage, Chronic",1,1.74476552
+"Gait Disorders, Neurologic","Brain Injury, Chronic",1,1.74476552
+Meningism,Erythema Chronicum Migrans,1,3.074353854
+Neurobehavioral Manifestations,"Fatigue Syndrome, Chronic",2,0.741516006
+Apraxias,"Multiple Sclerosis, Chronic Progressive",1,2.383774069
+Apraxias,"Brain Damage, Chronic",82,195.4694736
+Apraxias,"Kidney Failure, Chronic",2,4.767548137
+Alien Hand Syndrome,"Brain Damage, Chronic",1,5.639303211
+Catatonia,"Brain Damage, Chronic",3,8.105719543
+Communication Disorders,"Brain Damage, Chronic",5,4.942612569
+Communication Disorders,"Brain Injury, Chronic",1,0.988522514
+Language Disorders,"Fatigue Syndrome, Chronic",1,1.077736663
+Language Disorders,"Multiple Sclerosis, Chronic Progressive",1,1.077736663
+Language Disorders,"Brain Damage, Chronic",55,59.27551644
+Language Disorders,"Brain Injury, Chronic",1,1.077736663
+Language Disorders,"Kidney Failure, Chronic",2,2.155473325
+Agraphia,"Brain Damage, Chronic",22,73.70310504
+Anomia,"Multiple Sclerosis, Chronic Progressive",1,3.420099727
+Anomia,"Brain Damage, Chronic",74,253.0873798
+Anomia,"Brain Injury, Chronic",1,3.420099727
+Dyslexia,"Fatigue Syndrome, Chronic",1,2.677472489
+Dyslexia,"Brain Damage, Chronic",35,93.71153712
+"Dyslexia, Acquired","Brain Damage, Chronic",41,144.2806267
+"Dyslexia, Acquired","Brain Injury, Chronic",2,7.03807935
+Language Development Disorders,"Brain Damage, Chronic",54,134.2746282
+Language Development Disorders,"Kidney Failure, Chronic",1,2.486567189
+Speech Disorders,"Multiple Sclerosis, Chronic Progressive",2,2.305833122
+Speech Disorders,"Brain Damage, Chronic",52,59.95166117
+Speech Disorders,"Brain Injury, Chronic",1,1.152916561
+Speech Disorders,"Kidney Failure, Chronic",5,5.764582805
+Aphasia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.810661815
+Aphasia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.810661815
+Aphasia,"Brain Damage, Chronic",259,468.96141
+Aphasia,"Brain Injury, Chronic",5,9.053309073
+Aphasia,"Kidney Failure, Chronic",2,3.621323629
+"Aphasia, Broca","Brain Damage, Chronic",44,136.8801038
+"Aphasia, Wernicke","Brain Damage, Chronic",32,111.8503407
+Articulation Disorders,"Brain Damage, Chronic",10,18.87448958
+Dysarthria,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2.026585118
+Dysarthria,"Multiple Sclerosis, Chronic Progressive",4,8.106340471
+Dysarthria,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,2.026585118
+Dysarthria,"Brain Damage, Chronic",19,38.50511724
+Dysarthria,"Brain Injury, Chronic",1,2.026585118
+Dysarthria,"Kidney Failure, Chronic",2,4.053170236
+Dysarthria,"Leukemia, Neutrophilic, Chronic",1,2.026585118
+Echolalia,"Brain Damage, Chronic",3,13.4284572
+Mutism,"Brain Damage, Chronic",9,26.30163055
+Mutism,"Kidney Failure, Chronic",1,2.922403395
+Stuttering,"Brain Damage, Chronic",8,26.58778313
+Stuttering,"Kidney Failure, Chronic",1,3.323472891
+Learning Disorders,"Fatigue Syndrome, Chronic",3,5.205937132
+Learning Disorders,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.735312377
+Learning Disorders,"Brain Damage, Chronic",214,371.3568487
+Learning Disorders,"Brain Injury, Chronic",4,6.941249509
+Learning Disorders,"Renal Insufficiency, Chronic",1,1.735312377
+Learning Disorders,"Kidney Failure, Chronic",3,5.205937132
+Confusion,"Fatigue Syndrome, Chronic",2,3.017896423
+Confusion,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.508948211
+Confusion,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.508948211
+Confusion,"Pulmonary Disease, Chronic Obstructive",3,4.526844634
+Confusion,"Brain Damage, Chronic",10,15.08948211
+Confusion,"Hematoma, Subdural, Chronic",2,3.017896423
+Confusion,"Kidney Failure, Chronic",14,21.12527496
+Delirium,"Pulmonary Disease, Chronic Obstructive",1,2.08395515
+Delirium,"Brain Damage, Chronic",6,12.5037309
+Delirium,"Brain Injury, Chronic",1,2.08395515
+Delirium,"Hematoma, Subdural, Chronic",1,2.08395515
+Delirium,"Kidney Failure, Chronic",10,20.8395515
+Consciousness Disorders,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,1.754258552
+Consciousness Disorders,"Leukemia, Myeloid, Chronic-Phase",1,0.877129276
+Consciousness Disorders,"Pulmonary Disease, Chronic Obstructive",2,1.754258552
+Consciousness Disorders,"Brain Damage, Chronic",12,10.52555131
+Consciousness Disorders,"Brain Injury, Chronic",1,0.877129276
+Consciousness Disorders,"Hematoma, Subdural, Chronic",5,4.385646381
+Consciousness Disorders,"Kidney Failure, Chronic",13,11.40268059
+Unconsciousness,"Brain Damage, Chronic",13,12.06364678
+Unconsciousness,"Kidney Failure, Chronic",3,2.783918488
+Coma,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.624169626
+Coma,"Pulmonary Disease, Chronic Obstructive",1,1.312084813
+Coma,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.312084813
+Coma,"Brain Damage, Chronic",98,128.5843117
+Coma,"Brain Injury, Chronic",2,2.624169626
+Coma,"Kidney Failure, Chronic",26,34.11420513
+Persistent Vegetative State,"Brain Damage, Chronic",14,43.33111978
+Persistent Vegetative State,"Brain Injury, Chronic",2,6.190159968
+Stupor,"Pulmonary Disease, Chronic Obstructive",1,4.850845851
+Syncope,"Fatigue Syndrome, Chronic",9,13.41802285
+Syncope,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.490891428
+Syncope,"Pulmonary Disease, Chronic Obstructive",1,1.490891428
+Syncope,"Kidney Failure, Chronic",5,7.454457138
+"Syncope, Vasovagal","Fatigue Syndrome, Chronic",7,22.27797207
+"Syncope, Vasovagal","Hematoma, Subdural, Chronic",1,3.182567438
+"Syncope, Vasovagal","Kidney Failure, Chronic",1,3.182567438
+Lethargy,"Kidney Failure, Chronic",1,3.495323148
+Memory Disorders,"Fatigue Syndrome, Chronic",20,29.35995215
+Memory Disorders,"Leukemia, Myelomonocytic, Chronic",1,1.467997608
+Memory Disorders,"Pulmonary Disease, Chronic Obstructive",1,1.467997608
+Memory Disorders,"Multiple Sclerosis, Chronic Progressive",8,11.74398086
+Memory Disorders,"Brain Damage, Chronic",78,114.5038134
+Memory Disorders,"Brain Injury, Chronic",9,13.21197847
+Memory Disorders,"Hematoma, Subdural, Chronic",1,1.467997608
+Memory Disorders,"Renal Insufficiency, Chronic",1,1.467997608
+Memory Disorders,"Kidney Failure, Chronic",4,5.871990431
+Amnesia,"Brain Damage, Chronic",170,369.1526441
+Amnesia,"Brain Injury, Chronic",9,19.54337528
+"Amnesia, Anterograde","Brain Damage, Chronic",7,28.49481105
+"Amnesia, Retrograde","Brain Damage, Chronic",20,67.97187043
+"Amnesia, Transient Global","Brain Damage, Chronic",1,4.09885817
+Korsakoff Syndrome,"Brain Damage, Chronic",5,20.14932649
+Korsakoff Syndrome,"Hematoma, Subdural, Chronic",1,4.029865299
+Mental Retardation,"Pancreatitis, Chronic",1,0.905446684
+Mental Retardation,"Brain Damage, Chronic",243,220.0235442
+Mental Retardation,"Brain Injury, Chronic",5,4.52723342
+Mental Retardation,"Renal Insufficiency, Chronic",1,0.905446684
+Mental Retardation,"Kidney Failure, Chronic",28,25.35250715
+Mental Retardation,"Granulomatous Disease, Chronic",2,1.810893368
+Perceptual Disorders,"Fatigue Syndrome, Chronic",2,2.772114732
+Perceptual Disorders,"Multiple Sclerosis, Chronic Progressive",1,1.386057366
+Perceptual Disorders,"Brain Damage, Chronic",121,167.7129413
+Perceptual Disorders,"Brain Injury, Chronic",3,4.158172099
+Perceptual Disorders,"Hematoma, Subdural, Chronic",1,1.386057366
+Perceptual Disorders,"Kidney Failure, Chronic",1,1.386057366
+Agnosia,"Brain Damage, Chronic",86,218.114268
+Agnosia,"Brain Injury, Chronic",1,2.536212419
+Gerstmann Syndrome,"Brain Damage, Chronic",1,3.990644585
+Prosopagnosia,"Brain Damage, Chronic",3,12.61265606
+Prosopagnosia,"Hematoma, Subdural, Chronic",1,4.204218686
+Auditory Perceptual Disorders,"Fatigue Syndrome, Chronic",1,3.143346725
+Auditory Perceptual Disorders,"Brain Damage, Chronic",11,34.57681398
+Auditory Perceptual Disorders,"Brain Injury, Chronic",2,6.28669345
+Auditory Perceptual Disorders,"Kidney Failure, Chronic",1,3.143346725
+Hallucinations,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.723288184
+Hallucinations,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.723288184
+Hallucinations,"Multiple Sclerosis, Chronic Progressive",1,1.723288184
+Hallucinations,"Brain Damage, Chronic",14,24.12603458
+Hallucinations,"Brain Injury, Chronic",1,1.723288184
+Hallucinations,"Kidney Failure, Chronic",12,20.67945821
+Illusions,"Brain Damage, Chronic",10,30.8985804
+Phantom Limb,"Brain Damage, Chronic",3,9.688078799
+Psychomotor Disorders,"Fatigue Syndrome, Chronic",6,7.98984595
+Psychomotor Disorders,"Pulmonary Disease, Chronic Obstructive",1,1.331640992
+Psychomotor Disorders,"Brain Damage, Chronic",93,123.8426122
+Psychomotor Disorders,"Brain Injury, Chronic",2,2.663281983
+Psychomotor Disorders,"Hematoma, Subdural, Chronic",1,1.331640992
+Psychomotor Disorders,"Kidney Failure, Chronic",2,2.663281983
+"Apraxia, Ideomotor","Brain Damage, Chronic",1,4.113246908
+Fasciculation,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,6.148707707
+Muscle Cramp,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,4.485120359
+Muscle Cramp,"Leukemia, Myeloid, Chronic-Phase",1,2.24256018
+Muscle Cramp,"Kidney Failure, Chronic",19,42.60864341
+Muscle Hypertonia,"Brain Damage, Chronic",2,2.960840255
+Muscle Hypertonia,"Kidney Failure, Chronic",1,1.480420128
+Muscle Rigidity,"Pulmonary Disease, Chronic Obstructive",1,2.401932804
+Muscle Rigidity,"Brain Damage, Chronic",1,2.401932804
+Muscle Rigidity,"Kidney Failure, Chronic",1,2.401932804
+Muscle Spasticity,"Multiple Sclerosis, Chronic Progressive",5,8.636401028
+Muscle Spasticity,"Brain Damage, Chronic",17,29.3637635
+Muscle Spasticity,"Brain Injury, Chronic",2,3.454560411
+Muscle Spasticity,"Kidney Failure, Chronic",2,3.454560411
+Muscle Hypotonia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.656511135
+Muscle Hypotonia,"Pulmonary Disease, Chronic Obstructive",1,1.656511135
+Muscle Hypotonia,"Brain Damage, Chronic",8,13.25208908
+Muscle Hypotonia,"Kidney Failure, Chronic",8,13.25208908
+Muscle Weakness,"Fatigue Syndrome, Chronic",10,9.929910817
+Muscle Weakness,"Leukemia, Lymphocytic, Chronic, B-Cell",4,3.971964327
+Muscle Weakness,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,0.992991082
+Muscle Weakness,"Leukemia, Myelomonocytic, Chronic",1,0.992991082
+Muscle Weakness,"Pulmonary Disease, Chronic Obstructive",47,46.67058084
+Muscle Weakness,"Multiple Sclerosis, Chronic Progressive",1,0.992991082
+Muscle Weakness,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",36,35.74767894
+Muscle Weakness,"Brain Damage, Chronic",10,9.929910817
+Muscle Weakness,"Brain Injury, Chronic",4,3.971964327
+Muscle Weakness,"Hematoma, Subdural, Chronic",8,7.943928654
+Muscle Weakness,"Kidney Failure, Chronic",17,16.88084839
+Muscle Weakness,"Granulomatous Disease, Chronic",2,1.985982163
+Muscular Atrophy,"Fatigue Syndrome, Chronic",2,2.921643539
+Muscular Atrophy,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.46082177
+Muscular Atrophy,"Pulmonary Disease, Chronic Obstructive",44,64.27615786
+Muscular Atrophy,"Multiple Sclerosis, Chronic Progressive",1,1.46082177
+Muscular Atrophy,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",4,5.843287078
+Muscular Atrophy,"Brain Damage, Chronic",1,1.46082177
+Muscular Atrophy,"Renal Insufficiency, Chronic",3,4.382465309
+Muscular Atrophy,"Kidney Failure, Chronic",44,64.27615786
+Sarcopenia,"Pulmonary Disease, Chronic Obstructive",3,14.29150342
+Sarcopenia,"Kidney Failure, Chronic",3,14.29150342
+Myokymia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,8.19771634
+Spasm,"Fatigue Syndrome, Chronic",1,1.367277472
+Spasm,"Brain Damage, Chronic",6,8.203664829
+Spasm,"Renal Insufficiency, Chronic",1,1.367277472
+Spasm,"Kidney Failure, Chronic",4,5.469109886
+Trismus,"Kidney Failure, Chronic",1,2.597960426
+Tetany,"Kidney Failure, Chronic",5,11.90603337
+Orthostatic Intolerance,"Fatigue Syndrome, Chronic",3,15.63557759
+Pain,Erythema Chronicum Migrans,1,0.329386709
+Pain,"Fatigue Syndrome, Chronic",75,24.70400315
+Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",9,2.964480378
+Pain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",11,3.623253795
+Pain,"Pancreatitis, Chronic",59,19.43381581
+Pain,"Pulmonary Disease, Chronic Obstructive",7,2.30570696
+Pain,"Multiple Sclerosis, Chronic Progressive",6,1.976320252
+Pain,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",4,1.317546835
+Pain,"Brain Damage, Chronic",6,1.976320252
+Pain,"Brain Injury, Chronic",1,0.329386709
+Pain,"Renal Insufficiency, Chronic",3,0.988160126
+Pain,"Kidney Failure, Chronic",118,38.86763162
+Pain,"Granulomatous Disease, Chronic",1,0.329386709
+Pain,"Jaundice, Chronic Idiopathic",2,0.658773417
+Back Pain,"Fatigue Syndrome, Chronic",3,3.440785558
+Back Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.146928519
+Back Pain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.146928519
+Back Pain,"Brain Injury, Chronic",1,1.146928519
+Back Pain,"Hematoma, Subdural, Chronic",1,1.146928519
+Back Pain,"Kidney Failure, Chronic",4,4.587714077
+Low Back Pain,"Fatigue Syndrome, Chronic",2,3.180842046
+Low Back Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.590421023
+Low Back Pain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.590421023
+Low Back Pain,"Pulmonary Disease, Chronic Obstructive",2,3.180842046
+Low Back Pain,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.590421023
+Low Back Pain,"Hematoma, Subdural, Chronic",3,4.771263069
+Low Back Pain,"Kidney Failure, Chronic",4,6.361684092
+Facial Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.972328592
+Facial Pain,"Kidney Failure, Chronic",1,1.972328592
+Headache,Erythema Chronicum Migrans,1,0.884564255
+Headache,"Fatigue Syndrome, Chronic",9,7.961078292
+Headache,"Leukemia, Lymphocytic, Chronic, B-Cell",3,2.653692764
+Headache,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",6,5.307385528
+Headache,"Pulmonary Disease, Chronic Obstructive",2,1.769128509
+Headache,"Multiple Sclerosis, Chronic Progressive",3,2.653692764
+Headache,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,0.884564255
+Headache,"Brain Damage, Chronic",15,13.26846382
+Headache,"Brain Injury, Chronic",1,0.884564255
+Headache,"Hematoma, Subdural, Chronic",22,19.4604136
+Headache,"Kidney Failure, Chronic",25,22.11410637
+Headache,"Granulomatous Disease, Chronic",1,0.884564255
+Neck Pain,"Pulmonary Disease, Chronic Obstructive",1,1.958792007
+Neuralgia,"Pancreatitis, Chronic",3,4.614942318
+Neuralgia,"Multiple Sclerosis, Chronic Progressive",2,3.076628212
+Neuralgia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.538314106
+Neuralgia,"Brain Damage, Chronic",1,1.538314106
+Neuralgia,"Renal Insufficiency, Chronic",1,1.538314106
+Neuralgia,"Kidney Failure, Chronic",1,1.538314106
+Sciatica,"Kidney Failure, Chronic",1,2.169409298
+"Pain, Intractable","Fatigue Syndrome, Chronic",1,1.992983371
+"Pain, Intractable","Pancreatitis, Chronic",6,11.95790023
+"Pain, Intractable","Kidney Failure, Chronic",3,5.978950114
+"Pain, Referred","Fatigue Syndrome, Chronic",1,4.00354799
+Paralysis,"Leukemia, Lymphocytic, Chronic, B-Cell",1,0.484471377
+Paralysis,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,0.968942755
+Paralysis,"Pulmonary Disease, Chronic Obstructive",1,0.484471377
+Paralysis,"Multiple Sclerosis, Chronic Progressive",1,0.484471377
+Paralysis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,0.968942755
+Paralysis,"Brain Damage, Chronic",18,8.720484795
+Paralysis,"Hematoma, Subdural, Chronic",1,0.484471377
+Paralysis,"Kidney Failure, Chronic",9,4.360242397
+Facial Paralysis,Erythema Chronicum Migrans,2,2.714193823
+Facial Paralysis,"Leukemia, Lymphocytic, Chronic, B-Cell",3,4.071290735
+Facial Paralysis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.357096912
+Facial Paralysis,"Brain Damage, Chronic",6,8.14258147
+Facial Paralysis,"Kidney Failure, Chronic",2,2.714193823
+Gastroparesis,"Kidney Failure, Chronic",5,16.48748702
+Hemiplegia,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.589264726
+Hemiplegia,"Leukemia, Myelomonocytic, Chronic",1,1.294632363
+Hemiplegia,"Multiple Sclerosis, Chronic Progressive",2,2.589264726
+Hemiplegia,"Brain Damage, Chronic",117,151.4719865
+Hemiplegia,"Brain Injury, Chronic",3,3.883897089
+Hemiplegia,"Hematoma, Subdural, Chronic",1,1.294632363
+Hemiplegia,"Kidney Failure, Chronic",7,9.06242654
+Ophthalmoplegia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.329847269
+Ophthalmoplegia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.659694538
+Ophthalmoplegia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",3,3.989541808
+Ophthalmoplegia,"Brain Damage, Chronic",3,3.989541808
+Ophthalmoplegia,"Kidney Failure, Chronic",1,1.329847269
+Ophthalmoplegia,"Granulomatous Disease, Chronic",1,1.329847269
+Paraplegia,"Leukemia, Lymphocytic, Chronic, B-Cell",3,3.832437851
+Paraplegia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.554958567
+Paraplegia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.277479284
+Paraplegia,"Brain Damage, Chronic",4,5.109917135
+Paraplegia,"Hematoma, Subdural, Chronic",1,1.277479284
+Paraplegia,"Kidney Failure, Chronic",14,17.88470997
+Paraplegia,"Granulomatous Disease, Chronic",1,1.277479284
+Quadriplegia,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.738279339
+Quadriplegia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.369139669
+Quadriplegia,"Pulmonary Disease, Chronic Obstructive",1,1.369139669
+Quadriplegia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",9,12.32225703
+Quadriplegia,"Brain Damage, Chronic",13,17.7988157
+Quadriplegia,"Kidney Failure, Chronic",4,5.476558678
+Respiratory Paralysis,"Pulmonary Disease, Chronic Obstructive",1,2.489420258
+Respiratory Paralysis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,2.489420258
+Respiratory Paralysis,"Kidney Failure, Chronic",1,2.489420258
+Vocal Cord Paralysis,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.987779543
+Vocal Cord Paralysis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.987779543
+Vocal Cord Paralysis,"Kidney Failure, Chronic",1,1.987779543
+Paresis,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.575471568
+Paresis,"Leukemia, Myelomonocytic, Chronic",1,1.287735784
+Paresis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",4,5.150943135
+Paresis,"Brain Damage, Chronic",10,12.87735784
+Paresis,"Brain Injury, Chronic",3,3.863207351
+Paresis,"Hematoma, Subdural, Chronic",6,7.726414703
+Paresis,"Kidney Failure, Chronic",2,2.575471568
+Paraparesis,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.235886073
+Paraparesis,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,4.471772145
+Paraparesis,"Kidney Failure, Chronic",1,2.235886073
+"Paraparesis, Spastic","Pancreatitis, Chronic",1,3.17120368
+"Paraparesis, Spastic","Multiple Sclerosis, Chronic Progressive",2,6.342407359
+Psychophysiologic Disorders,"Fatigue Syndrome, Chronic",51,75.60778734
+Psychophysiologic Disorders,"Pulmonary Disease, Chronic Obstructive",1,1.482505634
+Psychophysiologic Disorders,"Brain Damage, Chronic",18,26.68510141
+Psychophysiologic Disorders,"Kidney Failure, Chronic",12,17.79006761
+Anisocoria,"Granulomatous Disease, Chronic",1,3.350141138
+"Reflex, Abnormal","Fatigue Syndrome, Chronic",1,1.407130943
+"Reflex, Abnormal","Leukemia, Lymphocytic, Chronic, B-Cell",2,2.814261886
+"Reflex, Abnormal","Multiple Sclerosis, Chronic Progressive",1,1.407130943
+"Reflex, Abnormal","Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",4,5.628523772
+"Reflex, Abnormal","Brain Damage, Chronic",28,39.3996664
+"Reflex, Abnormal","Kidney Failure, Chronic",9,12.66417849
+"Reflex, Babinski","Brain Damage, Chronic",1,3.527071847
+Seizures,"Leukemia, Lymphocytic, Chronic, B-Cell",5,4.225834628
+Seizures,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",3,2.535500777
+Seizures,"Pulmonary Disease, Chronic Obstructive",3,2.535500777
+Seizures,"Multiple Sclerosis, Chronic Progressive",1,0.845166926
+Seizures,"Brain Damage, Chronic",92,77.75535715
+Seizures,"Brain Injury, Chronic",1,0.845166926
+Seizures,"Hematoma, Subdural, Chronic",6,5.071001553
+Seizures,"Kidney Failure, Chronic",66,55.78101708
+Seizures,"Granulomatous Disease, Chronic",2,1.690333851
+Sensation Disorders,"Fatigue Syndrome, Chronic",2,0.686643809
+Sensation Disorders,"Pulmonary Disease, Chronic Obstructive",1,0.343321904
+Sensation Disorders,"Multiple Sclerosis, Chronic Progressive",3,1.029965713
+Sensation Disorders,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",10,3.433219043
+Sensation Disorders,"Brain Damage, Chronic",3,1.029965713
+Sensation Disorders,"Brain Injury, Chronic",1,0.343321904
+Sensation Disorders,"Kidney Failure, Chronic",5,1.716609521
+Dizziness,"Fatigue Syndrome, Chronic",13,17.45212849
+Dizziness,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,2.684942845
+Dizziness,"Brain Damage, Chronic",3,4.027414267
+Dizziness,"Brain Injury, Chronic",1,1.342471422
+Dizziness,"Kidney Failure, Chronic",5,6.712357112
+Dizziness,"Granulomatous Disease, Chronic",1,1.342471422
+Hearing Disorders,"Multiple Sclerosis, Chronic Progressive",1,0.735016575
+Hearing Disorders,"Brain Damage, Chronic",11,8.085182325
+Hearing Disorders,"Brain Injury, Chronic",1,0.735016575
+Hearing Disorders,"Kidney Failure, Chronic",24,17.6403978
+Hearing Loss,"Leukemia, Lymphocytic, Chronic, B-Cell",2,1.607101089
+Hearing Loss,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,1.607101089
+Hearing Loss,"Brain Damage, Chronic",5,4.017752723
+Hearing Loss,"Kidney Failure, Chronic",18,14.4639098
+Deafness,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.228527163
+Deafness,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",1,1.228527163
+Deafness,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.228527163
+Deafness,"Brain Damage, Chronic",30,36.85581489
+Deafness,"Kidney Failure, Chronic",26,31.94170624
+"Hearing Loss, Bilateral","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,8.847154084
+"Hearing Loss, Bilateral","Kidney Failure, Chronic",7,15.48251965
+"Hearing Loss, Bilateral","Granulomatous Disease, Chronic",1,2.211788521
+"Hearing Loss, Conductive","Brain Damage, Chronic",3,6.802260651
+"Hearing Loss, Conductive","Kidney Failure, Chronic",2,4.534840434
+"Hearing Loss, Functional","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,4.25300885
+"Hearing Loss, Functional","Kidney Failure, Chronic",1,4.25300885
+"Hearing Loss, High-Frequency","Brain Damage, Chronic",1,3.105606397
+"Hearing Loss, High-Frequency","Kidney Failure, Chronic",6,18.63363838
+"Hearing Loss, Sensorineural",Erythema Chronicum Migrans,1,1.21485586
+"Hearing Loss, Sensorineural","Leukemia, Lymphocytic, Chronic, B-Cell",2,2.429711721
+"Hearing Loss, Sensorineural","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,4.859423442
+"Hearing Loss, Sensorineural","Pancreatitis, Chronic",1,1.21485586
+"Hearing Loss, Sensorineural","Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,2.429711721
+"Hearing Loss, Sensorineural","Brain Damage, Chronic",16,19.43769377
+"Hearing Loss, Sensorineural","Renal Insufficiency, Chronic",1,1.21485586
+"Hearing Loss, Sensorineural","Kidney Failure, Chronic",20,24.29711721
+"Hearing Loss, Central","Brain Damage, Chronic",6,19.52161927
+Presbycusis,"Brain Damage, Chronic",1,3.693393062
+Presbycusis,"Kidney Failure, Chronic",1,3.693393062
+"Hearing Loss, Sudden","Leukemia, Lymphocytic, Chronic, B-Cell",1,2.585302029
+"Hearing Loss, Sudden","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,10.34120812
+"Hearing Loss, Sudden","Brain Damage, Chronic",1,2.585302029
+"Hearing Loss, Sudden","Hematoma, Subdural, Chronic",1,2.585302029
+"Hearing Loss, Sudden","Kidney Failure, Chronic",1,2.585302029
+"Hearing Loss, Unilateral","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,3.585179477
+Tinnitus,Erythema Chronicum Migrans,1,1.974033623
+Tinnitus,"Fatigue Syndrome, Chronic",1,1.974033623
+Tinnitus,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,3.948067245
+Tinnitus,"Brain Damage, Chronic",2,3.948067245
+Tinnitus,"Granulomatous Disease, Chronic",1,1.974033623
+Olfaction Disorders,"Fatigue Syndrome, Chronic",1,2.288230217
+Olfaction Disorders,"Pulmonary Disease, Chronic Obstructive",1,2.288230217
+Olfaction Disorders,"Brain Damage, Chronic",3,6.86469065
+Olfaction Disorders,"Kidney Failure, Chronic",2,4.576460433
+Somatosensory Disorders,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,2.09106214
+Somatosensory Disorders,"Brain Damage, Chronic",1,1.04553107
+Hyperalgesia,"Fatigue Syndrome, Chronic",5,11.97055039
+Hyperalgesia,"Pancreatitis, Chronic",7,16.75877054
+Hyperalgesia,"Kidney Failure, Chronic",1,2.394110078
+Hyperesthesia,"Kidney Failure, Chronic",4,10.77945693
+Hyperesthesia,"Leukemia, Neutrophilic, Chronic",1,2.694864232
+Hypesthesia,Erythema Chronicum Migrans,1,1.721961044
+Hypesthesia,"Leukemia, Lymphocytic, Chronic, B-Cell",2,3.443922088
+Hypesthesia,"Pancreatitis, Chronic",1,1.721961044
+Hypesthesia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",3,5.165883132
+Hypesthesia,"Brain Damage, Chronic",4,6.887844176
+Hypesthesia,"Brain Injury, Chronic",1,1.721961044
+Hypesthesia,"Kidney Failure, Chronic",4,6.887844176
+Paresthesia,"Fatigue Syndrome, Chronic",1,1.358018146
+Paresthesia,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.716036292
+Paresthesia,"Multiple Sclerosis, Chronic Progressive",2,2.716036292
+Paresthesia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",7,9.506127023
+Paresthesia,"Kidney Failure, Chronic",10,13.58018146
+Taste Disorders,"Brain Damage, Chronic",2,4.752183145
+Taste Disorders,"Kidney Failure, Chronic",9,21.38482415
+Ageusia,"Kidney Failure, Chronic",1,3.585179477
+Dysgeusia,"Kidney Failure, Chronic",2,6.944312178
+Vision Disorders,"Fatigue Syndrome, Chronic",3,1.990468296
+Vision Disorders,"Leukemia, Lymphocytic, Chronic, B-Cell",7,4.644426023
+Vision Disorders,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",9,5.971404887
+Vision Disorders,"Pulmonary Disease, Chronic Obstructive",1,0.663489432
+Vision Disorders,"Brain Damage, Chronic",42,27.86655614
+Vision Disorders,"Brain Injury, Chronic",1,0.663489432
+Vision Disorders,"Hematoma, Subdural, Chronic",1,0.663489432
+Vision Disorders,"Kidney Failure, Chronic",17,11.27932034
+Blindness,"Leukemia, Lymphocytic, Chronic, B-Cell",4,4.39255342
+Blindness,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",9,9.883245195
+Blindness,"Pulmonary Disease, Chronic Obstructive",1,1.098138355
+Blindness,"Brain Damage, Chronic",24,26.35532052
+Blindness,"Kidney Failure, Chronic",30,32.94415065
+"Blindness, Cortical","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,5.889352061
+"Blindness, Cortical","Brain Damage, Chronic",1,2.94467603
+Color Vision Defects,"Brain Damage, Chronic",4,10.26643959
+Color Vision Defects,"Kidney Failure, Chronic",1,2.566609896
+Diplopia,"Leukemia, Lymphocytic, Chronic, B-Cell",3,4.932495897
+Diplopia,"Multiple Sclerosis, Chronic Progressive",1,1.644165299
+Diplopia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,3.288330598
+Diplopia,"Brain Damage, Chronic",1,1.644165299
+Diplopia,"Hematoma, Subdural, Chronic",3,4.932495897
+Diplopia,"Kidney Failure, Chronic",1,1.644165299
+Hemianopsia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.082052199
+Hemianopsia,"Multiple Sclerosis, Chronic Progressive",1,2.082052199
+Hemianopsia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,2.082052199
+Hemianopsia,"Brain Damage, Chronic",49,102.0205578
+Hemianopsia,"Hematoma, Subdural, Chronic",1,2.082052199
+Hemianopsia,"Kidney Failure, Chronic",2,4.164104399
+Photophobia,"Kidney Failure, Chronic",1,2.854291969
+Scotoma,"Brain Damage, Chronic",4,9.524826692
+"Vision, Low","Leukemia, Lymphocytic, Chronic, B-Cell",2,4.51208706
+"Vision, Low","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,4.51208706
+"Vision, Low","Multiple Sclerosis, Chronic Progressive",2,4.51208706
+"Vision, Low","Brain Injury, Chronic",1,2.25604353
+Sleep Disorders,"Fatigue Syndrome, Chronic",64,95.55193023
+Sleep Disorders,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.98599782
+Sleep Disorders,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.49299891
+Sleep Disorders,"Pulmonary Disease, Chronic Obstructive",24,35.83197384
+Sleep Disorders,"Multiple Sclerosis, Chronic Progressive",1,1.49299891
+Sleep Disorders,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.49299891
+Sleep Disorders,"Brain Damage, Chronic",9,13.43699019
+Sleep Disorders,"Brain Injury, Chronic",2,2.98599782
+Sleep Disorders,"Renal Insufficiency, Chronic",4,5.971995639
+Sleep Disorders,"Kidney Failure, Chronic",74,110.4819193
+Sleep Deprivation,"Fatigue Syndrome, Chronic",2,5.151824578
+Sleep Deprivation,"Renal Insufficiency, Chronic",1,2.575912289
+Sleep Deprivation,"Kidney Failure, Chronic",4,10.30364916
+"Urinary Bladder, Neurogenic","Renal Insufficiency, Chronic",1,2.078257128
+"Urinary Bladder, Neurogenic","Kidney Failure, Chronic",22,45.72165683
+Vertigo,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,3.192503886
+Vertigo,"Brain Damage, Chronic",2,3.192503886
+Vertigo,"Brain Injury, Chronic",1,1.596251943
+Vertigo,"Kidney Failure, Chronic",1,1.596251943
+Voice Disorders,"Fatigue Syndrome, Chronic",1,1.665244815
+Voice Disorders,"Multiple Sclerosis, Chronic Progressive",1,1.665244815
+Voice Disorders,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.665244815
+Voice Disorders,"Brain Damage, Chronic",4,6.660979259
+Voice Disorders,"Kidney Failure, Chronic",2,3.330489629
+Oral Manifestations,"Brain Damage, Chronic",1,1.865776283
+Oral Manifestations,"Kidney Failure, Chronic",2,3.731552566
+Oral Hemorrhage,"Pulmonary Disease, Chronic Obstructive",1,2.575912289
+Oral Hemorrhage,"Kidney Failure, Chronic",2,5.151824578
+Abdominal Pain,Erythema Chronicum Migrans,1,0.848483678
+Abdominal Pain,"Fatigue Syndrome, Chronic",1,0.848483678
+Abdominal Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",4,3.393934713
+Abdominal Pain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,1.696967356
+Abdominal Pain,"Leukemia, Myelomonocytic, Chronic",1,0.848483678
+Abdominal Pain,"Pancreatitis, Chronic",66,55.99992276
+Abdominal Pain,"Bronchitis, Chronic",1,0.848483678
+Abdominal Pain,"Brain Damage, Chronic",1,0.848483678
+Abdominal Pain,"Kidney Failure, Chronic",23,19.5151246
+Abdominal Pain,"Granulomatous Disease, Chronic",2,1.696967356
+"Abdomen, Acute","Leukemia, Lymphocytic, Chronic, B-Cell",2,2.875200261
+"Abdomen, Acute","Leukemia, Myelomonocytic, Chronic",1,1.43760013
+"Abdomen, Acute","Brain Damage, Chronic",1,1.43760013
+"Abdomen, Acute","Kidney Failure, Chronic",14,20.12640183
+"Abdomen, Acute","Granulomatous Disease, Chronic",1,1.43760013
+Colic,"Kidney Failure, Chronic",2,4.269494633
+Colic,"Granulomatous Disease, Chronic",1,2.134747316
+Arthralgia,"Fatigue Syndrome, Chronic",7,10.3411
+Arthralgia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.4773
+Arthralgia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.4773
+Arthralgia,"Multiple Sclerosis, Chronic Progressive",1,1.4773
+Arthralgia,"Kidney Failure, Chronic",7,10.3411
+Shoulder Pain,"Leukemia, Lymphocytic, Chronic, B-Cell",2,4.840854772
+Shoulder Pain,"Pulmonary Disease, Chronic Obstructive",1,2.420427386
+Shoulder Pain,"Kidney Failure, Chronic",1,2.420427386
+Shoulder Pain,"Granulomatous Disease, Chronic",1,2.420427386
+Chest Pain,"Fatigue Syndrome, Chronic",1,1.09956083
+Chest Pain,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.199121661
+Chest Pain,"Pancreatitis, Chronic",1,1.09956083
+Chest Pain,"Pulmonary Disease, Chronic Obstructive",3,3.298682491
+Chest Pain,"Kidney Failure, Chronic",14,15.39385162
+Chest Pain,"Granulomatous Disease, Chronic",1,1.09956083
+Angina Pectoris,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.452683373
+Angina Pectoris,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.452683373
+Angina Pectoris,"Pulmonary Disease, Chronic Obstructive",5,7.263416863
+Angina Pectoris,"Renal Insufficiency, Chronic",1,1.452683373
+Angina Pectoris,"Kidney Failure, Chronic",42,61.01270165
+Acute Coronary Syndrome,"Pulmonary Disease, Chronic Obstructive",2,5.195920852
+Acute Coronary Syndrome,"Renal Insufficiency, Chronic",6,15.58776256
+Acute Coronary Syndrome,"Kidney Failure, Chronic",18,46.76328767
+"Angina, Unstable","Leukemia, Lymphocytic, Chronic, B-Cell",1,2.24256018
+"Angina, Unstable","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2.24256018
+"Angina, Unstable","Pulmonary Disease, Chronic Obstructive",2,4.485120359
+"Angina, Unstable","Kidney Failure, Chronic",15,33.6384027
+"Angina Pectoris, Variant","Pulmonary Disease, Chronic Obstructive",1,3.265949047
+Earache,"Kidney Failure, Chronic",1,2.817924325
+Flank Pain,"Kidney Failure, Chronic",1,3.148856381
+"Pain, Postoperative","Leukemia, Lymphocytic, Chronic, B-Cell",1,1.677855322
+"Pain, Postoperative","Pulmonary Disease, Chronic Obstructive",2,3.355710645
+"Pain, Postoperative","Kidney Failure, Chronic",7,11.74498726
+Dysmenorrhea,"Fatigue Syndrome, Chronic",2,5.520209507
+Dysmenorrhea,"Kidney Failure, Chronic",1,2.760104754
+Anorexia,"Fatigue Syndrome, Chronic",1,1.825260614
+Anorexia,"Leukemia, Lymphocytic, Chronic, B-Cell",1,1.825260614
+Anorexia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.825260614
+Anorexia,"Pulmonary Disease, Chronic Obstructive",7,12.7768243
+Anorexia,"Kidney Failure, Chronic",38,69.35990333
+Constipation,"Pulmonary Disease, Chronic Obstructive",1,1.593915494
+Constipation,"Brain Damage, Chronic",4,6.375661974
+Constipation,"Kidney Failure, Chronic",13,20.72090142
+Constipation,"Granulomatous Disease, Chronic",2,3.187830987
+Diarrhea,"Leukemia, Lymphocytic, Chronic, B-Cell",6,5.539128786
+Diarrhea,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",10,9.231881311
+Diarrhea,"Leukemia, Myeloid, Chronic-Phase",2,1.846376262
+Diarrhea,"Leukemia, Myelomonocytic, Chronic",2,1.846376262
+Diarrhea,"Pancreatitis, Chronic",5,4.615940655
+Diarrhea,"Bronchitis, Chronic",1,0.923188131
+Diarrhea,"Pulmonary Disease, Chronic Obstructive",1,0.923188131
+Diarrhea,"Kidney Failure, Chronic",30,27.69564393
+Diarrhea,"Granulomatous Disease, Chronic",2,1.846376262
+"Diarrhea, Infantile","Brain Damage, Chronic",1,2.281245322
+Dyspepsia,"Fatigue Syndrome, Chronic",1,2.082052199
+Dyspepsia,"Pancreatitis, Chronic",1,2.082052199
+Dyspepsia,"Pulmonary Disease, Chronic Obstructive",1,2.082052199
+Dyspepsia,"Kidney Failure, Chronic",17,35.39488739
+Flatulence,"Pancreatitis, Chronic",1,3.137867259
+Gagging,"Kidney Failure, Chronic",1,3.732232895
+Heartburn,"Pulmonary Disease, Chronic Obstructive",1,3.176869417
+Hiccup,"Kidney Failure, Chronic",4,11.81490346
+Hyperphagia,"Brain Damage, Chronic",3,7.197955269
+Hyperphagia,"Kidney Failure, Chronic",1,2.399318423
+Bulimia,"Fatigue Syndrome, Chronic",1,2.763857103
+Bulimia,"Brain Damage, Chronic",2,5.527714207
+Bulimia,"Kidney Failure, Chronic",6,16.58314262
+Nausea,Erythema Chronicum Migrans,2,2.277506148
+Nausea,"Fatigue Syndrome, Chronic",1,1.138753074
+Nausea,"Leukemia, Lymphocytic, Chronic, B-Cell",3,3.416259222
+Nausea,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",9,10.24877767
+Nausea,"Leukemia, Myeloid, Chronic-Phase",2,2.277506148
+Nausea,"Bronchitis, Chronic",2,2.277506148
+Nausea,"Pulmonary Disease, Chronic Obstructive",1,1.138753074
+Nausea,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.138753074
+Nausea,"Brain Damage, Chronic",2,2.277506148
+Nausea,"Hematoma, Subdural, Chronic",1,1.138753074
+Nausea,"Kidney Failure, Chronic",28,31.88508608
+Nausea,"Granulomatous Disease, Chronic",1,1.138753074
+Postoperative Nausea and Vomiting,"Kidney Failure, Chronic",1,3.420099727
+Vomiting,"Leukemia, Lymphocytic, Chronic, B-Cell",2,1.687025331
+Vomiting,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",6,5.061075993
+Vomiting,"Pulmonary Disease, Chronic Obstructive",1,0.843512665
+Vomiting,"Brain Damage, Chronic",2,1.687025331
+Vomiting,"Hematoma, Subdural, Chronic",1,0.843512665
+Vomiting,"Renal Insufficiency, Chronic",1,0.843512665
+Vomiting,"Kidney Failure, Chronic",37,31.20996862
+Vomiting,"Granulomatous Disease, Chronic",3,2.530537996
+Hematemesis,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.085861728
+Hematemesis,"Pulmonary Disease, Chronic Obstructive",1,2.085861728
+Hematemesis,"Kidney Failure, Chronic",1,2.085861728
+Anoxia,"Fatigue Syndrome, Chronic",1,1.001988572
+Anoxia,"Leukemia, Lymphocytic, Chronic, B-Cell",4,4.007954287
+Anoxia,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",10,10.01988572
+Anoxia,"Bronchitis, Chronic",2,2.003977143
+Anoxia,"Pulmonary Disease, Chronic Obstructive",231,231.4593601
+Anoxia,"Brain Damage, Chronic",64,64.12726859
+Anoxia,"Renal Insufficiency, Chronic",1,1.001988572
+Anoxia,"Kidney Failure, Chronic",82,82.16306288
+Anoxia,"Granulomatous Disease, Chronic",2,2.003977143
+Fetal Hypoxia,"Brain Damage, Chronic",54,147.6481665
+Fetal Hypoxia,"Kidney Failure, Chronic",1,2.734225306
+Apnea,"Fatigue Syndrome, Chronic",1,1.876553908
+Apnea,"Pulmonary Disease, Chronic Obstructive",1,1.876553908
+Apnea,"Brain Damage, Chronic",7,13.13587736
+Apnea,"Kidney Failure, Chronic",5,9.382769542
+Cheyne-Stokes Respiration,"Pulmonary Disease, Chronic Obstructive",1,3.637823211
+Cough,"Leukemia, Lymphocytic, Chronic, B-Cell",4,5.258916604
+Cough,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.629458302
+Cough,"Leukemia, Myeloid, Chronic-Phase",1,1.314729151
+Cough,"Pancreatitis, Chronic",2,2.629458302
+Cough,"Bronchitis, Chronic",21,27.60931217
+Cough,"Pulmonary Disease, Chronic Obstructive",90,118.3256236
+Cough,"Kidney Failure, Chronic",6,7.888374907
+Cough,"Granulomatous Disease, Chronic",2,2.629458302
+Dyspnea,"Fatigue Syndrome, Chronic",2,2.010443363
+Dyspnea,"Leukemia, Lymphocytic, Chronic, B-Cell",10,10.05221682
+Dyspnea,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",6,6.031330089
+Dyspnea,"Leukemia, Myeloid, Chronic-Phase",1,1.005221682
+Dyspnea,"Leukemia, Myelomonocytic, Chronic",2,2.010443363
+Dyspnea,"Pancreatitis, Chronic",3,3.015665045
+Dyspnea,"Bronchitis, Chronic",5,5.026108408
+Dyspnea,"Pulmonary Disease, Chronic Obstructive",618,621.2269992
+Dyspnea,"Kidney Failure, Chronic",23,23.12009868
+Dyspnea,"Granulomatous Disease, Chronic",1,1.005221682
+"Dyspnea, Paroxysmal","Pulmonary Disease, Chronic Obstructive",2,7.504467124
+"Dyspnea, Paroxysmal","Kidney Failure, Chronic",1,3.752233562
+Hemoptysis,"Leukemia, Myelomonocytic, Chronic",1,1.697074364
+Hemoptysis,"Pulmonary Disease, Chronic Obstructive",7,11.87952054
+Hemoptysis,"Kidney Failure, Chronic",7,11.87952054
+Hemoptysis,"Granulomatous Disease, Chronic",3,5.091223091
+Hypercapnia,"Fatigue Syndrome, Chronic",1,2.110983822
+Hypercapnia,"Pulmonary Disease, Chronic Obstructive",126,265.9839616
+Hypercapnia,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,2.110983822
+Hypercapnia,"Brain Damage, Chronic",3,6.332951466
+Hypercapnia,"Kidney Failure, Chronic",6,12.66590293
+Hyperoxia,"Pulmonary Disease, Chronic Obstructive",10,29.49190711
+Hyperoxia,"Brain Damage, Chronic",2,5.898381421
+Hyperoxia,"Kidney Failure, Chronic",1,2.949190711
+Hyperventilation,"Fatigue Syndrome, Chronic",13,27.36669191
+Hyperventilation,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.105130147
+Hyperventilation,"Bronchitis, Chronic",1,2.105130147
+Hyperventilation,"Pulmonary Disease, Chronic Obstructive",11,23.15643161
+Hyperventilation,"Kidney Failure, Chronic",5,10.52565073
+Hypocapnia,"Fatigue Syndrome, Chronic",2,6.741239339
+Hypocapnia,"Bronchitis, Chronic",1,3.37061967
+Hypocapnia,"Pulmonary Disease, Chronic Obstructive",1,3.37061967
+Hypocapnia,"Brain Damage, Chronic",1,3.37061967
+Hypoventilation,"Pulmonary Disease, Chronic Obstructive",12,30.25623966
+Hypoventilation,"Kidney Failure, Chronic",2,5.042706609
+Mouth Breathing,"Pulmonary Disease, Chronic Obstructive",1,3.2293596
+Respiratory Aspiration,"Pulmonary Disease, Chronic Obstructive",3,9.990220726
+Respiratory Sounds,"Leukemia, Myelomonocytic, Chronic",1,1.639269328
+Respiratory Sounds,"Pancreatitis, Chronic",1,1.639269328
+Respiratory Sounds,"Pulmonary Disease, Chronic Obstructive",38,62.29223447
+Respiratory Sounds,"Granulomatous Disease, Chronic",1,1.639269328
+Snoring,"Pulmonary Disease, Chronic Obstructive",3,8.280314261
+Snoring,"Kidney Failure, Chronic",5,13.80052377
+Sneezing,"Pulmonary Disease, Chronic Obstructive",1,3.356920825
+Sneezing,"Kidney Failure, Chronic",1,3.356920825
+Skin Manifestations,"Kidney Failure, Chronic",9,5.511214963
+Ecchymosis,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.299981233
+Ecchymosis,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2.299981233
+Ecchymosis,"Leukemia, Myelomonocytic, Chronic",1,2.299981233
+Ecchymosis,"Kidney Failure, Chronic",1,2.299981233
+Jaundice,"Candidiasis, Chronic Mucocutaneous",1,1.454711771
+Jaundice,"Leukemia, Lymphocytic, Chronic, B-Cell",2,2.909423542
+Jaundice,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.454711771
+Jaundice,"Drug-Induced Liver Injury, Chronic",1,1.454711771
+Jaundice,"Pancreatitis, Chronic",5,7.273558855
+Jaundice,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",1,1.454711771
+Jaundice,"Kidney Failure, Chronic",5,7.273558855
+Jaundice,"Jaundice, Chronic Idiopathic",13,18.91125302
+"Jaundice, Obstructive","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,2.498028632
+"Jaundice, Obstructive","Pancreatitis, Chronic",16,39.96845811
+"Jaundice, Obstructive","Kidney Failure, Chronic",1,2.498028632
+Pallor,"Kidney Failure, Chronic",1,3.535169057
+Pruritus,Erythema Chronicum Migrans,1,1.465942108
+Pruritus,"Leukemia, Lymphocytic, Chronic, B-Cell",3,4.397826325
+Pruritus,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",2,2.931884217
+Pruritus,"Renal Insufficiency, Chronic",2,2.931884217
+Pruritus,"Kidney Failure, Chronic",113,165.6514583
+Tinea Pedis,"Kidney Failure, Chronic",1,3.472156089
+Purpura,"Leukemia, Lymphocytic, Chronic, B-Cell",3,3.189655818
+Purpura,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1,1.063218606
+Purpura,"Leukemia, Myelomonocytic, Chronic",1,1.063218606
+Purpura,"Kidney Failure, Chronic",8,8.505748847
+"Purpura, Schoenlein-Henoch","Leukemia, Lymphocytic, Chronic, B-Cell",1,1.998214421
+"Purpura, Schoenlein-Henoch","Brain Damage, Chronic",1,1.998214421
+"Purpura, Schoenlein-Henoch","Renal Insufficiency, Chronic",1,1.998214421
+"Purpura, Schoenlein-Henoch","Kidney Failure, Chronic",19,37.96607399
+"Purpura, Schoenlein-Henoch","Granulomatous Disease, Chronic",1,1.998214421
+"Purpura, Thrombocytopenic","Leukemia, Lymphocytic, Chronic, B-Cell",3,4.244716562
+"Purpura, Thrombocytopenic","Leukemia, Myelomonocytic, Chronic",1,1.414905521
+"Purpura, Thrombocytopenic","Brain Damage, Chronic",1,1.414905521
+"Purpura, Thrombocytopenic","Granulomatous Disease, Chronic",1,1.414905521
+"Purpura, Thrombocytopenic, Idiopathic","Leukemia, Lymphocytic, Chronic, B-Cell",37,71.55409483
+"Purpura, Thrombocytopenic, Idiopathic","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",4,7.73557782
+"Purpura, Thrombocytopenic, Idiopathic","Leukemia, Myelomonocytic, Chronic",3,5.801683365
+"Purpura, Thrombocytopenic, Idiopathic","Pancreatitis, Chronic",2,3.86778891
+"Purpura, Thrombocytopenic, Idiopathic","Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",2,3.86778891
+"Purpura, Thrombocytopenic, Idiopathic","Hematoma, Subdural, Chronic",2,3.86778891
+"Purpura, Thrombocytopenic, Idiopathic","Kidney Failure, Chronic",2,3.86778891
+"Purpura, Thrombocytopenic, Idiopathic","Granulomatous Disease, Chronic",2,3.86778891
+"Purpura, Thrombotic Thrombocytopenic","Leukemia, Lymphocytic, Chronic, B-Cell",1,2.184038608
+"Purpura, Thrombotic Thrombocytopenic","Leukemia, Myelogenous, Chronic, BCR-ABL Positive",5,10.92019304
+"Purpura, Thrombotic Thrombocytopenic","Leukemia, Myeloid, Chronic-Phase",1,2.184038608
+"Purpura, Thrombotic Thrombocytopenic","Renal Insufficiency, Chronic",1,2.184038608
+"Purpura, Thrombotic Thrombocytopenic","Kidney Failure, Chronic",11,24.02442469
+Waterhouse-Friderichsen Syndrome,"Kidney Failure, Chronic",1,3.683914318
+Hypercalciuria,"Kidney Failure, Chronic",2,7.405925026
+Nocturia,"Renal Insufficiency, Chronic",1,4.172966142
+Nocturia,"Kidney Failure, Chronic",2,8.345932284
+Oliguria,"Leukemia, Lymphocytic, Chronic, B-Cell",1,2.614012135
+Oliguria,"Kidney Failure, Chronic",14,36.59616989
+Polyuria,"Pancreatitis, Chronic",1,2.360901407
+Polyuria,"Brain Damage, Chronic",1,2.360901407
+Polyuria,"Kidney Failure, Chronic",14,33.0526197
+Prostatism,"Kidney Failure, Chronic",1,4.658473958
+Proteinuria,"Fatigue Syndrome, Chronic",1,1.248977774
+Proteinuria,"Leukemia, Lymphocytic, Chronic, B-Cell",3,3.746933321
+Proteinuria,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",5,6.244888868
+Proteinuria,"Pulmonary Disease, Chronic Obstructive",1,1.248977774
+Proteinuria,"Renal Insufficiency, Chronic",67,83.68151083
+Proteinuria,"Kidney Failure, Chronic",663,828.0722639
+Proteinuria,"Granulomatous Disease, Chronic",1,1.248977774
+Albuminuria,"Pulmonary Disease, Chronic Obstructive",3,6.195259996
+Albuminuria,"Renal Insufficiency, Chronic",44,90.86381327
+Albuminuria,"Kidney Failure, Chronic",189,390.3013797
+Hemoglobinuria,"Kidney Failure, Chronic",1,2.883521607
+Urinary Incontinence,"Pulmonary Disease, Chronic Obstructive",2,3.235058683
+Urinary Incontinence,"Multiple Sclerosis, Chronic Progressive",1,1.617529342
+Urinary Incontinence,"Brain Damage, Chronic",2,3.235058683
+Urinary Incontinence,"Hematoma, Subdural, Chronic",1,1.617529342
+Urinary Incontinence,"Kidney Failure, Chronic",3,4.852588025
+Hirsutism,"Brain Damage, Chronic",1,2.483722237
+"Aging, Premature",Alzheimer Disease,4,13.85820596
+Asthenia,Alzheimer Disease,1,2.063219251
+Fever,Alzheimer Disease,10,6.189376323
+Hypothermia,Alzheimer Disease,5,9.727181077
+Body Weight,Alzheimer Disease,61,20.92225868
+Weight Gain,Alzheimer Disease,8,11.89351793
+Weight Loss,Alzheimer Disease,67,67.00359866
+Cachexia,Alzheimer Disease,3,5.984172047
+Overweight,Alzheimer Disease,4,3.295488398
+Obesity,Alzheimer Disease,33,27.4742705
+"Obesity, Morbid",Alzheimer Disease,1,1.752939952
+Thinness,Alzheimer Disease,5,13.35299805
+"Cardiac Output, Low",Alzheimer Disease,1,2.14279565
+Edema,Alzheimer Disease,2,1.191756188
+Fatigue,Alzheimer Disease,10,11.38013156
+Flushing,Alzheimer Disease,2,5.22802427
+Hot Flashes,Alzheimer Disease,1,3.40571099
+Hypergammaglobulinemia,Alzheimer Disease,1,1.679125164
+Intermittent Claudication,Alzheimer Disease,1,2.218303202
+Mobility Limitation,Alzheimer Disease,5,13.81928552
+Dyskinesias,Alzheimer Disease,3,2.243856236
+Ataxia,Alzheimer Disease,8,9.757277702
+Cerebellar Ataxia,Alzheimer Disease,3,5.126356869
+Athetosis,Alzheimer Disease,1,2.582162309
+Chorea,Alzheimer Disease,2,3.985966743
+Dystonia,Alzheimer Disease,12,18.4333084
+Hyperkinesis,Alzheimer Disease,4,9.36400101
+Hypokinesia,Alzheimer Disease,8,23.03434617
+Myoclonus,Alzheimer Disease,42,74.55297652
+Psychomotor Agitation,Alzheimer Disease,253,567.3677255
+"Akathisia, Drug-Induced",Alzheimer Disease,3,9.332734348
+Tremor,Alzheimer Disease,11,19.13288066
+"Gait Disorders, Neurologic",Alzheimer Disease,19,33.15054488
+Gait Apraxia,Alzheimer Disease,2,8.255691414
+Neurobehavioral Manifestations,Alzheimer Disease,23,8.527434065
+Apraxias,Alzheimer Disease,68,162.0966367
+Catatonia,Alzheimer Disease,2,5.403813029
+Communication Disorders,Alzheimer Disease,31,30.64419793
+Language Disorders,Alzheimer Disease,170,183.2152326
+Agraphia,Alzheimer Disease,30,100.5042342
+Anomia,Alzheimer Disease,111,379.6310697
+Dyslexia,Alzheimer Disease,3,8.032417467
+"Dyslexia, Acquired",Alzheimer Disease,17,59.82367447
+Language Development Disorders,Alzheimer Disease,2,4.973134377
+Speech Disorders,Alzheimer Disease,39,44.96374588
+Aphasia,Alzheimer Disease,107,193.7408142
+"Aphasia, Broca",Alzheimer Disease,11,34.22002594
+"Aphasia, Primary Progressive",Alzheimer Disease,23,103.4357336
+Primary Progressive Nonfluent Aphasia,Alzheimer Disease,1,5.708296083
+"Aphasia, Wernicke",Alzheimer Disease,12,41.94387778
+Articulation Disorders,Alzheimer Disease,3,5.662346873
+Dysarthria,Alzheimer Disease,7,14.18609583
+Echolalia,Alzheimer Disease,1,4.476152401
+Mutism,Alzheimer Disease,2,5.844806789
+Learning Disorders,Alzheimer Disease,65,112.7953045
+Confusion,Alzheimer Disease,73,110.1532194
+Delirium,Alzheimer Disease,56,116.7014884
+Consciousness Disorders,Alzheimer Disease,2,1.754258552
+Unconsciousness,Alzheimer Disease,5,4.639864146
+Coma,Alzheimer Disease,9,11.80876332
+Persistent Vegetative State,Alzheimer Disease,2,6.190159968
+Syncope,Alzheimer Disease,7,10.43623999
+"Syncope, Vasovagal",Alzheimer Disease,2,6.365134876
+Lethargy,Alzheimer Disease,3,10.48596944
+Memory Disorders,Alzheimer Disease,1079,1583.969419
+Amnesia,Alzheimer Disease,219,475.5554651
+"Amnesia, Retrograde",Alzheimer Disease,7,23.79015465
+"Amnesia, Transient Global",Alzheimer Disease,1,4.09885817
+Korsakoff Syndrome,Alzheimer Disease,4,16.11946119
+Mental Retardation,Alzheimer Disease,27,24.44706047
+Perceptual Disorders,Alzheimer Disease,75,103.9543025
+Agnosia,Alzheimer Disease,73,185.1435066
+Gerstmann Syndrome,Alzheimer Disease,3,11.97193376
+Prosopagnosia,Alzheimer Disease,9,37.83796817
+Auditory Perceptual Disorders,Alzheimer Disease,4,12.5733869
+Hallucinations,Alzheimer Disease,144,248.1534985
+Illusions,Alzheimer Disease,4,12.35943216
+Psychomotor Disorders,Alzheimer Disease,40,53.26563967
+"Apraxia, Ideomotor",Alzheimer Disease,8,32.90597526
+Muscle Hypertonia,Alzheimer Disease,2,2.960840255
+Muscle Rigidity,Alzheimer Disease,17,40.83285766
+Muscle Spasticity,Alzheimer Disease,2,3.454560411
+Muscle Weakness,Alzheimer Disease,4,3.971964327
+Muscular Atrophy,Alzheimer Disease,5,7.304108848
+Myotonia,Alzheimer Disease,1,3.054048587
+Pain,Alzheimer Disease,42,13.83424176
+Back Pain,Alzheimer Disease,1,1.146928519
+Low Back Pain,Alzheimer Disease,3,4.771263069
+Headache,Alzheimer Disease,11,9.730206802
+"Pain, Intractable",Alzheimer Disease,1,1.992983371
+Paralysis,Alzheimer Disease,8,3.87577102
+Hemiplegia,Alzheimer Disease,3,3.883897089
+Ophthalmoplegia,Alzheimer Disease,1,1.329847269
+"Ophthalmoplegia, Chronic Progressive External",Alzheimer Disease,1,3.646873046
+"Supranuclear Palsy, Progressive",Alzheimer Disease,110,333.7562176
+Paraplegia,Alzheimer Disease,2,2.554958567
+Quadriplegia,Alzheimer Disease,2,2.738279339
+Paresis,Alzheimer Disease,1,1.287735784
+"Paraparesis, Spastic",Alzheimer Disease,24,76.10888831
+Psychophysiologic Disorders,Alzheimer Disease,6,8.895033805
+Pupil Disorders,Alzheimer Disease,1,1.746123293
+Miosis,Alzheimer Disease,1,2.095449529
+"Reflex, Abnormal",Alzheimer Disease,16,22.51409509
+Seizures,Alzheimer Disease,38,32.11634317
+Sensation Disorders,Alzheimer Disease,4,1.373287617
+Dizziness,Alzheimer Disease,6,8.054828534
+Hearing Disorders,Alzheimer Disease,7,5.145116025
+Hearing Loss,Alzheimer Disease,7,5.624853812
+Deafness,Alzheimer Disease,1,1.228527163
+"Hearing Loss, Bilateral",Alzheimer Disease,1,2.211788521
+"Hearing Loss, Sensorineural",Alzheimer Disease,2,2.429711721
+Tinnitus,Alzheimer Disease,1,1.974033623
+Olfaction Disorders,Alzheimer Disease,62,141.8702734
+Somatosensory Disorders,Alzheimer Disease,1,1.04553107
+Taste Disorders,Alzheimer Disease,4,9.504366289
+Dysgeusia,Alzheimer Disease,1,3.472156089
+Vision Disorders,Alzheimer Disease,78,51.75217569
+Amblyopia,Alzheimer Disease,1,2.56352823
+Blindness,Alzheimer Disease,4,4.39255342
+"Blindness, Cortical",Alzheimer Disease,1,2.94467603
+Color Vision Defects,Alzheimer Disease,5,12.83304948
+Hemianopsia,Alzheimer Disease,7,14.5743654
+"Vision, Low",Alzheimer Disease,1,2.25604353
+Sleep Disorders,Alzheimer Disease,103,153.7788877
+Sleep Deprivation,Alzheimer Disease,8,20.60729831
+"Urinary Bladder, Neurogenic",Alzheimer Disease,2,4.156514257
+Vertigo,Alzheimer Disease,1,1.596251943
+Abdominal Pain,Alzheimer Disease,1,0.848483678
+Angina Pectoris,Alzheimer Disease,2,2.905366745
+"Pain, Postoperative",Alzheimer Disease,1,1.677855322
+Anorexia,Alzheimer Disease,12,21.90312737
+Constipation,Alzheimer Disease,2,3.187830987
+Diarrhea,Alzheimer Disease,8,7.385505049
+Hiccup,Alzheimer Disease,1,2.953725866
+Hyperphagia,Alzheimer Disease,5,11.99659211
+Bulimia,Alzheimer Disease,1,2.763857103
+Nausea,Alzheimer Disease,16,18.22004919
+Vomiting,Alzheimer Disease,12,10.12215199
+Anoxia,Alzheimer Disease,18,18.03579429
+Hypercapnia,Alzheimer Disease,3,6.332951466
+Hyperoxia,Alzheimer Disease,1,2.949190711
+Snoring,Alzheimer Disease,2,5.520209507
+Ecchymosis,Alzheimer Disease,1,2.299981233
+Purpura,Alzheimer Disease,2,2.126437212
+"Purpura, Thrombocytopenic",Alzheimer Disease,1,1.414905521
+Nocturia,Alzheimer Disease,1,4.172966142
+Proteinuria,Alzheimer Disease,1,1.248977774
+"Urinary Bladder, Overactive",Alzheimer Disease,1,3.543332367
+Urinary Incontinence,Alzheimer Disease,26,42.05576288
+"Urinary Incontinence, Urge",Alzheimer Disease,1,4.127845707
+Asthenia,Asthma,2,4.126438502
+Fever,Asthma,43,26.61431819
+Fever of Unknown Origin,Asthma,3,4.41946475
+Hypothermia,Asthma,3,5.836308646
+Body Weight,Asthma,156,53.50610415
+Birth Weight,Asthma,76,106.9419517
+Weight Gain,Asthma,10,14.86689741
+Weight Loss,Asthma,19,19.00102052
+Fetal Weight,Asthma,1,3.576668788
+Overweight,Asthma,30,24.71616299
+Obesity,Asthma,302,251.4312028
+"Obesity, Morbid",Asthma,4,7.011759809
+Thinness,Asthma,3,8.01179883
+Cyanosis,Asthma,12,20.92091505
+Edema,Asthma,53,31.58153899
+"Edema, Cardiac",Asthma,1,3.519039675
+Eye Manifestations,Asthma,1,1.507876974
+Fatigue,Asthma,26,29.58834204
+Mental Fatigue,Asthma,2,7.170358955
+Fetal Distress,Asthma,2,5.176903276
+Flushing,Asthma,4,10.45604854
+Heart Murmurs,Asthma,1,2.363417131
+Hypergammaglobulinemia,Asthma,18,30.22425295
+Neurologic Manifestations,Asthma,4,0.279765653
+Cerebrospinal Fluid Rhinorrhea,Asthma,1,2.677472489
+Cerebellar Ataxia,Asthma,1,1.708785623
+Torticollis,Asthma,2,4.309981845
+Hyperkinesis,Asthma,4,9.36400101
+Myoclonus,Asthma,4,7.100283478
+Psychomotor Agitation,Asthma,1,2.24256018
+"Akathisia, Drug-Induced",Asthma,4,12.4436458
+Tremor,Asthma,84,146.1056341
+Neurobehavioral Manifestations,Asthma,1,0.370758003
+Apraxias,Asthma,1,2.383774069
+Dyslexia,Asthma,2,5.354944978
+Speech Disorders,Asthma,2,2.305833122
+"Aphasia, Broca",Asthma,1,3.110911449
+Stuttering,Asthma,1,3.323472891
+Learning Disorders,Asthma,9,15.6178114
+Delirium,Asthma,1,2.08395515
+Consciousness Disorders,Asthma,2,1.754258552
+Unconsciousness,Asthma,6,5.567836975
+Coma,Asthma,16,20.99335701
+Syncope,Asthma,11,16.3998057
+Lethargy,Asthma,1,3.495323148
+Memory Disorders,Asthma,3,4.403992823
+Mental Retardation,Asthma,9,8.149020157
+Hallucinations,Asthma,2,3.446576369
+Psychomotor Disorders,Asthma,2,2.663281983
+"Apraxia, Ideomotor",Asthma,1,4.113246908
+Fasciculation,Asthma,1,3.074353854
+Muscle Cramp,Asthma,3,6.727680539
+Muscle Hypertonia,Asthma,1,1.480420128
+Muscle Rigidity,Asthma,1,2.401932804
+Muscle Hypotonia,Asthma,10,16.56511135
+Muscle Weakness,Asthma,4,3.971964327
+Muscular Atrophy,Asthma,12,17.52986124
+Spasm,Asthma,12,16.40732966
+Tetany,Asthma,5,11.90603337
+Pain,Asthma,30,9.881601259
+Back Pain,Asthma,2,2.293857038
+Low Back Pain,Asthma,5,7.952105114
+Facial Pain,Asthma,1,1.972328592
+Headache,Asthma,49,43.34364848
+Neck Pain,Asthma,2,3.917584013
+Neuralgia,Asthma,3,4.614942318
+Sciatica,Asthma,3,6.508227894
+"Pain, Intractable",Asthma,1,1.992983371
+Paralysis,Asthma,19,9.204956172
+Facial Paralysis,Asthma,1,1.357096912
+Hemiplegia,Asthma,3,3.883897089
+Paraplegia,Asthma,3,3.832437851
+Quadriplegia,Asthma,4,5.476558678
+Respiratory Paralysis,Asthma,3,7.468260773
+Vocal Cord Paralysis,Asthma,15,29.81669315
+Paresis,Asthma,1,1.287735784
+Psychophysiologic Disorders,Asthma,289,428.4441283
+Pupil Disorders,Asthma,1,1.746123293
+"Reflex, Abnormal",Asthma,11,15.47844037
+Seizures,Asthma,23,19.43883929
+Sensation Disorders,Asthma,1,0.343321904
+Dizziness,Asthma,7,9.397299957
+Hearing Disorders,Asthma,1,0.735016575
+Hearing Loss,Asthma,2,1.607101089
+Deafness,Asthma,2,2.457054326
+"Hearing Loss, Sensorineural",Asthma,1,1.21485586
+Olfaction Disorders,Asthma,4,9.152920866
+Hyperalgesia,Asthma,1,2.394110078
+Paresthesia,Asthma,4,5.432072585
+Taste Disorders,Asthma,2,4.752183145
+Vision Disorders,Asthma,2,1.326978864
+Blindness,Asthma,2,2.19627671
+"Blindness, Cortical",Asthma,2,5.889352061
+Sleep Disorders,Asthma,80,119.4399128
+Sleep Deprivation,Asthma,12,30.91094747
+"Urinary Bladder, Neurogenic",Asthma,1,2.078257128
+Vertigo,Asthma,4,6.385007773
+Voice Disorders,Asthma,23,38.30063074
+Aphonia,Asthma,3,10.88656362
+Dysphonia,Asthma,5,17.24756806
+Hoarseness,Asthma,16,35.45803076
+Abdominal Pain,Asthma,8,6.787869425
+"Abdomen, Acute",Asthma,3,4.312800391
+Colic,Asthma,1,2.134747316
+Arthralgia,Asthma,1,1.4773
+Shoulder Pain,Asthma,1,2.420427386
+Chest Pain,Asthma,36,39.58418989
+Angina Pectoris,Asthma,29,42.12781781
+Acute Coronary Syndrome,Asthma,2,5.195920852
+"Angina, Unstable",Asthma,1,2.24256018
+"Angina Pectoris, Variant",Asthma,1,3.265949047
+Flank Pain,Asthma,1,3.148856381
+"Pain, Postoperative",Asthma,7,11.74498726
+Dysmenorrhea,Asthma,3,8.280314261
+Anorexia,Asthma,2,3.650521228
+Diarrhea,Asthma,12,11.07825757
+"Diarrhea, Infantile",Asthma,2,4.562490644
+Dyspepsia,Asthma,3,6.246156598
+Gagging,Asthma,3,11.19669869
+Halitosis,Asthma,1,3.241407938
+Heartburn,Asthma,4,12.70747767
+Hiccup,Asthma,4,11.81490346
+Hyperphagia,Asthma,1,2.399318423
+Bulimia,Asthma,1,2.763857103
+Nausea,Asthma,24,27.33007378
+Vomiting,Asthma,28,23.61835463
+Anoxia,Asthma,234,234.4653258
+Fetal Hypoxia,Asthma,8,21.87380245
+Apnea,Asthma,14,26.27175472
+Cough,Asthma,707,929.5135098
+Dyspnea,Asthma,541,543.8249297
+"Dyspnea, Paroxysmal",Asthma,32,120.071474
+Hemoptysis,Asthma,8,13.57659491
+Hypercapnia,Asthma,81,170.9896896
+Hyperoxia,Asthma,1,2.949190711
+Hyperventilation,Asthma,240,505.2312352
+Hypocapnia,Asthma,8,26.96495736
+Hypoventilation,Asthma,19,47.90571279
+Mouth Breathing,Asthma,22,71.04591119
+Respiratory Aspiration,Asthma,6,19.98044145
+Respiratory Sounds,Asthma,1200,1967.123194
+Snoring,Asthma,17,46.92178081
+Sneezing,Asthma,13,43.63997073
+Skin Manifestations,Asthma,8,4.898857745
+Ecchymosis,Asthma,6,13.7998874
+Jaundice,Asthma,3,4.364135313
+Pruritus,Asthma,31,45.44420536
+Tinea Pedis,Asthma,1,3.472156089
+Purpura,Asthma,11,11.69540467
+"Purpura, Schoenlein-Henoch",Asthma,1,1.998214421
+"Purpura, Thrombocytopenic",Asthma,1,1.414905521
+Proteinuria,Asthma,4,4.995911094
+Albuminuria,Asthma,1,2.065086665
+Urinary Incontinence,Asthma,1,1.617529342
+"Urinary Incontinence, Stress",Asthma,1,2.802175968
+Hirsutism,Asthma,3,7.45116671
+"Aging, Premature",Liver Cirrhosis,1,3.46455149
+Asthenia,Liver Cirrhosis,3,6.189657753
+Fever,Liver Cirrhosis,29,17.94919134
+Fever of Unknown Origin,Liver Cirrhosis,1,1.473154917
+Hypothermia,Liver Cirrhosis,3,5.836308646
+Body Weight,Liver Cirrhosis,142,48.70427429
+Birth Weight,Liver Cirrhosis,1,1.407130943
+Weight Gain,Liver Cirrhosis,6,8.920138444
+Weight Loss,Liver Cirrhosis,12,12.00064454
+Emaciation,Liver Cirrhosis,1,1.832640721
+Cachexia,Liver Cirrhosis,5,9.973620079
+Overweight,Liver Cirrhosis,4,3.295488398
+Obesity,Liver Cirrhosis,134,111.5621893
+"Obesity, Morbid",Liver Cirrhosis,23,40.3176189
+Thinness,Liver Cirrhosis,2,5.34119922
+"Cardiac Output, High",Liver Cirrhosis,1,3.836493906
+"Cardiac Output, Low",Liver Cirrhosis,5,10.71397825
+Cyanosis,Liver Cirrhosis,31,54.04569721
+Edema,Liver Cirrhosis,141,84.01881127
+Hydrops Fetalis,Liver Cirrhosis,1,2.341000253
+Eye Manifestations,Liver Cirrhosis,5,7.539384869
+Eye Hemorrhage,Liver Cirrhosis,1,2.752642033
+Fatigue,Liver Cirrhosis,12,13.65615787
+Mental Fatigue,Liver Cirrhosis,1,3.585179477
+Feminization,Liver Cirrhosis,14,52.67340307
+Fetal Distress,Liver Cirrhosis,3,7.765354915
+Heart Murmurs,Liver Cirrhosis,2,4.726834263
+Hypergammaglobulinemia,Liver Cirrhosis,33,55.4111304
+Neurologic Manifestations,Liver Cirrhosis,23,1.608652503
+Decerebrate State,Liver Cirrhosis,1,2.94467603
+Dyskinesias,Liver Cirrhosis,3,2.243856236
+Ataxia,Liver Cirrhosis,6,7.317958277
+Cerebellar Ataxia,Liver Cirrhosis,4,6.835142492
+Athetosis,Liver Cirrhosis,3,7.746486928
+Chorea,Liver Cirrhosis,4,7.971933485
+Hyperkinesis,Liver Cirrhosis,1,2.341000253
+Hypokinesia,Liver Cirrhosis,1,2.879293271
+Tremor,Liver Cirrhosis,10,17.39352787
+"Gait Disorders, Neurologic",Liver Cirrhosis,1,1.74476552
+Apraxias,Liver Cirrhosis,2,4.767548137
+Learning Disorders,Liver Cirrhosis,1,1.735312377
+Confusion,Liver Cirrhosis,2,3.017896423
+Delirium,Liver Cirrhosis,2,4.167910299
+Consciousness Disorders,Liver Cirrhosis,2,1.754258552
+Unconsciousness,Liver Cirrhosis,2,1.855945658
+Coma,Liver Cirrhosis,29,38.05045957
+Syncope,Liver Cirrhosis,2,2.981782855
+Memory Disorders,Liver Cirrhosis,3,4.403992823
+Mental Retardation,Liver Cirrhosis,15,13.58170026
+Hallucinations,Liver Cirrhosis,2,3.446576369
+Psychomotor Disorders,Liver Cirrhosis,2,2.663281983
+Muscle Cramp,Liver Cirrhosis,19,42.60864341
+Muscle Spasticity,Liver Cirrhosis,6,10.36368123
+Muscle Hypotonia,Liver Cirrhosis,3,4.969533404
+Muscle Weakness,Liver Cirrhosis,2,1.985982163
+Muscular Atrophy,Liver Cirrhosis,6,8.764930618
+Spasm,Liver Cirrhosis,1,1.367277472
+Tetany,Liver Cirrhosis,2,4.762413346
+Pain,Liver Cirrhosis,24,7.905281007
+Back Pain,Liver Cirrhosis,2,2.293857038
+Facial Pain,Liver Cirrhosis,1,1.972328592
+Headache,Liver Cirrhosis,3,2.653692764
+Neuralgia,Liver Cirrhosis,2,3.076628212
+Paralysis,Liver Cirrhosis,3,1.453414132
+Facial Paralysis,Liver Cirrhosis,1,1.357096912
+Gastroparesis,Liver Cirrhosis,1,3.297497405
+Hemiplegia,Liver Cirrhosis,3,3.883897089
+Paraplegia,Liver Cirrhosis,9,11.49731355
+Quadriplegia,Liver Cirrhosis,2,2.738279339
+Paresis,Liver Cirrhosis,1,1.287735784
+Paraparesis,Liver Cirrhosis,1,2.235886073
+"Paraparesis, Spastic",Liver Cirrhosis,4,12.68481472
+Psychophysiologic Disorders,Liver Cirrhosis,3,4.447516902
+Miosis,Liver Cirrhosis,1,2.095449529
+"Reflex, Abnormal",Liver Cirrhosis,3,4.221392829
+Seizures,Liver Cirrhosis,9,7.60650233
+Sensation Disorders,Liver Cirrhosis,2,0.686643809
+Dizziness,Liver Cirrhosis,3,4.027414267
+Hearing Disorders,Liver Cirrhosis,1,0.735016575
+Hearing Loss,Liver Cirrhosis,1,0.803550545
+Deafness,Liver Cirrhosis,5,6.142635815
+Olfaction Disorders,Liver Cirrhosis,2,4.576460433
+Paresthesia,Liver Cirrhosis,3,4.074054438
+Taste Disorders,Liver Cirrhosis,2,4.752183145
+Vision Disorders,Liver Cirrhosis,1,0.663489432
+Blindness,Liver Cirrhosis,2,2.19627671
+"Blindness, Cortical",Liver Cirrhosis,1,2.94467603
+Color Vision Defects,Liver Cirrhosis,8,20.53287917
+Sleep Disorders,Liver Cirrhosis,13,19.40898583
+Sleep Deprivation,Liver Cirrhosis,1,2.575912289
+Vertigo,Liver Cirrhosis,1,1.596251943
+Oral Manifestations,Liver Cirrhosis,2,3.731552566
+Oral Hemorrhage,Liver Cirrhosis,3,7.727736867
+Abdominal Pain,Liver Cirrhosis,21,17.81815724
+"Abdomen, Acute",Liver Cirrhosis,20,28.75200261
+Colic,Liver Cirrhosis,1,2.134747316
+Arthralgia,Liver Cirrhosis,1,1.4773
+Chest Pain,Liver Cirrhosis,1,1.09956083
+Angina Pectoris,Liver Cirrhosis,9,13.07415035
+Acute Coronary Syndrome,Liver Cirrhosis,1,2.597960426
+"Pain, Postoperative",Liver Cirrhosis,5,8.389276611
+Pelvic Pain,Liver Cirrhosis,1,2.041078125
+Anorexia,Liver Cirrhosis,5,9.12630307
+Diarrhea,Liver Cirrhosis,17,15.69419823
+"Diarrhea, Infantile",Liver Cirrhosis,3,6.843735966
+Dyspepsia,Liver Cirrhosis,11,22.90257419
+Flatulence,Liver Cirrhosis,1,3.137867259
+Halitosis,Liver Cirrhosis,2,6.482815876
+Hiccup,Liver Cirrhosis,1,2.953725866
+Hyperphagia,Liver Cirrhosis,1,2.399318423
+Vomiting,Liver Cirrhosis,8,6.748101323
+Hematemesis,Liver Cirrhosis,30,62.57585183
+Anoxia,Liver Cirrhosis,155,155.3082286
+Apnea,Liver Cirrhosis,1,1.876553908
+Cough,Liver Cirrhosis,3,3.944187453
+Dyspnea,Liver Cirrhosis,19,19.09921195
+Hemoptysis,Liver Cirrhosis,1,1.697074364
+Hypercapnia,Liver Cirrhosis,2,4.221967644
+Hyperventilation,Liver Cirrhosis,9,18.94617132
+Hypocapnia,Liver Cirrhosis,3,10.11185901
+Hypoventilation,Liver Cirrhosis,3,7.564059914
+Skin Manifestations,Liver Cirrhosis,10,6.123572181
+Jaundice,Liver Cirrhosis,141,205.1143597
+"Jaundice, Obstructive",Liver Cirrhosis,18,44.96451538
+Necrolytic Migratory Erythema,Liver Cirrhosis,1,6.150128835
+Pruritus,Liver Cirrhosis,11,16.12536319
+Purpura,Liver Cirrhosis,12,12.75862327
+"Purpura, Hyperglobulinemic",Liver Cirrhosis,4,14.69809831
+"Purpura, Schoenlein-Henoch",Liver Cirrhosis,8,15.98571537
+"Purpura, Thrombocytopenic",Liver Cirrhosis,7,9.904338644
+"Purpura, Thrombocytopenic, Idiopathic",Liver Cirrhosis,5,9.669472275
+"Purpura, Thrombotic Thrombocytopenic",Liver Cirrhosis,5,10.92019304
+Oliguria,Liver Cirrhosis,5,13.07006068
+Polyuria,Liver Cirrhosis,2,4.721802814
+Proteinuria,Liver Cirrhosis,11,13.73875551
+Albuminuria,Liver Cirrhosis,6,12.39051999
+Hemoglobinuria,Liver Cirrhosis,1,2.883521607
+"Urinary Bladder, Overactive",Liver Cirrhosis,1,3.543332367
+Hirsutism,Liver Cirrhosis,2,4.967444473
+Asthenia,Epilepsy,10,20.63219251
+Fever,Epilepsy,94,58.18013743
+Fever of Unknown Origin,Epilepsy,2,2.946309833
+Hypothermia,Epilepsy,9,17.50892594
+Body Weight,Epilepsy,146,50.07622568
+Birth Weight,Epilepsy,34,47.84245206
+Fetal Macrosomia,Epilepsy,2,6.673436236
+Weight Gain,Epilepsy,48,71.36110755
+Weight Loss,Epilepsy,19,19.00102052
+Cachexia,Epilepsy,1,1.994724016
+Overweight,Epilepsy,2,1.647744199
+Obesity,Epilepsy,56,46.62300449
+"Obesity, Morbid",Epilepsy,2,3.505879905
+"Cardiac Output, Low",Epilepsy,1,2.14279565
+Cyanosis,Epilepsy,4,6.97363835
+Edema,Epilepsy,6,3.575268565
+Eye Manifestations,Epilepsy,6,9.047261843
+Fatigue,Epilepsy,39,44.38251307
+Mental Fatigue,Epilepsy,1,3.585179477
+Fetal Distress,Epilepsy,3,7.765354915
+Flushing,Epilepsy,1,2.614012135
+Heart Murmurs,Epilepsy,1,2.363417131
+Hypergammaglobulinemia,Epilepsy,1,1.679125164
+Mobility Limitation,Epilepsy,1,2.763857103
+Motion Sickness,Epilepsy,1,3.495323148
+Neurologic Manifestations,Epilepsy,43,3.007480767
+Cerebrospinal Fluid Otorrhea,Epilepsy,1,3.188298113
+Cerebrospinal Fluid Rhinorrhea,Epilepsy,3,8.032417467
+Decerebrate State,Epilepsy,12,35.33611236
+Dyskinesias,Epilepsy,8,5.98361663
+Ataxia,Epilepsy,78,95.1334576
+Cerebellar Ataxia,Epilepsy,39,66.6426393
+Gait Ataxia,Epilepsy,2,5.604351935
+Athetosis,Epilepsy,24,61.97189542
+Catalepsy,Epilepsy,6,22.04714747
+Chorea,Epilepsy,50,99.64916857
+Dystonia,Epilepsy,21,32.2582897
+Torticollis,Epilepsy,5,10.77495461
+Hyperkinesis,Epilepsy,37,86.61700934
+Hypokinesia,Epilepsy,2,5.758586542
+Myoclonus,Epilepsy,333,591.0985995
+Psychomotor Agitation,Epilepsy,5,11.2128009
+"Akathisia, Drug-Induced",Epilepsy,6,18.6654687
+Tics,Epilepsy,4,14.8895224
+Tremor,Epilepsy,30,52.1805836
+"Gait Disorders, Neurologic",Epilepsy,4,6.97906208
+Meningism,Epilepsy,1,3.074353854
+Neurobehavioral Manifestations,Epilepsy,1,0.370758003
+Apraxias,Epilepsy,5,11.91887034
+Catatonia,Epilepsy,9,24.31715863
+Communication Disorders,Epilepsy,5,4.942612569
+Language Disorders,Epilepsy,53,57.12004311
+Agraphia,Epilepsy,1,3.350141138
+Anomia,Epilepsy,2,6.840199454
+Dyslexia,Epilepsy,10,26.77472489
+Language Development Disorders,Epilepsy,32,79.57015004
+Speech Disorders,Epilepsy,58,66.86916054
+Aphasia,Epilepsy,122,220.9007414
+"Aphasia, Broca",Epilepsy,1,3.110911449
+"Aphasia, Wernicke",Epilepsy,4,13.98129259
+Articulation Disorders,Epilepsy,1,1.887448958
+Dysarthria,Epilepsy,5,10.13292559
+Mutism,Epilepsy,2,5.844806789
+Stuttering,Epilepsy,3,9.970418674
+Learning Disorders,Epilepsy,187,324.5034146
+Confusion,Epilepsy,32,48.28634276
+Delirium,Epilepsy,18,37.51119269
+Consciousness Disorders,Epilepsy,47,41.22507598
+Unconsciousness,Epilepsy,66,61.24620673
+Coma,Epilepsy,48,62.98007102
+Persistent Vegetative State,Epilepsy,1,3.095079984
+Syncope,Epilepsy,204,304.1418512
+"Syncope, Vasovagal",Epilepsy,25,79.56418596
+Lethargy,Epilepsy,1,3.495323148
+Memory Disorders,Epilepsy,146,214.3276507
+Amnesia,Epilepsy,62,134.6321408
+"Amnesia, Anterograde",Epilepsy,4,16.28274917
+"Amnesia, Retrograde",Epilepsy,4,13.59437409
+"Amnesia, Transient Global",Epilepsy,6,24.59314902
+Mental Retardation,Epilepsy,893,808.5638889
+Perceptual Disorders,Epilepsy,25,34.65143416
+Agnosia,Epilepsy,15,38.04318629
+Gerstmann Syndrome,Epilepsy,1,3.990644585
+Prosopagnosia,Epilepsy,1,4.204218686
+Auditory Perceptual Disorders,Epilepsy,5,15.71673363
+Hallucinations,Epilepsy,122,210.2411585
+Illusions,Epilepsy,9,27.80872236
+Phantom Limb,Epilepsy,3,9.688078799
+Psychomotor Disorders,Epilepsy,109,145.1488681
+"Apraxia, Ideomotor",Epilepsy,1,4.113246908
+Muscle Cramp,Epilepsy,9,20.18304162
+Muscle Hypertonia,Epilepsy,4,5.921680511
+Muscle Rigidity,Epilepsy,5,12.00966402
+Muscle Spasticity,Epilepsy,21,36.27288432
+Muscle Hypotonia,Epilepsy,14,23.19115589
+Muscle Weakness,Epilepsy,38,37.7336611
+Muscular Atrophy,Epilepsy,6,8.764930618
+Myokymia,Epilepsy,1,4.09885817
+Myotonia,Epilepsy,1,3.054048587
+Spasm,Epilepsy,46,62.89476369
+Hemifacial Spasm,Epilepsy,1,3.241407938
+Trismus,Epilepsy,2,5.195920852
+Tetany,Epilepsy,25,59.53016683
+Pain,Epilepsy,97,31.95051074
+Back Pain,Epilepsy,2,2.293857038
+Facial Pain,Epilepsy,1,1.972328592
+Headache,Epilepsy,130,114.9933531
+Neuralgia,Epilepsy,7,10.76819874
+"Neuralgia, Postherpetic",Epilepsy,1,4.09885817
+Sciatica,Epilepsy,2,4.338818596
+"Pain, Intractable",Epilepsy,2,3.985966743
+Paralysis,Epilepsy,45,21.80121199
+Facial Paralysis,Epilepsy,9,12.2138722
+Hemiplegia,Epilepsy,127,164.4183101
+Ophthalmoplegia,Epilepsy,4,5.319389077
+Paraplegia,Epilepsy,6,7.664875702
+Pseudobulbar Palsy,Epilepsy,4,16.63079468
+Quadriplegia,Epilepsy,15,20.53709504
+Vocal Cord Paralysis,Epilepsy,5,9.938897717
+Paresis,Epilepsy,33,42.49528087
+"Paraparesis, Spastic",Epilepsy,1,3.17120368
+Psychophysiologic Disorders,Epilepsy,141,209.0332944
+"Reflex, Abnormal",Epilepsy,22,30.95688075
+"Reflex, Babinski",Epilepsy,1,3.527071847
+Seizures,Epilepsy,2420,2045.30396
+Sensation Disorders,Epilepsy,11,3.776540947
+Dizziness,Epilepsy,61,81.89075677
+Hearing Disorders,Epilepsy,11,8.085182325
+Hearing Loss,Epilepsy,6,4.821303268
+Deafness,Epilepsy,28,34.39876057
+"Hearing Loss, Conductive",Epilepsy,1,2.267420217
+"Hearing Loss, Sensorineural",Epilepsy,7,8.503991023
+"Hearing Loss, Noise-Induced",Epilepsy,4,12.77624727
+Tinnitus,Epilepsy,2,3.948067245
+Olfaction Disorders,Epilepsy,1,2.288230217
+Somatosensory Disorders,Epilepsy,2,2.09106214
+Hyperalgesia,Epilepsy,2,4.788220156
+Hyperesthesia,Epilepsy,1,2.694864232
+Hypesthesia,Epilepsy,2,3.443922088
+Paresthesia,Epilepsy,11,14.93819961
+Taste Disorders,Epilepsy,2,4.752183145
+Dysgeusia,Epilepsy,1,3.472156089
+Vision Disorders,Epilepsy,75,49.76170739
+Amblyopia,Epilepsy,2,5.12705646
+Blindness,Epilepsy,23,25.25718217
+"Blindness, Cortical",Epilepsy,2,5.889352061
+Color Vision Defects,Epilepsy,6,15.39965938
+Diplopia,Epilepsy,8,13.15332239
+Hemianopsia,Epilepsy,16,33.31283519
+Photophobia,Epilepsy,2,5.708583938
+Scotoma,Epilepsy,5,11.90603337
+"Vision, Low",Epilepsy,3,6.76813059
+Sleep Disorders,Epilepsy,196,292.6277863
+Sleep Deprivation,Epilepsy,141,363.2036327
+"Urinary Bladder, Neurogenic",Epilepsy,1,2.078257128
+Vertigo,Epilepsy,39,62.25382578
+Voice Disorders,Epilepsy,5,8.326224073
+Aphonia,Epilepsy,5,18.1442727
+Hoarseness,Epilepsy,6,13.29676154
+Oral Manifestations,Epilepsy,3,5.597328849
+Oral Hemorrhage,Epilepsy,1,2.575912289
+Abdominal Pain,Epilepsy,7,5.939385747
+"Abdomen, Acute",Epilepsy,5,7.188000652
+Colic,Epilepsy,2,4.269494633
+Arthralgia,Epilepsy,1,1.4773
+Chest Pain,Epilepsy,2,2.199121661
+Angina Pectoris,Epilepsy,6,8.716100236
+Toothache,Epilepsy,1,2.730582314
+"Pain, Postoperative",Epilepsy,2,3.355710645
+Dysmenorrhea,Epilepsy,1,2.760104754
+Anorexia,Epilepsy,12,21.90312737
+Constipation,Epilepsy,4,6.375661974
+Diarrhea,Epilepsy,8,7.385505049
+"Diarrhea, Infantile",Epilepsy,2,4.562490644
+Dyspepsia,Epilepsy,2,4.164104399
+Encopresis,Epilepsy,3,11.41217589
+Halitosis,Epilepsy,1,3.241407938
+Hiccup,Epilepsy,1,2.953725866
+Bulimia,Epilepsy,1,2.763857103
+Nausea,Epilepsy,21,23.91381456
+Vomiting,Epilepsy,44,37.11455728
+Hematemesis,Epilepsy,1,2.085861728
+Hyperemesis Gravidarum,Epilepsy,1,2.875082738
+Anoxia,Epilepsy,57,57.11334859
+Fetal Hypoxia,Epilepsy,9,24.60802775
+Apnea,Epilepsy,38,71.30904852
+Cheyne-Stokes Respiration,Epilepsy,2,7.275646422
+Cough,Epilepsy,11,14.46202066
+Dyspnea,Epilepsy,4,4.020886726
+"Dyspnea, Paroxysmal",Epilepsy,1,3.752233562
+Hypercapnia,Epilepsy,5,10.55491911
+Hyperoxia,Epilepsy,1,2.949190711
+Hyperventilation,Epilepsy,97,204.1976242
+Hypocapnia,Epilepsy,2,6.741239339
+Hypoventilation,Epilepsy,5,12.60676652
+Mouth Breathing,Epilepsy,2,6.458719199
+Respiratory Aspiration,Epilepsy,1,3.330073575
+Respiratory Sounds,Epilepsy,2,3.278538657
+Snoring,Epilepsy,2,5.520209507
+Skin Manifestations,Epilepsy,4,2.449428872
+Jaundice,Epilepsy,1,1.454711771
+Purpura,Epilepsy,3,3.189655818
+"Purpura, Thrombocytopenic",Epilepsy,1,1.414905521
+"Purpura, Thrombotic Thrombocytopenic",Epilepsy,2,4.368077216
+Polyuria,Epilepsy,1,2.360901407
+Proteinuria,Epilepsy,2,2.497955547
+Albuminuria,Epilepsy,1,2.065086665
+Hemoglobinuria,Epilepsy,1,2.883521607
+Urinary Incontinence,Epilepsy,3,4.852588025
+Virilism,Epilepsy,1,2.227055993
+Hirsutism,Epilepsy,9,22.35350013
+"Aging, Premature",Acquired Immunodeficiency Syndrome,3,10.39365447
+Asthenia,Acquired Immunodeficiency Syndrome,1,2.063219251
+Fever,Acquired Immunodeficiency Syndrome,74,45.80138479
+Fever of Unknown Origin,Acquired Immunodeficiency Syndrome,25,36.82887292
+Body Weight,Acquired Immunodeficiency Syndrome,97,33.26982117
+Birth Weight,Acquired Immunodeficiency Syndrome,7,9.849916601
+Weight Gain,Acquired Immunodeficiency Syndrome,31,46.08738196
+Weight Loss,Acquired Immunodeficiency Syndrome,104,104.005586
+Emaciation,Acquired Immunodeficiency Syndrome,6,10.99584433
+Cachexia,Acquired Immunodeficiency Syndrome,105,209.4460217
+Overweight,Acquired Immunodeficiency Syndrome,1,0.8238721
+Obesity,Acquired Immunodeficiency Syndrome,6,4.99532191
+"Cardiac Output, Low",Acquired Immunodeficiency Syndrome,1,2.14279565
+Edema,Acquired Immunodeficiency Syndrome,10,5.958780941
+Eye Hemorrhage,Acquired Immunodeficiency Syndrome,1,2.752642033
+Fatigue,Acquired Immunodeficiency Syndrome,23,26.17430258
+Hypergammaglobulinemia,Acquired Immunodeficiency Syndrome,27,45.33637942
+Neurologic Manifestations,Acquired Immunodeficiency Syndrome,1,0.069941413
+Ataxia,Acquired Immunodeficiency Syndrome,4,4.878638851
+Cerebellar Ataxia,Acquired Immunodeficiency Syndrome,2,3.417571246
+Athetosis,Acquired Immunodeficiency Syndrome,3,7.746486928
+Chorea,Acquired Immunodeficiency Syndrome,13,25.90878383
+Dystonia,Acquired Immunodeficiency Syndrome,3,4.608327101
+Torticollis,Acquired Immunodeficiency Syndrome,1,2.154990923
+Myoclonus,Acquired Immunodeficiency Syndrome,3,5.325212608
+Psychomotor Agitation,Acquired Immunodeficiency Syndrome,2,4.485120359
+"Akathisia, Drug-Induced",Acquired Immunodeficiency Syndrome,1,3.110911449
+Tremor,Acquired Immunodeficiency Syndrome,5,8.696763934
+Catatonia,Acquired Immunodeficiency Syndrome,2,5.403813029
+Communication Disorders,Acquired Immunodeficiency Syndrome,2,1.977045028
+Language Disorders,Acquired Immunodeficiency Syndrome,3,3.233209988
+Language Development Disorders,Acquired Immunodeficiency Syndrome,1,2.486567189
+Speech Disorders,Acquired Immunodeficiency Syndrome,2,2.305833122
+Aphasia,Acquired Immunodeficiency Syndrome,3,5.431985444
+"Aphasia, Wernicke",Acquired Immunodeficiency Syndrome,2,6.990646296
+Dysarthria,Acquired Immunodeficiency Syndrome,1,2.026585118
+Stuttering,Acquired Immunodeficiency Syndrome,1,3.323472891
+Confusion,Acquired Immunodeficiency Syndrome,4,6.035792845
+Delirium,Acquired Immunodeficiency Syndrome,20,41.67910299
+Coma,Acquired Immunodeficiency Syndrome,11,14.43293294
+Syncope,Acquired Immunodeficiency Syndrome,5,7.454457138
+Memory Disorders,Acquired Immunodeficiency Syndrome,5,7.339988038
+Mental Retardation,Acquired Immunodeficiency Syndrome,9,8.149020157
+Gerstmann Syndrome,Acquired Immunodeficiency Syndrome,2,7.981289171
+Auditory Perceptual Disorders,Acquired Immunodeficiency Syndrome,1,3.143346725
+Hallucinations,Acquired Immunodeficiency Syndrome,6,10.33972911
+Illusions,Acquired Immunodeficiency Syndrome,1,3.08985804
+Phantom Limb,Acquired Immunodeficiency Syndrome,1,3.2293596
+Psychomotor Disorders,Acquired Immunodeficiency Syndrome,5,6.658204958
+Muscle Cramp,Acquired Immunodeficiency Syndrome,1,2.24256018
+Muscle Hypertonia,Acquired Immunodeficiency Syndrome,1,1.480420128
+Muscle Spasticity,Acquired Immunodeficiency Syndrome,6,10.36368123
+Muscle Hypotonia,Acquired Immunodeficiency Syndrome,1,1.656511135
+Muscle Weakness,Acquired Immunodeficiency Syndrome,9,8.936919735
+Muscular Atrophy,Acquired Immunodeficiency Syndrome,7,10.22575239
+Myotonia,Acquired Immunodeficiency Syndrome,1,3.054048587
+Spasm,Acquired Immunodeficiency Syndrome,1,1.367277472
+Tetany,Acquired Immunodeficiency Syndrome,2,4.762413346
+Pain,Acquired Immunodeficiency Syndrome,119,39.19701833
+Back Pain,Acquired Immunodeficiency Syndrome,2,2.293857038
+Headache,Acquired Immunodeficiency Syndrome,19,16.80672084
+Neck Pain,Acquired Immunodeficiency Syndrome,1,1.958792007
+Neuralgia,Acquired Immunodeficiency Syndrome,11,16.92145517
+"Pain, Intractable",Acquired Immunodeficiency Syndrome,4,7.971933485
+Paralysis,Acquired Immunodeficiency Syndrome,11,5.329185152
+Facial Paralysis,Acquired Immunodeficiency Syndrome,18,24.42774441
+Hemiplegia,Acquired Immunodeficiency Syndrome,11,14.24095599
+Ophthalmoplegia,Acquired Immunodeficiency Syndrome,9,11.96862542
+Paraplegia,Acquired Immunodeficiency Syndrome,8,10.21983427
+Quadriplegia,Acquired Immunodeficiency Syndrome,2,2.738279339
+Vocal Cord Paralysis,Acquired Immunodeficiency Syndrome,1,1.987779543
+Paresis,Acquired Immunodeficiency Syndrome,5,6.438678919
+Paraparesis,Acquired Immunodeficiency Syndrome,1,2.235886073
+"Paraparesis, Spastic",Acquired Immunodeficiency Syndrome,1,3.17120368
+Psychophysiologic Disorders,Acquired Immunodeficiency Syndrome,10,14.82505634
+"Reflex, Abnormal",Acquired Immunodeficiency Syndrome,3,4.221392829
+"Reflex, Babinski",Acquired Immunodeficiency Syndrome,1,3.527071847
+Seizures,Acquired Immunodeficiency Syndrome,15,12.67750388
+Sensation Disorders,Acquired Immunodeficiency Syndrome,2,0.686643809
+Dizziness,Acquired Immunodeficiency Syndrome,4,5.36988569
+Hearing Disorders,Acquired Immunodeficiency Syndrome,4,2.9400663
+Hearing Loss,Acquired Immunodeficiency Syndrome,5,4.017752723
+Deafness,Acquired Immunodeficiency Syndrome,4,4.914108652
+"Hearing Loss, Bilateral",Acquired Immunodeficiency Syndrome,2,4.423577042
+"Hearing Loss, Conductive",Acquired Immunodeficiency Syndrome,3,6.802260651
+"Hearing Loss, Sensorineural",Acquired Immunodeficiency Syndrome,10,12.1485586
+"Hearing Loss, Central",Acquired Immunodeficiency Syndrome,1,3.253603211
+"Hearing Loss, Sudden",Acquired Immunodeficiency Syndrome,1,2.585302029
+Hyperacusis,Acquired Immunodeficiency Syndrome,1,4.056893971
+Tinnitus,Acquired Immunodeficiency Syndrome,2,3.948067245
+Olfaction Disorders,Acquired Immunodeficiency Syndrome,1,2.288230217
+Hyperalgesia,Acquired Immunodeficiency Syndrome,2,4.788220156
+Hyperesthesia,Acquired Immunodeficiency Syndrome,2,5.389728464
+Hypesthesia,Acquired Immunodeficiency Syndrome,2,3.443922088
+Paresthesia,Acquired Immunodeficiency Syndrome,7,9.506127023
+Taste Disorders,Acquired Immunodeficiency Syndrome,1,2.376091572
+Vision Disorders,Acquired Immunodeficiency Syndrome,32,21.23166182
+Blindness,Acquired Immunodeficiency Syndrome,18,19.76649039
+Color Vision Defects,Acquired Immunodeficiency Syndrome,2,5.133219793
+Diplopia,Acquired Immunodeficiency Syndrome,2,3.288330598
+Hemianopsia,Acquired Immunodeficiency Syndrome,2,4.164104399
+"Vision, Low",Acquired Immunodeficiency Syndrome,3,6.76813059
+Sleep Disorders,Acquired Immunodeficiency Syndrome,5,7.464994549
+Sleep Deprivation,Acquired Immunodeficiency Syndrome,1,2.575912289
+"Urinary Bladder, Neurogenic",Acquired Immunodeficiency Syndrome,3,6.234771385
+Vertigo,Acquired Immunodeficiency Syndrome,4,6.385007773
+Voice Disorders,Acquired Immunodeficiency Syndrome,2,3.330489629
+Hoarseness,Acquired Immunodeficiency Syndrome,3,6.648380768
+Oral Hemorrhage,Acquired Immunodeficiency Syndrome,2,5.151824578
+Abdominal Pain,Acquired Immunodeficiency Syndrome,33,27.99996138
+"Abdomen, Acute",Acquired Immunodeficiency Syndrome,19,27.31440248
+Colic,Acquired Immunodeficiency Syndrome,1,2.134747316
+Arthralgia,Acquired Immunodeficiency Syndrome,1,1.4773
+Shoulder Pain,Acquired Immunodeficiency Syndrome,1,2.420427386
+Chest Pain,Acquired Immunodeficiency Syndrome,2,2.199121661
+Angina Pectoris,Acquired Immunodeficiency Syndrome,1,1.452683373
+Acute Coronary Syndrome,Acquired Immunodeficiency Syndrome,1,2.597960426
+Toothache,Acquired Immunodeficiency Syndrome,1,2.730582314
+Anorexia,Acquired Immunodeficiency Syndrome,29,52.9325578
+Diarrhea,Acquired Immunodeficiency Syndrome,357,329.5781628
+"Diarrhea, Infantile",Acquired Immunodeficiency Syndrome,3,6.843735966
+Dyspepsia,Acquired Immunodeficiency Syndrome,3,6.246156598
+Hiccup,Acquired Immunodeficiency Syndrome,1,2.953725866
+Nausea,Acquired Immunodeficiency Syndrome,29,33.02383915
+Vomiting,Acquired Immunodeficiency Syndrome,15,12.65268998
+Hematemesis,Acquired Immunodeficiency Syndrome,3,6.257585183
+Anoxia,Acquired Immunodeficiency Syndrome,11,11.02187429
+Fetal Hypoxia,Acquired Immunodeficiency Syndrome,1,2.734225306
+Cough,Acquired Immunodeficiency Syndrome,26,34.18295793
+Dyspnea,Acquired Immunodeficiency Syndrome,26,26.13576372
+Hemoptysis,Acquired Immunodeficiency Syndrome,6,10.18244618
+Hyperventilation,Acquired Immunodeficiency Syndrome,1,2.105130147
+Respiratory Sounds,Acquired Immunodeficiency Syndrome,4,6.557077313
+Skin Manifestations,Acquired Immunodeficiency Syndrome,1,0.612357218
+Ecchymosis,Acquired Immunodeficiency Syndrome,1,2.299981233
+Jaundice,Acquired Immunodeficiency Syndrome,6,8.728270626
+"Jaundice, Obstructive",Acquired Immunodeficiency Syndrome,1,2.498028632
+Pruritus,Acquired Immunodeficiency Syndrome,26,38.11449482
+Tinea Pedis,Acquired Immunodeficiency Syndrome,1,3.472156089
+Purpura,Acquired Immunodeficiency Syndrome,4,4.252874424
+"Purpura, Schoenlein-Henoch",Acquired Immunodeficiency Syndrome,4,7.992857683
+"Purpura, Thrombocytopenic",Acquired Immunodeficiency Syndrome,38,53.76640978
+"Purpura, Thrombocytopenic, Idiopathic",Acquired Immunodeficiency Syndrome,7,13.53726118
+"Purpura, Thrombotic Thrombocytopenic",Acquired Immunodeficiency Syndrome,21,45.86481077
+Proteinuria,Acquired Immunodeficiency Syndrome,23,28.72648879
+Albuminuria,Acquired Immunodeficiency Syndrome,2,4.13017333
+Urinary Incontinence,Acquired Immunodeficiency Syndrome,2,3.235058683
+"Urinary Incontinence, Stress",Acquired Immunodeficiency Syndrome,1,2.802175968
+Asthenia,Irritable Bowel Syndrome,1,2.063219251
+Body Weight,Irritable Bowel Syndrome,4,1.371951389
+Birth Weight,Irritable Bowel Syndrome,1,1.407130943
+Weight Gain,Irritable Bowel Syndrome,1,1.486689741
+Weight Loss,Irritable Bowel Syndrome,1,1.000053711
+Overweight,Irritable Bowel Syndrome,1,0.8238721
+Obesity,Irritable Bowel Syndrome,5,4.162768258
+Fatigue,Irritable Bowel Syndrome,8,9.104105244
+Intermittent Claudication,Irritable Bowel Syndrome,1,2.218303202
+Ataxia,Irritable Bowel Syndrome,1,1.219659713
+Psychomotor Agitation,Irritable Bowel Syndrome,1,2.24256018
+Lethargy,Irritable Bowel Syndrome,2,6.990646296
+Memory Disorders,Irritable Bowel Syndrome,2,2.935995215
+Spasm,Irritable Bowel Syndrome,1,1.367277472
+Pain,Irritable Bowel Syndrome,100,32.93867086
+Back Pain,Irritable Bowel Syndrome,1,1.146928519
+Headache,Irritable Bowel Syndrome,3,2.653692764
+Neuralgia,Irritable Bowel Syndrome,1,1.538314106
+"Pain, Intractable",Irritable Bowel Syndrome,1,1.992983371
+"Pain, Referred",Irritable Bowel Syndrome,2,8.007095981
+Gastroparesis,Irritable Bowel Syndrome,1,3.297497405
+Psychophysiologic Disorders,Irritable Bowel Syndrome,18,26.68510141
+"Reflex, Abnormal",Irritable Bowel Syndrome,3,4.221392829
+Sensation Disorders,Irritable Bowel Syndrome,4,1.373287617
+Olfaction Disorders,Irritable Bowel Syndrome,1,2.288230217
+Somatosensory Disorders,Irritable Bowel Syndrome,5,5.22765535
+Hyperalgesia,Irritable Bowel Syndrome,55,131.6760543
+Hyperesthesia,Irritable Bowel Syndrome,1,2.694864232
+Taste Disorders,Irritable Bowel Syndrome,1,2.376091572
+Sleep Disorders,Irritable Bowel Syndrome,11,16.42298801
+Sleep Deprivation,Irritable Bowel Syndrome,1,2.575912289
+Abdominal Pain,Irritable Bowel Syndrome,226,191.7573113
+Colic,Irritable Bowel Syndrome,2,4.269494633
+Pelvic Pain,Irritable Bowel Syndrome,7,14.28754688
+Dysmenorrhea,Irritable Bowel Syndrome,2,5.520209507
+Aerophagy,Irritable Bowel Syndrome,1,4.070687293
+Constipation,Irritable Bowel Syndrome,235,374.570141
+Diarrhea,Irritable Bowel Syndrome,246,227.1042802
+"Diarrhea, Infantile",Irritable Bowel Syndrome,1,2.281245322
+Dyspepsia,Irritable Bowel Syndrome,90,187.3846979
+Eructation,Irritable Bowel Syndrome,1,3.97790556
+Flatulence,Irritable Bowel Syndrome,51,160.0312302
+Heartburn,Irritable Bowel Syndrome,5,15.88434709
+Nausea,Irritable Bowel Syndrome,7,7.971271519
+Vomiting,Irritable Bowel Syndrome,5,4.217563327
+Hyperventilation,Irritable Bowel Syndrome,1,2.105130147
+Snoring,Irritable Bowel Syndrome,1,2.760104754
+Proteinuria,Irritable Bowel Syndrome,1,1.248977774
+Urinary Incontinence,Irritable Bowel Syndrome,1,1.617529342
+"Aging, Premature",Osteoporosis,10,34.6455149
+Asthenia,Osteoporosis,5,10.31609626
+Fever,Osteoporosis,3,1.856812897
+Body Weight,Osteoporosis,368,126.2195277
+Birth Weight,Osteoporosis,5,7.035654715
+Weight Gain,Osteoporosis,28,41.62731274
+Weight Loss,Osteoporosis,26,26.0013965
+Emaciation,Osteoporosis,3,5.497922164
+Cachexia,Osteoporosis,3,5.984172047
+Overweight,Osteoporosis,5,4.119360498
+Obesity,Osteoporosis,89,74.097275
+"Obesity, Morbid",Osteoporosis,2,3.505879905
+Thinness,Osteoporosis,13,34.71779493
+Cyanosis,Osteoporosis,1,1.743409588
+Edema,Osteoporosis,37,22.04748948
+Eye Manifestations,Osteoporosis,1,1.507876974
+Fatigue,Osteoporosis,4,4.552052622
+Flushing,Osteoporosis,2,5.22802427
+Hot Flashes,Osteoporosis,29,98.7656187
+Hypergammaglobulinemia,Osteoporosis,5,8.395625819
+Mobility Limitation,Osteoporosis,12,33.16628524
+Neurologic Manifestations,Osteoporosis,4,0.279765653
+Hypokinesia,Osteoporosis,4,11.51717308
+Tremor,Osteoporosis,1,1.739352787
+"Gait Disorders, Neurologic",Osteoporosis,5,8.7238276
+Confusion,Osteoporosis,1,1.508948211
+Delirium,Osteoporosis,1,2.08395515
+Persistent Vegetative State,Osteoporosis,1,3.095079984
+Memory Disorders,Osteoporosis,2,2.935995215
+Mental Retardation,Osteoporosis,20,18.10893368
+Phantom Limb,Osteoporosis,1,3.2293596
+Muscle Rigidity,Osteoporosis,1,2.401932804
+Muscle Spasticity,Osteoporosis,5,8.636401028
+Muscle Hypotonia,Osteoporosis,1,1.656511135
+Muscle Weakness,Osteoporosis,20,19.85982163
+Muscular Atrophy,Osteoporosis,16,23.37314831
+Sarcopenia,Osteoporosis,2,9.527668947
+Tetany,Osteoporosis,5,11.90603337
+Pain,Osteoporosis,241,79.38219678
+Back Pain,Osteoporosis,238,272.9689876
+Low Back Pain,Osteoporosis,52,82.70189319
+Facial Pain,Osteoporosis,2,3.944657185
+Headache,Osteoporosis,3,2.653692764
+Neck Pain,Osteoporosis,1,1.958792007
+Neuralgia,Osteoporosis,6,9.229884636
+Sciatica,Osteoporosis,1,2.169409298
+"Pain, Intractable",Osteoporosis,5,9.964916857
+Paralysis,Osteoporosis,17,8.236013417
+Facial Paralysis,Osteoporosis,1,1.357096912
+Hemiplegia,Osteoporosis,14,18.12485308
+Paraplegia,Osteoporosis,28,35.76941994
+Quadriplegia,Osteoporosis,14,19.16795537
+Paresis,Osteoporosis,5,6.438678919
+Psychophysiologic Disorders,Osteoporosis,3,4.447516902
+Horner Syndrome,Osteoporosis,1,2.209626358
+Seizures,Osteoporosis,4,3.380667702
+Sensation Disorders,Osteoporosis,5,1.716609521
+Dizziness,Osteoporosis,4,5.36988569
+Hearing Disorders,Osteoporosis,3,2.205049725
+Hearing Loss,Osteoporosis,1,0.803550545
+Deafness,Osteoporosis,3,3.685581489
+"Hearing Loss, Conductive",Osteoporosis,1,2.267420217
+"Hearing Loss, Sensorineural",Osteoporosis,1,1.21485586
+Presbycusis,Osteoporosis,1,3.693393062
+Hyperalgesia,Osteoporosis,1,2.394110078
+Paresthesia,Osteoporosis,1,1.358018146
+Vision Disorders,Osteoporosis,8,5.307915455
+Blindness,Osteoporosis,13,14.27579862
+"Vision, Low",Osteoporosis,1,2.25604353
+Sleep Disorders,Osteoporosis,1,1.49299891
+Vertigo,Osteoporosis,4,6.385007773
+Voice Disorders,Osteoporosis,1,1.665244815
+Oral Manifestations,Osteoporosis,1,1.865776283
+Abdominal Pain,Osteoporosis,4,3.393934713
+Colic,Osteoporosis,1,2.134747316
+Arthralgia,Osteoporosis,25,36.93250001
+Shoulder Pain,Osteoporosis,1,2.420427386
+Chest Pain,Osteoporosis,2,2.199121661
+Angina Pectoris,Osteoporosis,2,2.905366745
+"Pain, Postoperative",Osteoporosis,8,13.42284258
+Pelvic Pain,Osteoporosis,3,6.123234376
+Anorexia,Osteoporosis,5,9.12630307
+Constipation,Osteoporosis,3,4.781746481
+Diarrhea,Osteoporosis,6,5.539128786
+Dyspepsia,Osteoporosis,3,6.246156598
+Heartburn,Osteoporosis,1,3.176869417
+Bulimia,Osteoporosis,9,24.87471393
+Nausea,Osteoporosis,8,9.110024593
+Postoperative Nausea and Vomiting,Osteoporosis,1,3.420099727
+Vomiting,Osteoporosis,5,4.217563327
+Anoxia,Osteoporosis,1,1.001988572
+Apnea,Osteoporosis,1,1.876553908
+Cough,Osteoporosis,2,2.629458302
+Dyspnea,Osteoporosis,2,2.010443363
+Hypercapnia,Osteoporosis,1,2.110983822
+Snoring,Osteoporosis,1,2.760104754
+Skin Manifestations,Osteoporosis,4,2.449428872
+Jaundice,Osteoporosis,3,4.364135313
+Pruritus,Osteoporosis,1,1.465942108
+Purpura,Osteoporosis,3,3.189655818
+"Purpura, Hyperglobulinemic",Osteoporosis,1,3.674524578
+"Purpura, Thrombocytopenic, Idiopathic",Osteoporosis,2,3.86778891
+Hypercalciuria,Osteoporosis,17,62.95036272
+Prostatism,Osteoporosis,1,4.658473958
+Proteinuria,Osteoporosis,3,3.746933321
+Urinary Incontinence,Osteoporosis,6,9.70517605
+"Urinary Incontinence, Stress",Osteoporosis,1,2.802175968
+Virilism,Osteoporosis,2,4.454111986
+Hirsutism,Osteoporosis,2,4.967444473
+Asthenia,Heart Diseases,5,10.31609626
+Fever,Heart Diseases,18,11.14087738
+Fever of Unknown Origin,Heart Diseases,3,4.41946475
+Hypothermia,Heart Diseases,5,9.727181077
+Body Weight,Heart Diseases,126,43.21646874
+Birth Weight,Heart Diseases,13,18.29270226
+Weight Gain,Heart Diseases,4,5.946758963
+Weight Loss,Heart Diseases,15,15.00080567
+Emaciation,Heart Diseases,1,1.832640721
+Cachexia,Heart Diseases,23,45.87865236
+Overweight,Heart Diseases,3,2.471616299
+Obesity,Heart Diseases,131,109.0645284
+"Obesity, Morbid",Heart Diseases,7,12.27057967
+Thinness,Heart Diseases,3,8.01179883
+"Cardiac Output, Low",Heart Diseases,66,141.4245129
+Cyanosis,Heart Diseases,54,94.14411773
+Edema,Heart Diseases,50,29.79390471
+"Edema, Cardiac",Heart Diseases,6,21.11423805
+Hydrops Fetalis,Heart Diseases,6,14.04600152
+Eye Manifestations,Heart Diseases,5,7.539384869
+Eye Hemorrhage,Heart Diseases,1,2.752642033
+Fatigue,Heart Diseases,17,19.34622364
+Mental Fatigue,Heart Diseases,2,7.170358955
+Fetal Distress,Heart Diseases,1,2.588451638
+Heart Murmurs,Heart Diseases,130,307.2442271
+Systolic Murmurs,Heart Diseases,1,4.913366208
+Hot Flashes,Heart Diseases,3,10.21713297
+Hypergammaglobulinemia,Heart Diseases,2,3.358250327
+Intermittent Claudication,Heart Diseases,10,22.18303202
+Neurologic Manifestations,Heart Diseases,15,1.049121198
+Dyskinesias,Heart Diseases,1,0.747952079
+Ataxia,Heart Diseases,3,3.658979138
+Cerebellar Ataxia,Heart Diseases,1,1.708785623
+Chorea,Heart Diseases,2,3.985966743
+Dystonia,Heart Diseases,1,1.536109034
+Hyperkinesis,Heart Diseases,4,9.36400101
+Hypokinesia,Heart Diseases,1,2.879293271
+Myoclonus,Heart Diseases,4,7.100283478
+Psychomotor Agitation,Heart Diseases,1,2.24256018
+Tremor,Heart Diseases,2,3.478705574
+Aphasia,Heart Diseases,1,1.810661815
+"Aphasia, Wernicke",Heart Diseases,1,3.495323148
+Dysarthria,Heart Diseases,1,2.026585118
+Learning Disorders,Heart Diseases,2,3.470624755
+Confusion,Heart Diseases,1,1.508948211
+Delirium,Heart Diseases,3,6.251865449
+Consciousness Disorders,Heart Diseases,1,0.877129276
+Unconsciousness,Heart Diseases,8,7.423782634
+Coma,Heart Diseases,4,5.248339251
+Persistent Vegetative State,Heart Diseases,2,6.190159968
+Syncope,Heart Diseases,192,286.2511541
+"Syncope, Vasovagal",Heart Diseases,9,28.64310694
+Lethargy,Heart Diseases,1,3.495323148
+Memory Disorders,Heart Diseases,3,4.403992823
+Amnesia,Heart Diseases,1,2.171486142
+Mental Retardation,Heart Diseases,10,9.054466841
+Hallucinations,Heart Diseases,4,6.893152737
+Psychomotor Disorders,Heart Diseases,1,1.331640992
+Muscle Cramp,Heart Diseases,2,4.485120359
+Muscle Rigidity,Heart Diseases,1,2.401932804
+Muscle Spasticity,Heart Diseases,1,1.727280206
+Muscle Weakness,Heart Diseases,6,5.95794649
+Muscular Atrophy,Heart Diseases,11,16.06903947
+Myotonia,Heart Diseases,3,9.162145762
+Spasm,Heart Diseases,4,5.469109886
+Tetany,Heart Diseases,3,7.143620019
+Pain,Heart Diseases,65,21.41013606
+Back Pain,Heart Diseases,1,1.146928519
+Low Back Pain,Heart Diseases,2,3.180842046
+Facial Pain,Heart Diseases,2,3.944657185
+Headache,Heart Diseases,9,7.961078292
+Neck Pain,Heart Diseases,1,1.958792007
+Neuralgia,Heart Diseases,2,3.076628212
+"Pain, Referred",Heart Diseases,1,4.00354799
+Paralysis,Heart Diseases,13,6.298127907
+Hemiplegia,Heart Diseases,8,10.3570589
+Ophthalmoplegia,Heart Diseases,4,5.319389077
+"Supranuclear Palsy, Progressive",Heart Diseases,1,3.034147433
+Paraplegia,Heart Diseases,1,1.277479284
+Quadriplegia,Heart Diseases,3,4.107419008
+Respiratory Paralysis,Heart Diseases,2,4.978840515
+Vocal Cord Paralysis,Heart Diseases,5,9.938897717
+Paresis,Heart Diseases,3,3.863207351
+Psychophysiologic Disorders,Heart Diseases,65,96.36286622
+"Reflex, Abnormal",Heart Diseases,3,4.221392829
+Seizures,Heart Diseases,16,13.52267081
+Sensation Disorders,Heart Diseases,2,0.686643809
+Dizziness,Heart Diseases,11,14.76718565
+Hearing Disorders,Heart Diseases,3,2.205049725
+Hearing Loss,Heart Diseases,1,0.803550545
+Deafness,Heart Diseases,43,52.82666801
+"Hearing Loss, Sensorineural",Heart Diseases,1,1.21485586
+"Hearing Loss, Noise-Induced",Heart Diseases,1,3.194061818
+Hyperalgesia,Heart Diseases,1,2.394110078
+Paresthesia,Heart Diseases,1,1.358018146
+Vision Disorders,Heart Diseases,2,1.326978864
+Blindness,Heart Diseases,3,3.294415065
+Diplopia,Heart Diseases,3,4.932495897
+Sleep Disorders,Heart Diseases,19,28.36697929
+Sleep Deprivation,Heart Diseases,1,2.575912289
+Vertigo,Heart Diseases,9,14.36626749
+Voice Disorders,Heart Diseases,1,1.665244815
+Hoarseness,Heart Diseases,1,2.216126923
+Oral Manifestations,Heart Diseases,2,3.731552566
+Oral Hemorrhage,Heart Diseases,1,2.575912289
+Abdominal Pain,Heart Diseases,3,2.545451034
+"Abdomen, Acute",Heart Diseases,7,10.06320091
+Colic,Heart Diseases,1,2.134747316
+Arthralgia,Heart Diseases,1,1.4773
+Chest Pain,Heart Diseases,109,119.8521305
+Angina Pectoris,Heart Diseases,316,459.0479458
+Acute Coronary Syndrome,Heart Diseases,24,62.35105023
+"Angina, Unstable",Heart Diseases,42,94.18752755
+"Angina Pectoris, Variant",Heart Diseases,13,42.45733761
+Toothache,Heart Diseases,1,2.730582314
+"Pain, Postoperative",Heart Diseases,5,8.389276611
+Pelvic Pain,Heart Diseases,1,2.041078125
+Dysmenorrhea,Heart Diseases,1,2.760104754
+Anorexia,Heart Diseases,4,7.301042456
+Constipation,Heart Diseases,4,6.375661974
+Diarrhea,Heart Diseases,5,4.615940655
+Dyspepsia,Heart Diseases,3,6.246156598
+Heartburn,Heart Diseases,1,3.176869417
+Hyperphagia,Heart Diseases,2,4.798636846
+Nausea,Heart Diseases,10,11.38753074
+Vomiting,Heart Diseases,9,7.591613989
+Hematemesis,Heart Diseases,1,2.085861728
+Anoxia,Heart Diseases,125,125.2485715
+Fetal Hypoxia,Heart Diseases,4,10.93690122
+Apnea,Heart Diseases,7,13.13587736
+Cheyne-Stokes Respiration,Heart Diseases,5,18.18911605
+Cough,Heart Diseases,11,14.46202066
+Dyspnea,Heart Diseases,164,164.8563558
+"Dyspnea, Paroxysmal",Heart Diseases,11,41.27456918
+Hemoptysis,Heart Diseases,15,25.45611545
+Hypercapnia,Heart Diseases,9,18.9988544
+Hyperoxia,Heart Diseases,1,2.949190711
+Hyperventilation,Heart Diseases,22,46.31286323
+Hypoventilation,Heart Diseases,4,10.08541322
+Respiratory Sounds,Heart Diseases,6,9.83561597
+Snoring,Heart Diseases,3,8.280314261
+Skin Manifestations,Heart Diseases,6,3.674143309
+Ecchymosis,Heart Diseases,1,2.299981233
+Jaundice,Heart Diseases,4,5.818847084
+Pallor,Heart Diseases,1,3.535169057
+Purpura,Heart Diseases,3,3.189655818
+"Purpura, Schoenlein-Henoch",Heart Diseases,1,1.998214421
+"Purpura, Thrombocytopenic",Heart Diseases,1,1.414905521
+"Purpura, Thrombocytopenic, Idiopathic",Heart Diseases,1,1.933894455
+"Purpura, Thrombotic Thrombocytopenic",Heart Diseases,11,24.02442469
+Waterhouse-Friderichsen Syndrome,Heart Diseases,1,3.683914318
+Nocturia,Heart Diseases,1,4.172966142
+Oliguria,Heart Diseases,1,2.614012135
+Proteinuria,Heart Diseases,5,6.244888868
+Albuminuria,Heart Diseases,11,22.71595332
+"Urinary Bladder, Overactive",Heart Diseases,1,3.543332367
+Urinary Incontinence,Heart Diseases,1,1.617529342
+Asthenia,Adenocarcinoma,6,12.37931551
+Asthenia,"Carcinoma, Squamous Cell",3,6.189657753
+Fever,Adenocarcinoma,90,55.70438691
+Fever,"Carcinoma, Ductal, Breast",3,1.856812897
+Fever,"Carcinoma, Squamous Cell",40,24.75750529
+Fever of Unknown Origin,Adenocarcinoma,22,32.40940817
+Fever of Unknown Origin,"Carcinoma, Squamous Cell",7,10.31208442
+Hypothermia,Adenocarcinoma,2,3.890872431
+Hypothermia,"Carcinoma, Squamous Cell",1,1.945436215
+Body Weight,Adenocarcinoma,290,99.46647567
+Body Weight,"Carcinoma, Ductal, Breast",6,2.057927083
+Body Weight,"Carcinoma, Lewis Lung",14,4.80182986
+Body Weight,"Carcinoma, Squamous Cell",110,37.72866319
+Birth Weight,Adenocarcinoma,1,1.407130943
+Birth Weight,"Carcinoma, Squamous Cell",1,1.407130943
+Weight Gain,Adenocarcinoma,14,20.81365637
+Weight Gain,"Carcinoma, Ductal, Breast",1,1.486689741
+Weight Gain,"Carcinoma, Lewis Lung",1,1.486689741
+Weight Gain,"Carcinoma, Squamous Cell",5,7.433448703
+Weight Loss,Adenocarcinoma,84,84.00451176
+Weight Loss,"Carcinoma, Lewis Lung",2,2.000107423
+Weight Loss,"Carcinoma, Squamous Cell",36,36.00193361
+Emaciation,Adenocarcinoma,1,1.832640721
+Cachexia,Adenocarcinoma,110,219.4196417
+Cachexia,"Carcinoma, Lewis Lung",10,19.94724016
+Cachexia,"Carcinoma, Squamous Cell",19,37.8997563
+Overweight,Adenocarcinoma,2,1.647744199
+Obesity,Adenocarcinoma,106,88.25068707
+Obesity,"Carcinoma, Ductal, Breast",8,6.660429213
+Obesity,"Carcinoma, Squamous Cell",13,10.82319747
+"Obesity, Morbid",Adenocarcinoma,18,31.55291914
+"Obesity, Morbid","Carcinoma, Squamous Cell",1,1.752939952
+Thinness,Adenocarcinoma,3,8.01179883
+"Cardiac Output, Low",Adenocarcinoma,1,2.14279565
+"Cardiac Output, Low","Carcinoma, Squamous Cell",1,2.14279565
+Cyanosis,Adenocarcinoma,2,3.486819175
+Edema,Adenocarcinoma,51,30.3897828
+Edema,"Carcinoma, Ductal, Breast",8,4.767024753
+Edema,"Carcinoma, Lewis Lung",2,1.191756188
+Edema,"Carcinoma, Squamous Cell",30,17.87634282
+Eye Manifestations,"Carcinoma, Squamous Cell",1,1.507876974
+Fatigue,Adenocarcinoma,43,48.93456569
+Fatigue,"Carcinoma, Ductal, Breast",3,3.414039467
+Fatigue,"Carcinoma, Squamous Cell",16,18.20821049
+Fatigue,Small Cell Lung Carcinoma,3,3.414039467
+Feminization,Adenocarcinoma,1,3.762385933
+Feminization,"Carcinoma, Squamous Cell",1,3.762385933
+Flushing,Adenocarcinoma,2,5.22802427
+Flushing,"Carcinoma, Squamous Cell",6,15.68407281
+Heart Murmurs,Adenocarcinoma,1,2.363417131
+Heart Murmurs,"Carcinoma, Squamous Cell",1,2.363417131
+Hot Flashes,Adenocarcinoma,2,6.811421979
+Hot Flashes,"Carcinoma, Ductal, Breast",4,13.62284396
+Hypergammaglobulinemia,Adenocarcinoma,8,13.43300131
+Hypergammaglobulinemia,"Carcinoma, Squamous Cell",3,5.037375491
+Intermittent Claudication,Adenocarcinoma,1,2.218303202
+Intermittent Claudication,"Carcinoma, Squamous Cell",1,2.218303202
+Neurologic Manifestations,Adenocarcinoma,15,1.049121198
+Neurologic Manifestations,"Carcinoma, Squamous Cell",9,0.629472719
+Cerebrospinal Fluid Otorrhea,"Carcinoma, Squamous Cell",2,6.376596226
+Cerebrospinal Fluid Rhinorrhea,"Carcinoma, Squamous Cell",1,2.677472489
+Ataxia,Adenocarcinoma,3,3.658979138
+Cerebellar Ataxia,Adenocarcinoma,12,20.50542748
+Cerebellar Ataxia,"Carcinoma, Squamous Cell",5,8.543928115
+Gait Ataxia,Adenocarcinoma,1,2.802175968
+Chorea,Adenocarcinoma,3,5.978950114
+Chorea,"Carcinoma, Squamous Cell",1,1.992983371
+Chorea,Small Cell Lung Carcinoma,1,1.992983371
+Torticollis,Adenocarcinoma,1,2.154990923
+Torticollis,"Carcinoma, Squamous Cell",2,4.309981845
+Myoclonus,Adenocarcinoma,4,7.100283478
+Psychomotor Agitation,Adenocarcinoma,1,2.24256018
+"Akathisia, Drug-Induced",Adenocarcinoma,1,3.110911449
+"Akathisia, Drug-Induced","Carcinoma, Squamous Cell",1,3.110911449
+Tremor,"Carcinoma, Squamous Cell",3,5.21805836
+"Gait Disorders, Neurologic",Adenocarcinoma,2,3.48953104
+"Gait Disorders, Neurologic",Small Cell Lung Carcinoma,1,1.74476552
+Meningism,"Carcinoma, Squamous Cell",1,3.074353854
+Apraxias,Adenocarcinoma,1,2.383774069
+Language Disorders,Adenocarcinoma,1,1.077736663
+Agraphia,Adenocarcinoma,2,6.700282277
+"Dyslexia, Acquired",Adenocarcinoma,1,3.519039675
+Speech Disorders,"Carcinoma, Squamous Cell",8,9.223332488
+Aphasia,Adenocarcinoma,4,7.242647258
+Aphasia,"Carcinoma, Squamous Cell",4,7.242647258
+"Aphasia, Wernicke","Carcinoma, Squamous Cell",1,3.495323148
+Articulation Disorders,"Carcinoma, Squamous Cell",1,1.887448958
+Dysarthria,Adenocarcinoma,4,8.106340471
+Dysarthria,"Carcinoma, Squamous Cell",1,2.026585118
+Confusion,Adenocarcinoma,6,9.053689268
+Confusion,"Carcinoma, Squamous Cell",3,4.526844634
+Confusion,Small Cell Lung Carcinoma,1,1.508948211
+Delirium,Adenocarcinoma,3,6.251865449
+Consciousness Disorders,Adenocarcinoma,2,1.754258552
+Consciousness Disorders,"Carcinoma, Squamous Cell",2,1.754258552
+Unconsciousness,Adenocarcinoma,1,0.927972829
+Unconsciousness,"Carcinoma, Squamous Cell",1,0.927972829
+Coma,Adenocarcinoma,7,9.18459369
+Persistent Vegetative State,Adenocarcinoma,1,3.095079984
+Syncope,Adenocarcinoma,2,2.981782855
+Syncope,"Carcinoma, Squamous Cell",23,34.29050283
+"Syncope, Vasovagal","Carcinoma, Squamous Cell",1,3.182567438
+Lethargy,Adenocarcinoma,1,3.495323148
+Memory Disorders,"Carcinoma, Squamous Cell",3,4.403992823
+Memory Disorders,Small Cell Lung Carcinoma,2,2.935995215
+Korsakoff Syndrome,Adenocarcinoma,1,4.029865299
+Mental Retardation,Adenocarcinoma,4,3.621786736
+Mental Retardation,"Carcinoma, Squamous Cell",2,1.810893368
+Perceptual Disorders,Adenocarcinoma,2,2.772114732
+Agnosia,"Carcinoma, Squamous Cell",2,5.072424838
+Gerstmann Syndrome,Adenocarcinoma,1,3.990644585
+Auditory Perceptual Disorders,"Carcinoma, Squamous Cell",1,3.143346725
+Hallucinations,Adenocarcinoma,1,1.723288184
+Phantom Limb,Adenocarcinoma,1,3.2293596
+Muscle Rigidity,"Carcinoma, Squamous Cell",1,2.401932804
+Muscle Weakness,Adenocarcinoma,7,6.950937572
+Muscle Weakness,"Carcinoma, Ductal, Breast",3,2.978973245
+Muscle Weakness,"Carcinoma, Squamous Cell",10,9.929910817
+Muscle Weakness,Small Cell Lung Carcinoma,1,0.992991082
+Muscular Atrophy,Adenocarcinoma,9,13.14739593
+Muscular Atrophy,"Carcinoma, Lewis Lung",1,1.46082177
+Muscular Atrophy,"Carcinoma, Squamous Cell",3,4.382465309
+Myotonia,Adenocarcinoma,3,9.162145762
+Myotonia,"Carcinoma, Squamous Cell",1,3.054048587
+Spasm,Adenocarcinoma,4,5.469109886
+Spasm,"Carcinoma, Ductal, Breast",1,1.367277472
+Spasm,"Carcinoma, Squamous Cell",4,5.469109886
+Hemifacial Spasm,Adenocarcinoma,1,3.241407938
+Hemifacial Spasm,"Carcinoma, Squamous Cell",1,3.241407938
+Trismus,Adenocarcinoma,1,2.597960426
+Trismus,"Carcinoma, Squamous Cell",13,33.77348554
+Tetany,Adenocarcinoma,1,2.381206673
+Pain,Adenocarcinoma,160,52.70187338
+Pain,"Carcinoma, Ductal, Breast",5,1.646933543
+Pain,"Carcinoma, Squamous Cell",74,24.37461644
+Pain,Small Cell Lung Carcinoma,2,0.658773417
+Back Pain,Adenocarcinoma,27,30.96707002
+Back Pain,"Carcinoma, Squamous Cell",5,5.734642596
+Low Back Pain,Adenocarcinoma,9,14.31378921
+Low Back Pain,"Carcinoma, Squamous Cell",2,3.180842046
+Facial Pain,Adenocarcinoma,6,11.83397155
+Facial Pain,"Carcinoma, Ductal, Breast",1,1.972328592
+Facial Pain,"Carcinoma, Squamous Cell",14,27.61260029
+Headache,Adenocarcinoma,16,14.15302808
+Headache,"Carcinoma, Ductal, Breast",1,0.884564255
+Headache,"Carcinoma, Squamous Cell",13,11.49933531
+Neck Pain,"Carcinoma, Squamous Cell",1,1.958792007
+Neuralgia,Adenocarcinoma,2,3.076628212
+Neuralgia,"Carcinoma, Squamous Cell",10,15.38314106
+Sciatica,Adenocarcinoma,6,13.01645579
+Sciatica,"Carcinoma, Squamous Cell",1,2.169409298
+"Pain, Intractable",Adenocarcinoma,20,39.85966743
+"Pain, Intractable","Carcinoma, Ductal, Breast",2,3.985966743
+"Pain, Intractable","Carcinoma, Squamous Cell",15,29.89475057
+Paralysis,Adenocarcinoma,12,5.81365653
+Paralysis,"Carcinoma, Squamous Cell",12,5.81365653
+Facial Paralysis,Adenocarcinoma,22,29.85613206
+Facial Paralysis,"Carcinoma, Squamous Cell",28,37.99871353
+Facial Paralysis,Small Cell Lung Carcinoma,1,1.357096912
+Gastroparesis,Adenocarcinoma,5,16.48748702
+Gastroparesis,Small Cell Lung Carcinoma,1,3.297497405
+Hemiplegia,Adenocarcinoma,9,11.65169127
+Hemiplegia,"Carcinoma, Squamous Cell",2,2.589264726
+Ophthalmoplegia,Adenocarcinoma,4,5.319389077
+Ophthalmoplegia,"Carcinoma, Squamous Cell",15,19.94770904
+"Supranuclear Palsy, Progressive",Adenocarcinoma,2,6.068294866
+Paraplegia,Adenocarcinoma,8,10.21983427
+Paraplegia,"Carcinoma, Ductal, Breast",1,1.277479284
+Paraplegia,"Carcinoma, Squamous Cell",17,21.71714782
+Brown-Sequard Syndrome,Adenocarcinoma,1,3.535169057
+Quadriplegia,Adenocarcinoma,4,5.476558678
+Quadriplegia,"Carcinoma, Squamous Cell",4,5.476558678
+Respiratory Paralysis,Adenocarcinoma,1,2.489420258
+Respiratory Paralysis,"Carcinoma, Ductal, Breast",1,2.489420258
+Respiratory Paralysis,"Carcinoma, Squamous Cell",1,2.489420258
+Vocal Cord Paralysis,Adenocarcinoma,9,17.89001589
+Vocal Cord Paralysis,"Carcinoma, Squamous Cell",17,33.79225224
+Paresis,Adenocarcinoma,1,1.287735784
+Paresis,"Carcinoma, Squamous Cell",7,9.014150487
+Paraparesis,Adenocarcinoma,2,4.471772145
+Paraparesis,"Carcinoma, Squamous Cell",1,2.235886073
+Psychophysiologic Disorders,Adenocarcinoma,4,5.930022537
+Psychophysiologic Disorders,"Carcinoma, Squamous Cell",1,1.482505634
+Anisocoria,Adenocarcinoma,1,3.350141138
+Horner Syndrome,Adenocarcinoma,4,8.838505432
+Horner Syndrome,"Carcinoma, Ductal, Breast",2,4.419252716
+"Reflex, Abnormal",Adenocarcinoma,1,1.407130943
+"Reflex, Abnormal","Carcinoma, Squamous Cell",3,4.221392829
+Seizures,Adenocarcinoma,8,6.761335404
+Seizures,"Carcinoma, Squamous Cell",4,3.380667702
+Seizures,Small Cell Lung Carcinoma,1,0.845166926
+Sensation Disorders,Adenocarcinoma,2,0.686643809
+Sensation Disorders,"Carcinoma, Squamous Cell",4,1.373287617
+Dizziness,Adenocarcinoma,8,10.73977138
+Dizziness,"Carcinoma, Squamous Cell",5,6.712357112
+Hearing Disorders,Adenocarcinoma,2,1.47003315
+Hearing Disorders,"Carcinoma, Squamous Cell",9,6.615149175
+Hearing Loss,Adenocarcinoma,3,2.410651634
+Hearing Loss,"Carcinoma, Squamous Cell",7,5.624853812
+Deafness,Adenocarcinoma,5,6.142635815
+Deafness,"Carcinoma, Ductal, Breast",1,1.228527163
+Deafness,"Carcinoma, Squamous Cell",11,13.51379879
+"Hearing Loss, Bilateral",Adenocarcinoma,2,4.423577042
+"Hearing Loss, Bilateral","Carcinoma, Squamous Cell",1,2.211788521
+"Hearing Loss, Conductive",Adenocarcinoma,1,2.267420217
+"Hearing Loss, Conductive","Carcinoma, Squamous Cell",3,6.802260651
+"Hearing Loss, Functional","Carcinoma, Squamous Cell",1,4.25300885
+"Hearing Loss, High-Frequency","Carcinoma, Squamous Cell",2,6.211212794
+"Hearing Loss, Mixed Conductive-Sensorineural","Carcinoma, Squamous Cell",1,4.00354799
+"Hearing Loss, Sensorineural",Adenocarcinoma,8,9.718846884
+"Hearing Loss, Sensorineural","Carcinoma, Squamous Cell",9,10.93370274
+"Hearing Loss, Sensorineural",Small Cell Lung Carcinoma,1,1.21485586
+"Hearing Loss, Sudden",Adenocarcinoma,2,5.170604059
+"Hearing Loss, Sudden","Carcinoma, Squamous Cell",1,2.585302029
+Tinnitus,Adenocarcinoma,5,9.870168113
+Tinnitus,"Carcinoma, Squamous Cell",4,7.89613449
+Olfaction Disorders,Adenocarcinoma,3,6.86469065
+Olfaction Disorders,"Carcinoma, Squamous Cell",2,4.576460433
+Hyperalgesia,Adenocarcinoma,1,2.394110078
+Hyperalgesia,"Carcinoma, Squamous Cell",3,7.182330234
+Hypesthesia,Adenocarcinoma,3,5.165883132
+Hypesthesia,"Carcinoma, Squamous Cell",4,6.887844176
+Paresthesia,Adenocarcinoma,10,13.58018146
+Paresthesia,"Carcinoma, Ductal, Breast",1,1.358018146
+Paresthesia,"Carcinoma, Squamous Cell",9,12.22216332
+Paresthesia,Small Cell Lung Carcinoma,1,1.358018146
+Taste Disorders,"Carcinoma, Squamous Cell",6,14.25654943
+Ageusia,"Carcinoma, Squamous Cell",1,3.585179477
+Dysgeusia,Adenocarcinoma,1,3.472156089
+Dysgeusia,"Carcinoma, Squamous Cell",1,3.472156089
+Vision Disorders,Adenocarcinoma,16,10.61583091
+Vision Disorders,"Carcinoma, Ductal, Breast",1,0.663489432
+Vision Disorders,"Carcinoma, Squamous Cell",12,7.961873182
+Blindness,Adenocarcinoma,17,18.66835204
+Blindness,"Carcinoma, Squamous Cell",8,8.78510684
+Color Vision Defects,"Carcinoma, Squamous Cell",1,2.566609896
+Diplopia,Adenocarcinoma,2,3.288330598
+Diplopia,"Carcinoma, Ductal, Breast",1,1.644165299
+Diplopia,"Carcinoma, Squamous Cell",3,4.932495897
+Hemianopsia,Adenocarcinoma,6,12.4923132
+Scotoma,Adenocarcinoma,3,7.143620019
+Scotoma,"Carcinoma, Ductal, Breast",1,2.381206673
+"Vision, Low",Adenocarcinoma,1,2.25604353
+"Vision, Low","Carcinoma, Squamous Cell",1,2.25604353
+Sleep Disorders,Adenocarcinoma,2,2.98599782
+Sleep Disorders,Small Cell Lung Carcinoma,1,1.49299891
+"Urinary Bladder, Neurogenic",Adenocarcinoma,4,8.313028514
+"Urinary Bladder, Neurogenic","Carcinoma, Squamous Cell",9,18.70431416
+Vertigo,Adenocarcinoma,5,7.981259716
+Vertigo,"Carcinoma, Squamous Cell",5,7.981259716
+Voice Disorders,Adenocarcinoma,1,1.665244815
+Voice Disorders,"Carcinoma, Squamous Cell",22,36.63538592
+Aphonia,"Carcinoma, Squamous Cell",2,7.257709082
+Hoarseness,Adenocarcinoma,4,8.864507691
+Hoarseness,"Carcinoma, Squamous Cell",25,55.40317307
+Oral Manifestations,"Carcinoma, Squamous Cell",1,1.865776283
+Oral Hemorrhage,Adenocarcinoma,1,2.575912289
+Oral Hemorrhage,"Carcinoma, Squamous Cell",5,12.87956144
+Abdominal Pain,Adenocarcinoma,76,64.48475954
+Abdominal Pain,"Carcinoma, Ductal, Breast",1,0.848483678
+Abdominal Pain,"Carcinoma, Squamous Cell",10,8.484836781
+Abdominal Pain,Small Cell Lung Carcinoma,1,0.848483678
+"Abdomen, Acute",Adenocarcinoma,37,53.19120483
+"Abdomen, Acute","Carcinoma, Ductal, Breast",1,1.43760013
+"Abdomen, Acute","Carcinoma, Squamous Cell",8,11.50080104
+Colic,Adenocarcinoma,4,8.538989265
+Arthralgia,Adenocarcinoma,5,7.386500002
+Arthralgia,"Carcinoma, Squamous Cell",3,4.431900001
+Shoulder Pain,Adenocarcinoma,3,7.261282158
+Shoulder Pain,"Carcinoma, Squamous Cell",1,2.420427386
+Chest Pain,Adenocarcinoma,10,10.9956083
+Chest Pain,"Carcinoma, Squamous Cell",10,10.9956083
+Angina Pectoris,Adenocarcinoma,3,4.358050118
+Angina Pectoris,"Carcinoma, Ductal, Breast",1,1.452683373
+Angina Pectoris,"Carcinoma, Squamous Cell",1,1.452683373
+"Angina, Unstable",Adenocarcinoma,1,2.24256018
+"Angina, Unstable","Carcinoma, Squamous Cell",1,2.24256018
+"Angina Pectoris, Variant",Adenocarcinoma,2,6.531898094
+"Angina Pectoris, Variant","Carcinoma, Squamous Cell",1,3.265949047
+Earache,Adenocarcinoma,1,2.817924325
+Earache,"Carcinoma, Squamous Cell",2,5.635848649
+Toothache,"Carcinoma, Squamous Cell",3,8.191746943
+"Pain, Postoperative",Adenocarcinoma,8,13.42284258
+"Pain, Postoperative","Carcinoma, Squamous Cell",3,5.033565967
+Pelvic Pain,Adenocarcinoma,2,4.08215625
+Pelvic Pain,"Carcinoma, Squamous Cell",3,6.123234376
+Anorexia,Adenocarcinoma,45,82.13672763
+Anorexia,"Carcinoma, Ductal, Breast",1,1.825260614
+Anorexia,"Carcinoma, Lewis Lung",1,1.825260614
+Anorexia,"Carcinoma, Squamous Cell",26,47.45677596
+Constipation,Adenocarcinoma,16,25.5026479
+Constipation,"Carcinoma, Ductal, Breast",1,1.593915494
+Constipation,"Carcinoma, Squamous Cell",3,4.781746481
+Constipation,Small Cell Lung Carcinoma,1,1.593915494
+Diarrhea,Adenocarcinoma,145,133.862279
+Diarrhea,"Carcinoma, Ductal, Breast",3,2.769564393
+Diarrhea,"Carcinoma, Squamous Cell",32,29.54202019
+Diarrhea,Small Cell Lung Carcinoma,2,1.846376262
+Dyspepsia,Adenocarcinoma,19,39.55899179
+Dyspepsia,"Carcinoma, Squamous Cell",2,4.164104399
+Eructation,Adenocarcinoma,2,7.955811119
+Flatulence,Adenocarcinoma,2,6.275734519
+Halitosis,Adenocarcinoma,1,3.241407938
+Heartburn,Adenocarcinoma,10,31.76869417
+Heartburn,"Carcinoma, Squamous Cell",1,3.176869417
+Hiccup,Adenocarcinoma,4,11.81490346
+Bulimia,Adenocarcinoma,1,2.763857103
+Nausea,Adenocarcinoma,150,170.8129611
+Nausea,"Carcinoma, Ductal, Breast",8,9.110024593
+Nausea,"Carcinoma, Squamous Cell",87,99.07151745
+Nausea,Small Cell Lung Carcinoma,2,2.277506148
+Vomiting,Adenocarcinoma,123,103.7520578
+Vomiting,"Carcinoma, Ductal, Breast",6,5.061075993
+Vomiting,"Carcinoma, Squamous Cell",60,50.61075993
+Hematemesis,Adenocarcinoma,15,31.28792592
+Hematemesis,"Carcinoma, Ductal, Breast",1,2.085861728
+Hematemesis,"Carcinoma, Squamous Cell",11,22.94447901
+Hyperemesis Gravidarum,Adenocarcinoma,6,17.25049643
+"Vomiting, Anticipatory",Adenocarcinoma,10,45.40690922
+"Vomiting, Anticipatory","Carcinoma, Squamous Cell",8,36.32552738
+Anoxia,Adenocarcinoma,39,39.0775543
+Anoxia,"Carcinoma, Ductal, Breast",1,1.001988572
+Anoxia,"Carcinoma, Lewis Lung",5,5.009942859
+Anoxia,"Carcinoma, Squamous Cell",66,66.13124573
+Cough,Adenocarcinoma,19,24.97985387
+Cough,"Carcinoma, Squamous Cell",13,17.09147896
+Dyspnea,Adenocarcinoma,38,38.1984239
+Dyspnea,"Carcinoma, Ductal, Breast",5,5.026108408
+Dyspnea,"Carcinoma, Squamous Cell",28,28.14620708
+Dyspnea,Small Cell Lung Carcinoma,4,4.020886726
+Hemoptysis,Adenocarcinoma,18,30.54733854
+Hemoptysis,"Carcinoma, Squamous Cell",27,45.82100782
+Hemoptysis,Small Cell Lung Carcinoma,1,1.697074364
+Hypercapnia,"Carcinoma, Squamous Cell",1,2.110983822
+Hyperoxia,Adenocarcinoma,5,14.74595355
+Hyperoxia,"Carcinoma, Squamous Cell",1,2.949190711
+Hyperventilation,"Carcinoma, Squamous Cell",1,2.105130147
+Hypoventilation,Adenocarcinoma,1,2.521353305
+Respiratory Aspiration,"Carcinoma, Squamous Cell",3,9.990220726
+Respiratory Sounds,Adenocarcinoma,2,3.278538657
+Respiratory Sounds,"Carcinoma, Squamous Cell",6,9.83561597
+Snoring,"Carcinoma, Squamous Cell",1,2.760104754
+Sneezing,"Carcinoma, Squamous Cell",1,3.356920825
+Skin Manifestations,Adenocarcinoma,4,2.449428872
+Skin Manifestations,"Carcinoma, Squamous Cell",6,3.674143309
+Cafe-au-Lait Spots,Adenocarcinoma,1,3.303928295
+Ecchymosis,Adenocarcinoma,4,9.199924932
+Ecchymosis,"Carcinoma, Squamous Cell",1,2.299981233
+Jaundice,Adenocarcinoma,34,49.46020021
+Jaundice,"Carcinoma, Ductal, Breast",1,1.454711771
+"Jaundice, Obstructive",Adenocarcinoma,21,52.45860128
+"Jaundice, Obstructive","Carcinoma, Squamous Cell",1,2.498028632
+Pallor,Adenocarcinoma,1,3.535169057
+Pruritus,Adenocarcinoma,12,17.5913053
+Pruritus,"Carcinoma, Ductal, Breast",2,2.931884217
+Pruritus,"Carcinoma, Squamous Cell",8,11.72753687
+Tinea Pedis,"Carcinoma, Squamous Cell",2,6.944312178
+Purpura,Adenocarcinoma,4,4.252874424
+Purpura,"Carcinoma, Squamous Cell",3,3.189655818
+Purpura,Small Cell Lung Carcinoma,1,1.063218606
+"Purpura, Schoenlein-Henoch",Adenocarcinoma,7,13.98750095
+"Purpura, Schoenlein-Henoch","Carcinoma, Ductal, Breast",1,1.998214421
+"Purpura, Schoenlein-Henoch","Carcinoma, Squamous Cell",9,17.98392979
+"Purpura, Thrombocytopenic",Adenocarcinoma,4,5.659622082
+"Purpura, Thrombocytopenic","Carcinoma, Squamous Cell",2,2.829811041
+"Purpura, Thrombocytopenic",Small Cell Lung Carcinoma,1,1.414905521
+"Purpura, Thrombocytopenic, Idiopathic",Adenocarcinoma,6,11.60336673
+"Purpura, Thrombocytopenic, Idiopathic","Carcinoma, Ductal, Breast",3,5.801683365
+"Purpura, Thrombocytopenic, Idiopathic","Carcinoma, Squamous Cell",5,9.669472275
+"Purpura, Thrombotic Thrombocytopenic",Adenocarcinoma,17,37.12865634
+"Purpura, Thrombotic Thrombocytopenic","Carcinoma, Ductal, Breast",1,2.184038608
+"Purpura, Thrombotic Thrombocytopenic","Carcinoma, Squamous Cell",1,2.184038608
+Polyuria,Adenocarcinoma,3,7.082704221
+Prostatism,Adenocarcinoma,2,9.316947916
+Proteinuria,Adenocarcinoma,10,12.48977774
+Proteinuria,"Carcinoma, Ductal, Breast",1,1.248977774
+Proteinuria,"Carcinoma, Squamous Cell",2,2.497955547
+Albuminuria,"Carcinoma, Squamous Cell",1,2.065086665
+Urinary Incontinence,Adenocarcinoma,32,51.76093893
+Urinary Incontinence,"Carcinoma, Ductal, Breast",1,1.617529342
+Urinary Incontinence,"Carcinoma, Squamous Cell",5,8.087646708
+"Urinary Incontinence, Stress",Adenocarcinoma,3,8.406527903
+Virilism,Adenocarcinoma,5,11.13527997
+Virilism,"Carcinoma, Squamous Cell",1,2.227055993
+Hirsutism,Adenocarcinoma,3,7.45116671
+Hirsutism,"Carcinoma, Ductal, Breast",1,2.483722237
+Asthenia,Vertigo,4,8.252877004
+Fever,Vertigo,2,1.237875265
+Hypothermia,Vertigo,1,1.945436215
+Body Weight,Vertigo,2,0.685975694
+Edema,Vertigo,10,5.958780941
+Eye Manifestations,Vertigo,2,3.015753948
+Fatigue,Vertigo,6,6.828078933
+Motion Sickness,Vertigo,33,115.3456639
+Neurologic Manifestations,Vertigo,11,0.769355545
+Cerebrospinal Fluid Otorrhea,Vertigo,2,6.376596226
+Decerebrate State,Vertigo,1,2.94467603
+Ataxia,Vertigo,34,41.46843023
+Cerebellar Ataxia,Vertigo,12,20.50542748
+Gait Ataxia,Vertigo,3,8.406527903
+Chorea,Vertigo,1,1.992983371
+Dystonia,Vertigo,1,1.536109034
+Torticollis,Vertigo,9,19.3949183
+Myoclonus,Vertigo,1,1.775070869
+Tremor,Vertigo,5,8.696763934
+"Gait Disorders, Neurologic",Vertigo,3,5.23429656
+Apraxias,Vertigo,1,2.383774069
+Dyslexia,Vertigo,1,2.677472489
+Speech Disorders,Vertigo,4,4.611666244
+Dysarthria,Vertigo,4,8.106340471
+Mutism,Vertigo,1,2.922403395
+Confusion,Vertigo,6,9.053689268
+Unconsciousness,Vertigo,4,3.711891317
+Coma,Vertigo,2,2.624169626
+Syncope,Vertigo,45,67.09011424
+Memory Disorders,Vertigo,1,1.467997608
+Amnesia,Vertigo,3,6.514458426
+Perceptual Disorders,Vertigo,4,5.544229465
+Auditory Perceptual Disorders,Vertigo,1,3.143346725
+Hallucinations,Vertigo,5,8.616440922
+Illusions,Vertigo,6,18.53914824
+Muscle Hypertonia,Vertigo,1,1.480420128
+Muscle Spasticity,Vertigo,1,1.727280206
+Muscle Hypotonia,Vertigo,1,1.656511135
+Muscle Weakness,Vertigo,7,6.950937572
+Myokymia,Vertigo,1,4.09885817
+Spasm,Vertigo,4,5.469109886
+Trismus,Vertigo,1,2.597960426
+Pain,Vertigo,11,3.623253795
+Back Pain,Vertigo,5,5.734642596
+Low Back Pain,Vertigo,2,3.180842046
+Headache,Vertigo,71,62.80406208
+Neck Pain,Vertigo,7,13.71154405
+Neuralgia,Vertigo,3,4.614942318
+Paralysis,Vertigo,8,3.87577102
+Facial Paralysis,Vertigo,14,18.99935676
+Hemiplegia,Vertigo,4,5.178529452
+Ophthalmoplegia,Vertigo,7,9.308930884
+Paresis,Vertigo,5,6.438678919
+Psychophysiologic Disorders,Vertigo,46,68.19525917
+"Reflex, Abnormal",Vertigo,14,19.6998332
+Seizures,Vertigo,13,10.98717003
+Sensation Disorders,Vertigo,24,8.239725703
+Dizziness,Vertigo,3478,4669.115607
+Hearing Disorders,Vertigo,105,77.17674037
+Hearing Loss,Vertigo,52,41.78462832
+Deafness,Vertigo,66,81.08279276
+"Hearing Loss, Bilateral",Vertigo,17,37.60040486
+"Hearing Loss, Conductive",Vertigo,9,20.40678195
+"Hearing Loss, Functional",Vertigo,1,4.25300885
+"Hearing Loss, High-Frequency",Vertigo,5,15.52803199
+"Hearing Loss, Mixed Conductive-Sensorineural",Vertigo,1,4.00354799
+"Hearing Loss, Sensorineural",Vertigo,134,162.7906853
+"Hearing Loss, Central",Vertigo,1,3.253603211
+"Hearing Loss, Noise-Induced",Vertigo,7,22.35843272
+Presbycusis,Vertigo,1,3.693393062
+"Hearing Loss, Sudden",Vertigo,37,95.65617509
+"Hearing Loss, Unilateral",Vertigo,2,7.170358955
+Hyperacusis,Vertigo,1,4.056893971
+Tinnitus,Vertigo,146,288.2089089
+Olfaction Disorders,Vertigo,3,6.86469065
+Somatosensory Disorders,Vertigo,2,2.09106214
+Hyperesthesia,Vertigo,1,2.694864232
+Hypesthesia,Vertigo,4,6.887844176
+Paresthesia,Vertigo,3,4.074054438
+Taste Disorders,Vertigo,1,2.376091572
+Vision Disorders,Vertigo,27,17.91421466
+Blindness,Vertigo,1,1.098138355
+Amaurosis Fugax,Vertigo,1,3.511071505
+Diplopia,Vertigo,11,18.08581829
+Photophobia,Vertigo,1,2.854291969
+Scotoma,Vertigo,1,2.381206673
+Sleep Disorders,Vertigo,6,8.957993459
+"Urinary Bladder, Neurogenic",Vertigo,1,2.078257128
+Shoulder Pain,Vertigo,1,2.420427386
+Chest Pain,Vertigo,1,1.09956083
+Angina Pectoris,Vertigo,4,5.810733491
+Earache,Vertigo,4,11.2716973
+"Pain, Postoperative",Vertigo,1,1.677855322
+Constipation,Vertigo,1,1.593915494
+Diarrhea,Vertigo,3,2.769564393
+Hiccup,Vertigo,2,5.907451732
+Nausea,Vertigo,39,44.41136989
+Vomiting,Vertigo,38,32.05348129
+Anoxia,Vertigo,2,2.003977143
+Apnea,Vertigo,1,1.876553908
+Cough,Vertigo,1,1.314729151
+Dyspnea,Vertigo,3,3.015665045
+Hyperventilation,Vertigo,6,12.63078088
+Sneezing,Vertigo,1,3.356920825
+Pruritus,Vertigo,2,2.931884217
+Purpura,Vertigo,1,1.063218606
+Hirsutism,Vertigo,1,2.483722237
+Asthenia,Depressive Disorder,11,22.69541176
+Fever,Depressive Disorder,13,8.04618922
+Hypothermia,Depressive Disorder,5,9.727181077
+Body Weight,Depressive Disorder,226,77.51525345
+Birth Weight,Depressive Disorder,14,19.6998332
+Weight Gain,Depressive Disorder,70,104.0682818
+Weight Loss,Depressive Disorder,56,56.00300784
+Cachexia,Depressive Disorder,4,7.978896063
+Overweight,Depressive Disorder,11,9.062593095
+Obesity,Depressive Disorder,90,74.92982865
+"Obesity, Morbid",Depressive Disorder,5,8.764699762
+Thinness,Depressive Disorder,3,8.01179883
+"Cardiac Output, Low",Depressive Disorder,2,4.285591299
+Edema,Depressive Disorder,3,1.787634282
+Fatigue,Depressive Disorder,132,150.2177365
+Mental Fatigue,Depressive Disorder,6,21.51107686
+Flushing,Depressive Disorder,4,10.45604854
+Hot Flashes,Depressive Disorder,8,27.24568792
+Mobility Limitation,Depressive Disorder,6,16.58314262
+Neurologic Manifestations,Depressive Disorder,1,0.069941413
+Dyskinesias,Depressive Disorder,3,2.243856236
+Ataxia,Depressive Disorder,1,1.219659713
+Cerebellar Ataxia,Depressive Disorder,3,5.126356869
+Athetosis,Depressive Disorder,2,5.164324619
+Catalepsy,Depressive Disorder,2,7.349049155
+Chorea,Depressive Disorder,4,7.971933485
+Dystonia,Depressive Disorder,20,30.72218067
+Torticollis,Depressive Disorder,2,4.309981845
+Hyperkinesis,Depressive Disorder,3,7.023000758
+Hypokinesia,Depressive Disorder,3,8.637879813
+Myoclonus,Depressive Disorder,18,31.95127565
+Psychomotor Agitation,Depressive Disorder,99,222.0134578
+"Akathisia, Drug-Induced",Depressive Disorder,65,202.2092442
+Tremor,Depressive Disorder,30,52.1805836
+"Gait Disorders, Neurologic",Depressive Disorder,3,5.23429656
+Neurobehavioral Manifestations,Depressive Disorder,7,2.59530602
+Apraxias,Depressive Disorder,1,2.383774069
+Catatonia,Depressive Disorder,34,91.86482149
+Communication Disorders,Depressive Disorder,2,1.977045028
+Language Disorders,Depressive Disorder,3,3.233209988
+Anomia,Depressive Disorder,4,13.68039891
+Dyslexia,Depressive Disorder,2,5.354944978
+Language Development Disorders,Depressive Disorder,3,7.459701566
+Speech Disorders,Depressive Disorder,8,9.223332488
+Aphasia,Depressive Disorder,26,47.07720718
+"Aphasia, Broca",Depressive Disorder,4,12.4436458
+"Aphasia, Primary Progressive",Depressive Disorder,2,8.994411621
+"Aphasia, Wernicke",Depressive Disorder,2,6.990646296
+Articulation Disorders,Depressive Disorder,2,3.774897915
+Dysarthria,Depressive Disorder,4,8.106340471
+Mutism,Depressive Disorder,4,11.68961358
+Stuttering,Depressive Disorder,3,9.970418674
+Learning Disorders,Depressive Disorder,44,76.3537446
+Confusion,Depressive Disorder,39,58.84898024
+Delirium,Depressive Disorder,71,147.9608156
+Consciousness Disorders,Depressive Disorder,1,0.877129276
+Unconsciousness,Depressive Disorder,3,2.783918488
+Coma,Depressive Disorder,8,10.4966785
+Persistent Vegetative State,Depressive Disorder,3,9.285239952
+Stupor,Depressive Disorder,1,4.850845851
+Syncope,Depressive Disorder,12,17.89069713
+"Syncope, Vasovagal",Depressive Disorder,2,6.365134876
+Lethargy,Depressive Disorder,2,6.990646296
+Memory Disorders,Depressive Disorder,151,221.6676388
+Amnesia,Depressive Disorder,34,73.83052883
+"Amnesia, Anterograde",Depressive Disorder,1,4.070687293
+"Amnesia, Retrograde",Depressive Disorder,12,40.78312226
+Korsakoff Syndrome,Depressive Disorder,1,4.029865299
+Mental Retardation,Depressive Disorder,108,97.78824188
+Perceptual Disorders,Depressive Disorder,17,23.56297523
+Agnosia,Depressive Disorder,3,7.608637257
+Auditory Perceptual Disorders,Depressive Disorder,3,9.430040175
+Hallucinations,Depressive Disorder,127,218.8575994
+Illusions,Depressive Disorder,5,15.4492902
+Phantom Limb,Depressive Disorder,1,3.2293596
+Psychomotor Disorders,Depressive Disorder,115,153.138714
+Fasciculation,Depressive Disorder,1,3.074353854
+Muscle Cramp,Depressive Disorder,1,2.24256018
+Muscle Hypertonia,Depressive Disorder,1,1.480420128
+Muscle Rigidity,Depressive Disorder,1,2.401932804
+Muscle Spasticity,Depressive Disorder,1,1.727280206
+Muscle Hypotonia,Depressive Disorder,1,1.656511135
+Muscle Weakness,Depressive Disorder,1,0.992991082
+Spasm,Depressive Disorder,3,4.101832415
+Hemifacial Spasm,Depressive Disorder,1,3.241407938
+Tetany,Depressive Disorder,1,2.381206673
+Pain,Depressive Disorder,317,104.4155866
+Back Pain,Depressive Disorder,44,50.46485484
+Low Back Pain,Depressive Disorder,18,28.62757841
+Facial Pain,Depressive Disorder,8,15.77862874
+Headache,Depressive Disorder,97,85.80273271
+Neck Pain,Depressive Disorder,5,9.793960033
+Neuralgia,Depressive Disorder,7,10.76819874
+Sciatica,Depressive Disorder,2,4.338818596
+"Pain, Intractable",Depressive Disorder,38,75.73336811
+Paralysis,Depressive Disorder,3,1.453414132
+Facial Paralysis,Depressive Disorder,1,1.357096912
+Hemiplegia,Depressive Disorder,1,1.294632363
+Ophthalmoplegia,Depressive Disorder,1,1.329847269
+"Supranuclear Palsy, Progressive",Depressive Disorder,4,12.13658973
+Paraplegia,Depressive Disorder,8,10.21983427
+Quadriplegia,Depressive Disorder,9,12.32225703
+Vocal Cord Paralysis,Depressive Disorder,3,5.96333863
+Psychophysiologic Disorders,Depressive Disorder,274,406.2065438
+Seizures,Depressive Disorder,116,98.03936336
+Sensation Disorders,Depressive Disorder,10,3.433219043
+Dizziness,Depressive Disorder,61,81.89075677
+Hearing Disorders,Depressive Disorder,4,2.9400663
+Hearing Loss,Depressive Disorder,3,2.410651634
+Deafness,Depressive Disorder,4,4.914108652
+"Hearing Loss, Bilateral",Depressive Disorder,2,4.423577042
+"Hearing Loss, Sensorineural",Depressive Disorder,6,7.289135163
+Presbycusis,Depressive Disorder,4,14.77357225
+"Hearing Loss, Unilateral",Depressive Disorder,1,3.585179477
+Hyperacusis,Depressive Disorder,1,4.056893971
+Tinnitus,Depressive Disorder,24,47.37680694
+Olfaction Disorders,Depressive Disorder,7,16.01761152
+Somatosensory Disorders,Depressive Disorder,5,5.22765535
+Hyperalgesia,Depressive Disorder,6,14.36466047
+Hyperesthesia,Depressive Disorder,2,5.389728464
+Hypesthesia,Depressive Disorder,6,10.33176626
+Paresthesia,Depressive Disorder,13,17.6542359
+Taste Disorders,Depressive Disorder,5,11.88045786
+Ageusia,Depressive Disorder,1,3.585179477
+Dysgeusia,Depressive Disorder,2,6.944312178
+Vision Disorders,Depressive Disorder,20,13.26978864
+Blindness,Depressive Disorder,5,5.490691775
+Color Vision Defects,Depressive Disorder,4,10.26643959
+Diplopia,Depressive Disorder,1,1.644165299
+"Vision, Low",Depressive Disorder,4,9.02417412
+Sleep Disorders,Depressive Disorder,265,395.6447111
+Sleep Deprivation,Depressive Disorder,284,731.5590901
+"Urinary Bladder, Neurogenic",Depressive Disorder,1,2.078257128
+Vertigo,Depressive Disorder,9,14.36626749
+Voice Disorders,Depressive Disorder,4,6.660979259
+Aphonia,Depressive Disorder,1,3.628854541
+Hoarseness,Depressive Disorder,1,2.216126923
+Abdominal Pain,Depressive Disorder,12,10.18180414
+Arthralgia,Depressive Disorder,5,7.386500002
+Shoulder Pain,Depressive Disorder,1,2.420427386
+Chest Pain,Depressive Disorder,16,17.59297329
+Angina Pectoris,Depressive Disorder,20,29.05366745
+Acute Coronary Syndrome,Depressive Disorder,17,44.16532725
+"Angina, Unstable",Depressive Disorder,16,35.88096288
+"Angina Pectoris, Variant",Depressive Disorder,1,3.265949047
+Toothache,Depressive Disorder,2,5.461164629
+Glossalgia,Depressive Disorder,2,8.033240144
+"Pain, Postoperative",Depressive Disorder,12,20.13426387
+Pelvic Pain,Depressive Disorder,9,18.36970313
+Dysmenorrhea,Depressive Disorder,3,8.280314261
+Aerophagy,Depressive Disorder,1,4.070687293
+Anorexia,Depressive Disorder,19,34.67995167
+Constipation,Depressive Disorder,24,38.25397184
+Diarrhea,Depressive Disorder,13,12.0014457
+Dyspepsia,Depressive Disorder,13,27.06667859
+Encopresis,Depressive Disorder,1,3.80405863
+Halitosis,Depressive Disorder,1,3.241407938
+Heartburn,Depressive Disorder,1,3.176869417
+Hyperphagia,Depressive Disorder,47,112.7679659
+Bulimia,Depressive Disorder,103,284.6772816
+Nausea,Depressive Disorder,81,92.23899901
+Vomiting,Depressive Disorder,17,14.33971531
+Hyperemesis Gravidarum,Depressive Disorder,1,2.875082738
+Anoxia,Depressive Disorder,1,1.001988572
+Cough,Depressive Disorder,2,2.629458302
+Dyspnea,Depressive Disorder,12,12.06266018
+Hypercapnia,Depressive Disorder,2,4.221967644
+Hyperventilation,Depressive Disorder,14,29.47182205
+Hypocapnia,Depressive Disorder,1,3.37061967
+Respiratory Sounds,Depressive Disorder,2,3.278538657
+Sneezing,Depressive Disorder,1,3.356920825
+Ecchymosis,Depressive Disorder,2,4.599962466
+Pruritus,Depressive Disorder,8,11.72753687
+Purpura,Depressive Disorder,1,1.063218606
+"Purpura, Thrombocytopenic, Idiopathic",Depressive Disorder,1,1.933894455
+Nocturia,Depressive Disorder,1,4.172966142
+Polyuria,Depressive Disorder,3,7.082704221
+Prostatism,Depressive Disorder,1,4.658473958
+Albuminuria,Depressive Disorder,1,2.065086665
+Urinary Incontinence,Depressive Disorder,14,22.64541078
+"Urinary Incontinence, Stress",Depressive Disorder,1,2.802175968
+"Urinary Incontinence, Urge",Depressive Disorder,1,4.127845707
+Hirsutism,Depressive Disorder,1,2.483722237
+Asthenia,Stroke,1,2.063219251
+Fever,Stroke,53,32.80369451
+Fever of Unknown Origin,Stroke,1,1.473154917
+Hypothermia,Stroke,12,23.34523458
+Body Weight,Stroke,65,22.29421006
+Birth Weight,Stroke,5,7.035654715
+Weight Gain,Stroke,7,10.40682818
+Weight Loss,Stroke,5,5.000268557
+Cachexia,Stroke,1,1.994724016
+Overweight,Stroke,5,4.119360498
+Obesity,Stroke,83,69.10195309
+"Obesity, Morbid",Stroke,3,5.258819857
+Thinness,Stroke,1,2.67059961
+"Cardiac Output, Low",Stroke,6,12.8567739
+Cyanosis,Stroke,2,3.486819175
+Edema,Stroke,22,13.10931807
+Eye Hemorrhage,Stroke,1,2.752642033
+Fatigue,Stroke,57,64.86674986
+Mental Fatigue,Stroke,6,21.51107686
+Fetal Distress,Stroke,1,2.588451638
+Heart Murmurs,Stroke,1,2.363417131
+Hot Flashes,Stroke,2,6.811421979
+Intermittent Claudication,Stroke,7,15.52812241
+Mobility Limitation,Stroke,30,82.9157131
+Motion Sickness,Stroke,1,3.495323148
+Dyskinesias,Stroke,20,14.95904157
+Ataxia,Stroke,27,32.93081224
+Cerebellar Ataxia,Stroke,5,8.543928115
+Gait Ataxia,Stroke,5,14.01087984
+Athetosis,Stroke,2,5.164324619
+Catalepsy,Stroke,2,7.349049155
+Chorea,Stroke,9,17.93685034
+Dystonia,Stroke,12,18.4333084
+Torticollis,Stroke,1,2.154990923
+Hyperkinesis,Stroke,2,4.682000505
+Hypokinesia,Stroke,2,5.758586542
+Myoclonus,Stroke,4,7.100283478
+Psychomotor Agitation,Stroke,6,13.45536108
+Synkinesis,Stroke,1,4.658473958
+Tics,Stroke,2,7.444761198
+Tremor,Stroke,13,22.61158623
+"Gait Disorders, Neurologic",Stroke,144,251.2462349
+Apraxias,Stroke,41,97.73473681
+Alien Hand Syndrome,Stroke,1,5.639303211
+Catatonia,Stroke,1,2.701906514
+Communication Disorders,Stroke,12,11.86227017
+Language Disorders,Stroke,42,45.26493983
+Agraphia,Stroke,4,13.40056455
+Anomia,Stroke,14,47.88139618
+Dyslexia,Stroke,5,13.38736245
+"Dyslexia, Acquired",Stroke,7,24.63327772
+"Alexia, Pure",Stroke,1,4.658473958
+Language Development Disorders,Stroke,3,7.459701566
+Speech Disorders,Stroke,40,46.11666244
+Aphasia,Stroke,255,461.7187627
+"Aphasia, Broca",Stroke,30,93.32734348
+"Aphasia, Conduction",Stroke,1,5.089256874
+"Aphasia, Primary Progressive",Stroke,1,4.49720581
+"Aphasia, Wernicke",Stroke,17,59.42049352
+Articulation Disorders,Stroke,8,15.09959166
+Dysarthria,Stroke,27,54.71779818
+Mutism,Stroke,3,8.767210184
+Stuttering,Stroke,4,13.29389157
+Learning Disorders,Stroke,2,3.470624755
+Confusion,Stroke,18,27.1610678
+Delirium,Stroke,23,47.93096844
+Consciousness Disorders,Stroke,20,17.54258552
+Unconsciousness,Stroke,8,7.423782634
+Coma,Stroke,21,27.55378107
+Persistent Vegetative State,Stroke,3,9.285239952
+Syncope,Stroke,4,5.96356571
+"Syncope, Vasovagal",Stroke,1,3.182567438
+Memory Disorders,Stroke,88,129.1837895
+Amnesia,Stroke,9,19.54337528
+"Amnesia, Anterograde",Stroke,1,4.070687293
+"Amnesia, Retrograde",Stroke,1,3.398593522
+"Amnesia, Transient Global",Stroke,3,12.29657451
+Korsakoff Syndrome,Stroke,1,4.029865299
+Mental Retardation,Stroke,3,2.716340052
+Perceptual Disorders,Stroke,200,277.2114732
+Agnosia,Stroke,40,101.4484968
+Prosopagnosia,Stroke,3,12.61265606
+Auditory Perceptual Disorders,Stroke,7,22.00342708
+Hallucinations,Stroke,9,15.50959366
+Illusions,Stroke,7,21.62900628
+Phantom Limb,Stroke,3,9.688078799
+Psychomotor Disorders,Stroke,31,41.28087074
+"Apraxia, Ideomotor",Stroke,8,32.90597526
+Muscle Hypertonia,Stroke,16,23.68672204
+Muscle Rigidity,Stroke,2,4.803865607
+Muscle Spasticity,Stroke,221,381.7289254
+Muscle Hypotonia,Stroke,3,4.969533404
+Muscle Weakness,Stroke,643,638.4932655
+Muscular Atrophy,Stroke,13,18.990683
+Spasm,Stroke,7,9.570942301
+Hemifacial Spasm,Stroke,1,3.241407938
+Trismus,Stroke,3,7.793881279
+Pain,Stroke,114,37.55008478
+Back Pain,Stroke,3,3.440785558
+Facial Pain,Stroke,2,3.944657185
+Headache,Stroke,70,61.91949783
+Neck Pain,Stroke,17,33.29946411
+Neuralgia,Stroke,10,15.38314106
+"Pain, Intractable",Stroke,11,21.92281708
+Paralysis,Stroke,44,21.31674061
+Facial Paralysis,Stroke,26,35.2845197
+Hemiplegia,Stroke,364,471.2461801
+Ophthalmoplegia,Stroke,7,9.308930884
+"Supranuclear Palsy, Progressive",Stroke,1,3.034147433
+Paraplegia,Stroke,9,11.49731355
+Brown-Sequard Syndrome,Stroke,1,3.535169057
+Pseudobulbar Palsy,Stroke,2,8.31539734
+Quadriplegia,Stroke,10,13.69139669
+Respiratory Paralysis,Stroke,3,7.468260773
+Vocal Cord Paralysis,Stroke,2,3.975559087
+Paresis,Stroke,580,746.8867546
+Paraparesis,Stroke,2,4.471772145
+"Paraparesis, Spastic",Stroke,2,6.342407359
+Psychophysiologic Disorders,Stroke,1,1.482505634
+Pupil Disorders,Stroke,3,5.23836988
+Horner Syndrome,Stroke,6,13.25775815
+"Reflex, Abnormal",Stroke,16,22.51409509
+"Reflex, Babinski",Stroke,1,3.527071847
+Seizures,Stroke,132,111.5620342
+Sensation Disorders,Stroke,58,19.91267045
+Dizziness,Stroke,28,37.58919983
+Hearing Disorders,Stroke,3,2.205049725
+Hearing Loss,Stroke,3,2.410651634
+Deafness,Stroke,6,7.371162978
+"Hearing Loss, High-Frequency",Stroke,1,3.105606397
+"Hearing Loss, Sensorineural",Stroke,5,6.074279302
+"Hearing Loss, Central",Stroke,1,3.253603211
+"Hearing Loss, Sudden",Stroke,2,5.170604059
+Tinnitus,Stroke,3,5.922100868
+Olfaction Disorders,Stroke,1,2.288230217
+Somatosensory Disorders,Stroke,30,31.3659321
+Hyperalgesia,Stroke,11,26.33521086
+Hypesthesia,Stroke,11,18.94157149
+Paresthesia,Stroke,18,24.44432663
+Taste Disorders,Stroke,5,11.88045786
+Dysgeusia,Stroke,2,6.944312178
+Vision Disorders,Stroke,55,36.49191875
+Blindness,Stroke,10,10.98138355
+Amaurosis Fugax,Stroke,20,70.2214301
+"Blindness, Cortical",Stroke,4,11.77870412
+Diplopia,Stroke,12,19.72998359
+Hemianopsia,Stroke,47,97.85645337
+Scotoma,Stroke,3,7.143620019
+"Vision, Low",Stroke,2,4.51208706
+Sleep Disorders,Stroke,22,32.84597602
+Sleep Deprivation,Stroke,1,2.575912289
+"Urinary Bladder, Neurogenic",Stroke,8,16.62605703
+Vertigo,Stroke,20,31.92503886
+Voice Disorders,Stroke,6,9.991468888
+Abdominal Pain,Stroke,2,1.696967356
+Arthralgia,Stroke,4,5.909200001
+Shoulder Pain,Stroke,50,121.0213693
+Chest Pain,Stroke,10,10.9956083
+Angina Pectoris,Stroke,16,23.24293396
+Acute Coronary Syndrome,Stroke,24,62.35105023
+"Angina, Unstable",Stroke,12,26.91072216
+Constipation,Stroke,8,12.75132395
+Diarrhea,Stroke,2,1.846376262
+Gagging,Stroke,9,33.59009606
+Hiccup,Stroke,2,5.907451732
+Hyperphagia,Stroke,1,2.399318423
+Nausea,Stroke,7,7.971271519
+Vomiting,Stroke,11,9.27863932
+Hematemesis,Stroke,1,2.085861728
+Hyperemesis Gravidarum,Stroke,1,2.875082738
+Anoxia,Stroke,49,49.09744001
+Apnea,Stroke,5,9.382769542
+Cheyne-Stokes Respiration,Stroke,5,18.18911605
+Cough,Stroke,15,19.72093727
+Dyspnea,Stroke,11,11.0574385
+Hemoptysis,Stroke,1,1.697074364
+Hypercapnia,Stroke,3,6.332951466
+Hyperoxia,Stroke,6,17.69514426
+Hyperventilation,Stroke,4,8.420520587
+Hypoventilation,Stroke,1,2.521353305
+Respiratory Aspiration,Stroke,12,39.9608829
+Respiratory Sounds,Stroke,1,1.639269328
+Snoring,Stroke,9,24.84094278
+"Jaundice, Obstructive",Stroke,1,2.498028632
+Pruritus,Stroke,1,1.465942108
+"Purpura, Schoenlein-Henoch",Stroke,1,1.998214421
+"Purpura, Thrombocytopenic, Idiopathic",Stroke,3,5.801683365
+"Purpura, Thrombotic Thrombocytopenic",Stroke,6,13.10423165
+Nocturia,Stroke,2,8.345932284
+Proteinuria,Stroke,10,12.48977774
+Albuminuria,Stroke,27,55.75733996
+"Urinary Bladder, Overactive",Stroke,3,10.6299971
+Urinary Incontinence,Stroke,49,79.25893774
+"Urinary Incontinence, Urge",Stroke,2,8.255691414
+"Aging, Premature",Ischemia,1,3.46455149
+Fever,Ischemia,13,8.04618922
+Fever of Unknown Origin,Ischemia,1,1.473154917
+Hypothermia,Ischemia,34,66.14483132
+Body Weight,Ischemia,56,19.20731944
+Birth Weight,Ischemia,4,5.628523772
+Weight Gain,Ischemia,3,4.460069222
+Weight Loss,Ischemia,13,13.00069825
+Fetal Weight,Ischemia,1,3.576668788
+Overweight,Ischemia,1,0.8238721
+Obesity,Ischemia,26,21.64639494
+"Obesity, Morbid",Ischemia,2,3.505879905
+Thinness,Ischemia,1,2.67059961
+"Cardiac Output, High",Ischemia,1,3.836493906
+"Cardiac Output, Low",Ischemia,9,19.28516085
+Cyanosis,Ischemia,14,24.40773423
+Edema,Ischemia,153,91.1693484
+"Edema, Cardiac",Ischemia,1,3.519039675
+Hydrops Fetalis,Ischemia,1,2.341000253
+Eye Manifestations,Ischemia,1,1.507876974
+Eye Hemorrhage,Ischemia,1,2.752642033
+Fatigue,Ischemia,15,17.07019733
+Fetal Distress,Ischemia,3,7.765354915
+Heart Murmurs,Ischemia,1,2.363417131
+Hypergammaglobulinemia,Ischemia,3,5.037375491
+Intermittent Claudication,Ischemia,361,800.8074559
+Mobility Limitation,Ischemia,5,13.81928552
+Neurologic Manifestations,Ischemia,12,0.839296958
+Decerebrate State,Ischemia,13,38.28078839
+Ataxia,Ischemia,5,6.098298564
+Cerebellar Ataxia,Ischemia,1,1.708785623
+Torticollis,Ischemia,1,2.154990923
+Hyperkinesis,Ischemia,2,4.682000505
+Hypokinesia,Ischemia,1,2.879293271
+Myoclonus,Ischemia,2,3.550141739
+Psychomotor Agitation,Ischemia,1,2.24256018
+Tremor,Ischemia,1,1.739352787
+"Gait Disorders, Neurologic",Ischemia,1,1.74476552
+Apraxias,Ischemia,1,2.383774069
+Agraphia,Ischemia,1,3.350141138
+"Dyslexia, Acquired",Ischemia,2,7.03807935
+Speech Disorders,Ischemia,2,2.305833122
+Aphasia,Ischemia,2,3.621323629
+Dysarthria,Ischemia,2,4.053170236
+Confusion,Ischemia,1,1.508948211
+Consciousness Disorders,Ischemia,1,0.877129276
+Unconsciousness,Ischemia,2,1.855945658
+Coma,Ischemia,10,13.12084813
+Syncope,Ischemia,1,1.490891428
+Memory Disorders,Ischemia,4,5.871990431
+Amnesia,Ischemia,1,2.171486142
+Mental Retardation,Ischemia,3,2.716340052
+Perceptual Disorders,Ischemia,1,1.386057366
+Phantom Limb,Ischemia,1,3.2293596
+Muscle Cramp,Ischemia,3,6.727680539
+Muscle Hypertonia,Ischemia,1,1.480420128
+Muscle Rigidity,Ischemia,6,14.41159682
+Muscle Spasticity,Ischemia,7,12.09096144
+Muscle Hypotonia,Ischemia,7,11.59557794
+Muscle Weakness,Ischemia,27,26.81075921
+Muscular Atrophy,Ischemia,24,35.05972247
+Myotonia,Ischemia,1,3.054048587
+Spasm,Ischemia,45,61.52748622
+Tetany,Ischemia,4,9.524826692
+Pain,Ischemia,276,90.91073158
+Back Pain,Ischemia,4,4.587714077
+Low Back Pain,Ischemia,5,7.952105114
+Facial Pain,Ischemia,3,5.916985777
+Headache,Ischemia,11,9.730206802
+Neuralgia,Ischemia,3,4.614942318
+Sciatica,Ischemia,7,15.18586509
+"Pain, Intractable",Ischemia,9,17.93685034
+"Pain, Referred",Ischemia,1,4.00354799
+Paralysis,Ischemia,57,27.61486852
+Facial Paralysis,Ischemia,18,24.42774441
+Gastroparesis,Ischemia,2,6.59499481
+Hemiplegia,Ischemia,8,10.3570589
+Ophthalmoplegia,Ischemia,20,26.59694538
+Paraplegia,Ischemia,144,183.9570168
+Quadriplegia,Ischemia,9,12.32225703
+Respiratory Paralysis,Ischemia,1,2.489420258
+Vocal Cord Paralysis,Ischemia,3,5.96333863
+Paresis,Ischemia,22,28.33018724
+Paraparesis,Ischemia,1,2.235886073
+Pupil Disorders,Ischemia,1,1.746123293
+Horner Syndrome,Ischemia,1,2.209626358
+Tonic Pupil,Ischemia,1,3.928512804
+"Reflex, Abnormal",Ischemia,9,12.66417849
+Seizures,Ischemia,13,10.98717003
+Sensation Disorders,Ischemia,4,1.373287617
+Dizziness,Ischemia,8,10.73977138
+Hearing Disorders,Ischemia,2,1.47003315
+Hearing Loss,Ischemia,6,4.821303268
+Deafness,Ischemia,4,4.914108652
+"Hearing Loss, Bilateral",Ischemia,1,2.211788521
+"Hearing Loss, Conductive",Ischemia,1,2.267420217
+"Hearing Loss, Sensorineural",Ischemia,14,17.00798205
+"Hearing Loss, Central",Ischemia,1,3.253603211
+"Hearing Loss, Noise-Induced",Ischemia,5,15.97030909
+Presbycusis,Ischemia,1,3.693393062
+"Hearing Loss, Sudden",Ischemia,10,25.85302029
+Tinnitus,Ischemia,3,5.922100868
+Hyperalgesia,Ischemia,9,21.5469907
+Hyperesthesia,Ischemia,4,10.77945693
+Hypesthesia,Ischemia,9,15.4976494
+Paresthesia,Ischemia,31,42.09856253
+Vision Disorders,Ischemia,61,40.47285534
+Blindness,Ischemia,87,95.53803689
+Amaurosis Fugax,Ischemia,3,10.53321452
+"Blindness, Cortical",Ischemia,1,2.94467603
+Color Vision Defects,Ischemia,1,2.566609896
+Diplopia,Ischemia,5,8.220826494
+Hemianopsia,Ischemia,5,10.410261
+Scotoma,Ischemia,12,28.57448008
+"Vision, Low",Ischemia,7,15.79230471
+Sleep Disorders,Ischemia,1,1.49299891
+Sleep Deprivation,Ischemia,1,2.575912289
+"Urinary Bladder, Neurogenic",Ischemia,1,2.078257128
+Vertigo,Ischemia,6,9.577511659
+Voice Disorders,Ischemia,1,1.665244815
+Oral Hemorrhage,Ischemia,1,2.575912289
+Abdominal Pain,Ischemia,128,108.6059108
+"Abdomen, Acute",Ischemia,63,90.56880822
+Colic,Ischemia,5,10.67373658
+Renal Colic,Ischemia,1,4.881617509
+Arthralgia,Ischemia,1,1.4773
+Chest Pain,Ischemia,9,9.896047473
+Angina Pectoris,Ischemia,26,37.76976769
+Acute Coronary Syndrome,Ischemia,3,7.793881279
+"Angina, Unstable",Ischemia,6,13.45536108
+Glossalgia,Ischemia,1,4.016620072
+"Pain, Postoperative",Ischemia,11,18.45640854
+Pelvic Pain,Ischemia,1,2.041078125
+Anorexia,Ischemia,2,3.650521228
+Constipation,Ischemia,9,14.34523944
+Diarrhea,Ischemia,30,27.69564393
+"Diarrhea, Infantile",Ischemia,1,2.281245322
+Dyspepsia,Ischemia,2,4.164104399
+Bulimia,Ischemia,1,2.763857103
+Nausea,Ischemia,2,2.277506148
+Vomiting,Ischemia,10,8.435126654
+Hematemesis,Ischemia,9,18.77275555
+Anoxia,Ischemia,357,357.7099201
+Fetal Hypoxia,Ischemia,8,21.87380245
+Apnea,Ischemia,1,1.876553908
+Cheyne-Stokes Respiration,Ischemia,1,3.637823211
+Cough,Ischemia,2,2.629458302
+Dyspnea,Ischemia,2,2.010443363
+Hemoptysis,Ischemia,1,1.697074364
+Hypercapnia,Ischemia,17,35.88672497
+Hyperoxia,Ischemia,13,38.33947924
+Hyperventilation,Ischemia,5,10.52565073
+Skin Manifestations,Ischemia,3,1.837071654
+Ecchymosis,Ischemia,1,2.299981233
+Jaundice,Ischemia,6,8.728270626
+"Jaundice, Obstructive",Ischemia,2,4.996057264
+Livedo Reticularis,Ischemia,2,8.19771634
+Pallor,Ischemia,1,3.535169057
+Pruritus,Ischemia,1,1.465942108
+Tinea Pedis,Ischemia,1,3.472156089
+Purpura,Ischemia,8,8.505748847
+"Purpura, Schoenlein-Henoch",Ischemia,9,17.98392979
+"Purpura, Thrombotic Thrombocytopenic",Ischemia,4,8.736154432
+Waterhouse-Friderichsen Syndrome,Ischemia,1,3.683914318
+Oliguria,Ischemia,15,39.21018203
+Polyuria,Ischemia,3,7.082704221
+Prostatism,Ischemia,2,9.316947916
+Proteinuria,Ischemia,20,24.97955547
+Albuminuria,Ischemia,8,16.52069332
+Hemoglobinuria,Ischemia,1,2.883521607
+"Urinary Bladder, Overactive",Ischemia,2,7.086664735
+Urinary Incontinence,Ischemia,11,17.79282276

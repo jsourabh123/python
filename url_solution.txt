@@ -1,0 +1,2 @@
+url for solution of lecture is :-
+https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/

@@ -1,0 +1,304 @@
+Symptom,SymtomID
+Asthenia,1
+Fever,2
+Body Weight,3
+Birth Weight,4
+Weight Gain,5
+Weight Loss,6
+Overweight,7
+Obesity,8
+"Obesity, Morbid",9
+Cyanosis,10
+Edema,11
+Fatigue,12
+Heart Murmurs,13
+Hypergammaglobulinemia,14
+Dystonia,15
+Torticollis,16
+Psychomotor Agitation,17
+"Akathisia, Drug-Induced",18
+Tremor,19
+Apraxias,20
+Language Development Disorders,21
+Speech Disorders,22
+Aphasia,23
+Dysarthria,24
+Learning Disorders,25
+Consciousness Disorders,26
+Unconsciousness,27
+Coma,28
+Syncope,29
+Mental Retardation,30
+Perceptual Disorders,31
+Psychomotor Disorders,32
+Muscle Hypertonia,33
+Muscle Spasticity,34
+Muscle Hypotonia,35
+Spasm,36
+Pain,37
+Low Back Pain,38
+Facial Pain,39
+Headache,40
+Neck Pain,41
+Neuralgia,42
+"Pain, Referred",43
+Paralysis,44
+Gastroparesis,45
+Hemiplegia,46
+Paraplegia,47
+Quadriplegia,48
+Vocal Cord Paralysis,49
+"Paraparesis, Spastic",50
+Psychophysiologic Disorders,51
+"Reflex, Abnormal",52
+Seizures,53
+Sensation Disorders,54
+Dizziness,55
+Hearing Disorders,56
+Hearing Loss,57
+"Hearing Loss, Sensorineural",58
+Olfaction Disorders,59
+Somatosensory Disorders,60
+Hyperalgesia,61
+Hypesthesia,62
+Sleep Disorders,63
+Sleep Deprivation,64
+Voice Disorders,65
+Dysphonia,66
+Hoarseness,67
+Abdominal Pain,68
+"Abdomen, Acute",69
+Colic,70
+Chest Pain,71
+Angina Pectoris,72
+"Angina, Unstable",73
+Earache,74
+"Pain, Postoperative",75
+Aerophagy,76
+Anorexia,77
+Constipation,78
+Diarrhea,79
+Dyspepsia,80
+Eructation,81
+Flatulence,82
+Gagging,83
+Halitosis,84
+Heartburn,85
+Hiccup,86
+Hyperphagia,87
+Bulimia,88
+Nausea,89
+Postoperative Nausea and Vomiting,90
+Vomiting,91
+Hematemesis,92
+Morning Sickness,93
+Anoxia,94
+Apnea,95
+Cough,96
+Dyspnea,97
+"Dyspnea, Paroxysmal",98
+Hemoptysis,99
+Hypercapnia,100
+Hypoventilation,101
+Respiratory Aspiration,102
+Respiratory Sounds,103
+Snoring,104
+"Purpura, Thrombocytopenic",105
+"Urinary Bladder, Overactive",106
+Fever of Unknown Origin,107
+Hypothermia,108
+Eye Manifestations,109
+Neurologic Manifestations,110
+Cerebellar Ataxia,111
+Muscle Weakness,112
+Trismus,113
+"Pain, Intractable",114
+Respiratory Paralysis,115
+Tinnitus,116
+Vision Disorders,117
+Blindness,118
+Photophobia,119
+Vertigo,120
+Arthralgia,121
+"Diarrhea, Infantile",122
+Hyperoxia,123
+Hyperventilation,124
+Mouth Breathing,125
+Skin Manifestations,126
+Jaundice,127
+Purpura,128
+"Purpura, Hyperglobulinemic",129
+"Purpura, Thrombocytopenic, Idiopathic",130
+Polyuria,131
+Proteinuria,132
+Cachexia,133
+"Cardiac Output, Low",134
+Hydrops Fetalis,135
+Fetal Distress,136
+Ataxia,137
+Athetosis,138
+Confusion,139
+Delirium,140
+Memory Disorders,141
+Agnosia,142
+Hallucinations,143
+Myotonia,144
+Back Pain,145
+Facial Paralysis,146
+Paresis,147
+Deafness,148
+Paresthesia,149
+Diplopia,150
+Oral Manifestations,151
+Shoulder Pain,152
+Pelvic Pain,153
+Hyperemesis Gravidarum,154
+Ecchymosis,155
+"Jaundice, Obstructive",156
+Pruritus,157
+"Purpura, Schoenlein-Henoch",158
+"Purpura, Thrombotic Thrombocytopenic",159
+Oliguria,160
+Albuminuria,161
+Hemoglobinuria,162
+Virilism,163
+Hirsutism,164
+Fetal Macrosomia,165
+Emaciation,166
+Thinness,167
+Feminization,168
+Flushing,169
+Intermittent Claudication,170
+Mobility Limitation,171
+Dyskinesias,172
+Chorea,173
+Myoclonus,174
+"Gait Disorders, Neurologic",175
+Catatonia,176
+Language Disorders,177
+Amnesia,178
+Muscle Rigidity,179
+Muscular Atrophy,180
+Tetany,181
+Sciatica,182
+Ophthalmoplegia,183
+"Ophthalmoplegia, Chronic Progressive External",184
+Pupil Disorders,185
+Miosis,186
+"Hearing Loss, Bilateral",187
+"Hearing Loss, High-Frequency",188
+Hyperesthesia,189
+Taste Disorders,190
+Ageusia,191
+Amblyopia,192
+Color Vision Defects,193
+Hemianopsia,194
+"Vision, Low",195
+"Urinary Bladder, Neurogenic",196
+Oral Hemorrhage,197
+Acute Coronary Syndrome,198
+Toothache,199
+Necrolytic Migratory Erythema,200
+Urinary Incontinence,201
+"Urinary Incontinence, Urge",202
+Chills,203
+Decerebrate State,204
+Meningism,205
+Muscle Cramp,206
+"Hearing Loss, Conductive",207
+Scotoma,208
+Aphonia,209
+Dysmenorrhea,210
+"Aging, Premature",211
+Fetal Weight,212
+"Cardiac Output, High",213
+"Edema, Cardiac",214
+Eye Hemorrhage,215
+Mental Fatigue,216
+Systolic Murmurs,217
+Hot Flashes,218
+Cerebrospinal Fluid Rhinorrhea,219
+Gait Ataxia,220
+Hyperkinesis,221
+Hypokinesia,222
+Neurobehavioral Manifestations,223
+Alien Hand Syndrome,224
+Communication Disorders,225
+Agraphia,226
+Anomia,227
+Dyslexia,228
+"Dyslexia, Acquired",229
+"Aphasia, Broca",230
+"Aphasia, Wernicke",231
+Articulation Disorders,232
+Echolalia,233
+Mutism,234
+Stuttering,235
+Persistent Vegetative State,236
+Stupor,237
+"Syncope, Vasovagal",238
+Lethargy,239
+"Amnesia, Anterograde",240
+"Amnesia, Retrograde",241
+"Amnesia, Transient Global",242
+Korsakoff Syndrome,243
+Gerstmann Syndrome,244
+Prosopagnosia,245
+Auditory Perceptual Disorders,246
+Illusions,247
+Phantom Limb,248
+"Apraxia, Ideomotor",249
+Fasciculation,250
+Sarcopenia,251
+Myokymia,252
+Orthostatic Intolerance,253
+Paraparesis,254
+Anisocoria,255
+"Reflex, Babinski",256
+"Hearing Loss, Functional",257
+"Hearing Loss, Central",258
+Presbycusis,259
+"Hearing Loss, Sudden",260
+"Hearing Loss, Unilateral",261
+Dysgeusia,262
+"Blindness, Cortical",263
+"Angina Pectoris, Variant",264
+Flank Pain,265
+Fetal Hypoxia,266
+Cheyne-Stokes Respiration,267
+Hypocapnia,268
+Sneezing,269
+Pallor,270
+Tinea Pedis,271
+Waterhouse-Friderichsen Syndrome,272
+Hypercalciuria,273
+Nocturia,274
+Prostatism,275
+Gait Apraxia,276
+"Aphasia, Primary Progressive",277
+Primary Progressive Nonfluent Aphasia,278
+"Supranuclear Palsy, Progressive",279
+"Urinary Incontinence, Stress",280
+Motion Sickness,281
+Cerebrospinal Fluid Otorrhea,282
+Catalepsy,283
+Tics,284
+Hemifacial Spasm,285
+"Neuralgia, Postherpetic",286
+Pseudobulbar Palsy,287
+"Hearing Loss, Noise-Induced",288
+Encopresis,289
+Hyperacusis,290
+Horner Syndrome,291
+Brown-Sequard Syndrome,292
+"Hearing Loss, Mixed Conductive-Sensorineural",293
+"Vomiting, Anticipatory",294
+Cafe-au-Lait Spots,295
+Amaurosis Fugax,296
+Glossalgia,297
+Synkinesis,298
+"Alexia, Pure",299
+"Aphasia, Conduction",300
+Tonic Pupil,301
+Renal Colic,302
+Livedo Reticularis,303
